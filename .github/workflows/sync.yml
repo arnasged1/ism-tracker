@@ -1,0 +1,43 @@
+name: Sync ISM Tracker
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour on the hour
+  workflow_dispatch:        # also allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        env:
+          KONSULT_USER: ${{ secrets.KONSULT_USER }}
+          KONSULT_PASS: ${{ secrets.KONSULT_PASS }}
+          EMAIL_FROM:   ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASS:   ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO:     ${{ secrets.EMAIL_TO }}
+          TRACKER_URL:  ${{ secrets.TRACKER_URL }}
+        run: python scrape.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name  "ISM Bot"
+          git config user.email "ism-bot@shipping.fo"
+          git add index.html previous_findings.json
+          git diff --staged --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
