@@ -84,7 +84,7 @@ def login():
             break
 
     if not form:
-        print('  No login form found — will attempt blind POST')
+        print('  No login form found -- will attempt blind POST')
 
     data = {}
     action = BASE_URL + '/index.php'
@@ -132,12 +132,7 @@ def login():
         r3 = session.post(BASE_URL + '/index.php', data=data2, allow_redirects=True, timeout=30)
         print(f'  Retry URL: {r3.url}  Status: {r3.status_code}')
         logged_in = _is_logged_in(r3.text)
-        print('  Login retry: OK' if logged_in else '  Login FAILED — verify KONSULT_USER / KONSULT_PASS secrets')
-
-    if logged_in:
-        check = session.get(BASE_URL + '/index.php/billefjord-report-a-notification', timeout=30)
-        has_table = '<table' in check.text.lower()
-        print(f'  Auth check: billefjord has_table={has_table}, url={check.url}')
+        print('  Login retry: OK' if logged_in else '  Login FAILED -- verify KONSULT_USER / KONSULT_PASS secrets')
 
     return session, logged_in
 
@@ -145,7 +140,6 @@ def scrape_vessel(session, vessel_name, path):
     url = BASE_URL + path
 
     r = session.get(url, timeout=30)
-    print(f'  {vessel_name}: GET {r.url} ({r.status_code})')
     soup = BeautifulSoup(r.text, 'html.parser')
 
     for form in soup.find_all('form'):
@@ -160,23 +154,13 @@ def scrape_vessel(session, vessel_name, path):
             if not action.startswith('http'):
                 action = BASE_URL + action
             r = session.post(action, data=data, timeout=30)
-            print(f'  {vessel_name}: limit=0 POST {r.url} ({r.status_code})')
             break
 
     soup = BeautifulSoup(r.text, 'html.parser')
-    all_tables = soup.find_all('table')
-    print(f'  {vessel_name}: {len(all_tables)} table(s) on page')
-    table = all_tables[0] if all_tables else None
+    table = soup.find('table')
     if not table:
-        preview = soup.get_text(' ', strip=True)[:200]
-        print(f'  {vessel_name}: no table — preview: {preview}')
+        print(f'  {vessel_name}: no table found')
         return []
-
-    rows = table.find_all('tr')
-    print(f'  {vessel_name}: table rows={len(rows)}')
-    if len(rows) > 1:
-        sample = [td.get_text(strip=True)[:25] for td in rows[1].find_all('td')]
-        print(f'  {vessel_name}: row1={sample}')
 
     findings = []
     today = datetime.date.today().isoformat()
@@ -186,7 +170,9 @@ def scrape_vessel(session, vessel_name, path):
         if len(cells) < 5:
             continue
 
-        offset = 1 if re.match(r'^d+$', cells[0].strip()) else 0
+        # offset=1 if first cell is empty OR a pure number (ID col); else 0
+        first = cells[0].strip()
+        offset = 1 if (not first or re.match(r'^[0-9]+$', first)) else 0
         if offset + 4 >= len(cells):
             continue
 
@@ -247,7 +233,7 @@ def find_new(new_all, previous_all):
 
 def send_email(new_findings):
     if not EMAIL_FROM or not EMAIL_TO or not EMAIL_PASS:
-        print('Email secrets not configured — skipping notification')
+        print('Email secrets not configured -- skipping notification')
         return
 
     subject = f'ISM Alert: {len(new_findings)} new finding(s) across fleet'
@@ -262,27 +248,23 @@ def send_email(new_findings):
             f'<td style="padding:8px;border-bottom:1px solid #eee;color:{color}">{f["status"]}</td></tr>'
         )
 
-    html_body = f"""
-    <div style="font-family:Arial,sans-serif;max-width:700px">
-      <h2 style="color:#1a3a5c">ISM Tracker - New Findings Detected</h2>
-      <p><strong>{len(new_findings)} new finding(s)</strong> added to the system:</p>
-      <table style="width:100%;border-collapse:collapse;font-size:14px">
-        <tr style="background:#1a3a5c;color:#fff">
-          <th style="padding:8px;text-align:left">Type</th>
-          <th style="padding:8px;text-align:left">Vessel</th>
-          <th style="padding:8px;text-align:left">Title</th>
-          <th style="padding:8px;text-align:left">Raised</th>
-          <th style="padding:8px;text-align:left">Status</th>
-        </tr>
-        {rows}
-      </table>
-      <p style="margin-top:20px">
-        <a href="{TRACKER_URL}" style="background:#1a5ea8;color:#fff;padding:10px 20px;text-decoration:none;border-radius:5px">
-          Open Tracker
-        </a>
-      </p>
-    </div>
-    """
+    html_body = (
+        '<div style="font-family:Arial,sans-serif;max-width:700px">'
+        '<h2 style="color:#1a3a5c">ISM Tracker - New Findings Detected</h2>'
+        f'<p><strong>{len(new_findings)} new finding(s)</strong> added to the system:</p>'
+        '<table style="width:100%;border-collapse:collapse;font-size:14px">'
+        '<tr style="background:#1a3a5c;color:#fff">'
+        '<th style="padding:8px;text-align:left">Type</th>'
+        '<th style="padding:8px;text-align:left">Vessel</th>'
+        '<th style="padding:8px;text-align:left">Title</th>'
+        '<th style="padding:8px;text-align:left">Raised</th>'
+        '<th style="padding:8px;text-align:left">Status</th>'
+        '</tr>'
+        + rows +
+        '</table>'
+        f'<p style="margin-top:20px"><a href="{TRACKER_URL}" style="background:#1a5ea8;color:#fff;padding:10px 20px;text-decoration:none;border-radius:5px">Open Tracker</a></p>'
+        '</div>'
+    )
 
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
@@ -325,7 +307,7 @@ def update_html(all_findings):
 
     seed_json = json.dumps(all_findings, separators=(',', ':'))
     ts_key = f"'ism_v{int(datetime.datetime.utcnow().timestamp())}'"
-    new_html = re.sub(r"'ism_v[\w]+'", ts_key,
+    new_html = re.sub(r"'ism_v[A-Za-z0-9_]+'", ts_key,
                       html[:start] + 'const SEED = ' + seed_json + html[end:])
 
     with open(INDEX_HTML, 'w', encoding='utf-8') as fh:
