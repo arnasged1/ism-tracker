@@ -11,7 +11,6 @@ EMAIL_PASS = os.environ.get('EMAIL_PASS', '')
 EMAIL_TO   = os.environ.get('EMAIL_TO', '')
 TRACKER_URL = os.environ.get('TRACKER_URL', 'https://ism-tracker.vercel.app/#dashboard')
 
-# Always resolve paths relative to this script file
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INDEX_HTML = os.path.join(SCRIPT_DIR, 'index.html')
 PREV_JSON  = os.path.join(SCRIPT_DIR, 'previous_findings.json')
@@ -41,7 +40,6 @@ def parse_date(s):
     except:
         return ''
 
-# Login
 def _is_logged_in(text):
     low = text.lower()
     return ('log out' in low or 'logout' in low or
@@ -86,7 +84,7 @@ def login():
             break
 
     if not form:
-        print('  No login form found on any candidate page — will attempt blind POST')
+        print('  No login form found — will attempt blind POST')
 
     data = {}
     action = BASE_URL + '/index.php'
@@ -110,7 +108,7 @@ def login():
     data['return']   = 'aW5kZXgucGhw'
 
     debug = {k: ('***' if 'pass' in k.lower() else v) for k, v in data.items()}
-    print(f'  POST to {action} with fields: {list(debug.keys())}')
+    print(f'  POST to {action} fields: {list(debug.keys())}')
 
     r = session.post(action, data=data, allow_redirects=True, timeout=30)
     print(f'  Response URL: {r.url}  Status: {r.status_code}')
@@ -119,7 +117,7 @@ def login():
     print('  Login: OK' if logged_in else '  Login attempt 1 failed')
 
     if not logged_in:
-        print('  Retrying login with fresh CSRF token...')
+        print('  Retrying with fresh CSRF token...')
         r2 = session.get(BASE_URL + '/index.php?option=com_users&view=login', timeout=30)
         soup2 = BeautifulSoup(r2.text, 'html.parser')
         data2 = {
@@ -132,17 +130,22 @@ def login():
         }
         data2.update(_extract_csrf(soup2))
         r3 = session.post(BASE_URL + '/index.php', data=data2, allow_redirects=True, timeout=30)
-        print(f'  Retry response URL: {r3.url}  Status: {r3.status_code}')
+        print(f'  Retry URL: {r3.url}  Status: {r3.status_code}')
         logged_in = _is_logged_in(r3.text)
         print('  Login retry: OK' if logged_in else '  Login FAILED — verify KONSULT_USER / KONSULT_PASS secrets')
 
+    if logged_in:
+        check = session.get(BASE_URL + '/index.php/billefjord-report-a-notification', timeout=30)
+        has_table = '<table' in check.text.lower()
+        print(f'  Auth check: billefjord has_table={has_table}, url={check.url}')
+
     return session, logged_in
 
-# Scrape one vessel
 def scrape_vessel(session, vessel_name, path):
     url = BASE_URL + path
 
     r = session.get(url, timeout=30)
+    print(f'  {vessel_name}: GET {r.url} ({r.status_code})')
     soup = BeautifulSoup(r.text, 'html.parser')
 
     for form in soup.find_all('form'):
@@ -157,13 +160,23 @@ def scrape_vessel(session, vessel_name, path):
             if not action.startswith('http'):
                 action = BASE_URL + action
             r = session.post(action, data=data, timeout=30)
+            print(f'  {vessel_name}: limit=0 POST {r.url} ({r.status_code})')
             break
 
     soup = BeautifulSoup(r.text, 'html.parser')
-    table = soup.find('table')
+    all_tables = soup.find_all('table')
+    print(f'  {vessel_name}: {len(all_tables)} table(s) on page')
+    table = all_tables[0] if all_tables else None
     if not table:
-        print(f'  {vessel_name}: no table found (login required or page structure changed)')
+        preview = soup.get_text(' ', strip=True)[:200]
+        print(f'  {vessel_name}: no table — preview: {preview}')
         return []
+
+    rows = table.find_all('tr')
+    print(f'  {vessel_name}: table rows={len(rows)}')
+    if len(rows) > 1:
+        sample = [td.get_text(strip=True)[:25] for td in rows[1].find_all('td')]
+        print(f'  {vessel_name}: row1={sample}')
 
     findings = []
     today = datetime.date.today().isoformat()
@@ -222,7 +235,6 @@ def scrape_vessel(session, vessel_name, path):
     print(f'  {vessel_name}: {len(findings)} findings')
     return findings
 
-# Detect new findings
 def find_new(new_all, previous_all):
     prev_keys = {
         (f.get('vessel',''), f.get('title','').lower().strip(), f.get('dateRaised',''))
@@ -233,7 +245,6 @@ def find_new(new_all, previous_all):
         if (f['vessel'], f['title'].lower().strip(), f['dateRaised']) not in prev_keys
     ]
 
-# Send email notification
 def send_email(new_findings):
     if not EMAIL_FROM or not EMAIL_TO or not EMAIL_PASS:
         print('Email secrets not configured — skipping notification')
@@ -287,7 +298,6 @@ def send_email(new_findings):
     except Exception as e:
         print(f'Email failed: {e}')
 
-# Rebuild index.html with new SEED
 def update_html(all_findings):
     if not os.path.exists(INDEX_HTML):
         print(f'ERROR: {INDEX_HTML} not found')
@@ -323,7 +333,6 @@ def update_html(all_findings):
     print(f'index.html updated ({len(all_findings)} findings)')
     return True
 
-# Main
 def main():
     print(f'=== ISM Sync {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")} ===')
     print(f'index.html path: {INDEX_HTML}')
@@ -342,7 +351,7 @@ def main():
     print(f'Total: {len(all_findings)} findings')
 
     if len(all_findings) == 0:
-        print('WARNING: 0 findings scraped - not updating to avoid wiping tracker data')
+        print('WARNING: 0 findings - not updating to avoid wiping data')
         sys.exit(1)
 
     previous = []
