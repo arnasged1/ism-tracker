@@ -11,6 +11,7 @@ EMAIL_PASS = os.environ.get('EMAIL_PASS', '')
 EMAIL_TO   = os.environ.get('EMAIL_TO', '')
 TRACKER_URL = os.environ.get('TRACKER_URL', 'https://ism-tracker.vercel.app/#dashboard')
 
+# Always resolve paths relative to this script file
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INDEX_HTML = os.path.join(SCRIPT_DIR, 'index.html')
 PREV_JSON  = os.path.join(SCRIPT_DIR, 'previous_findings.json')
@@ -40,13 +41,16 @@ def parse_date(s):
     except:
         return ''
 
+# ── Login ────────────────────────────────────────────────────────────────────
 def _is_logged_in(text):
+    """Check if the response HTML indicates an active session."""
     low = text.lower()
     return ('log out' in low or 'logout' in low or
             'task=user.logout' in low or
             USERNAME.lower() in low)
 
 def _extract_csrf(soup):
+    """Return {token_name: '1'} for all 32-char hex hidden inputs (Joomla CSRF tokens)."""
     tokens = {}
     for inp in soup.find_all('input', type='hidden'):
         name = inp.get('name', '')
@@ -58,6 +62,7 @@ def login():
     session = requests.Session()
     session.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
 
+    # Try two candidate pages to find the login form
     candidate_urls = [
         BASE_URL + '/index.php?option=com_users&view=login',
         BASE_URL + '/index.php',
@@ -69,6 +74,7 @@ def login():
         print(f'  Fetching {url}')
         r = session.get(url, timeout=30)
         soup_page = BeautifulSoup(r.text, 'html.parser')
+        # Look for a form that has a username-style input
         for f in soup_page.find_all('form'):
             user_inp = (f.find('input', {'name': 'username'}) or
                         f.find('input', {'name': 'user'}) or
@@ -84,12 +90,14 @@ def login():
             break
 
     if not form:
-        print('  No login form found -- will attempt blind POST')
+        print('  No login form found on any candidate page — will attempt blind POST')
 
+    # Build POST data
     data = {}
     action = BASE_URL + '/index.php'
 
     if form:
+        # Capture all hidden inputs (includes Joomla's dynamic CSRF token)
         for inp in form.find_all('input'):
             name = inp.get('name', '')
             if name and inp.get('type') == 'hidden':
@@ -98,17 +106,20 @@ def login():
         if raw_action:
             action = raw_action if raw_action.startswith('http') else BASE_URL + raw_action
     elif soup_page:
+        # No form found — at least grab the CSRF token from the page
         data.update(_extract_csrf(soup_page))
 
+    # Always include Joomla login fields (override any defaults from the form)
     data['username'] = USERNAME
     data['passwd']   = PASSWORD
-    data['password'] = PASSWORD
+    data['password'] = PASSWORD   # send both variants for safety
     data['task']     = 'user.login'
     data['option']   = 'com_users'
-    data['return']   = 'aW5kZXgucGhw'
+    data['return']   = 'aW5kZXgucGhw'  # base64('index.php')
 
+    # Debug: show what we're sending (mask password)
     debug = {k: ('***' if 'pass' in k.lower() else v) for k, v in data.items()}
-    print(f'  POST to {action} fields: {list(debug.keys())}')
+    print(f'  POST to {action} with fields: {list(debug.keys())}')
 
     r = session.post(action, data=data, allow_redirects=True, timeout=30)
     print(f'  Response URL: {r.url}  Status: {r.status_code}')
@@ -117,7 +128,8 @@ def login():
     print('  Login: OK' if logged_in else '  Login attempt 1 failed')
 
     if not logged_in:
-        print('  Retrying with fresh CSRF token...')
+        # Retry: fetch the CSRF token fresh and try again
+        print('  Retrying login with fresh CSRF token...')
         r2 = session.get(BASE_URL + '/index.php?option=com_users&view=login', timeout=30)
         soup2 = BeautifulSoup(r2.text, 'html.parser')
         data2 = {
@@ -130,18 +142,21 @@ def login():
         }
         data2.update(_extract_csrf(soup2))
         r3 = session.post(BASE_URL + '/index.php', data=data2, allow_redirects=True, timeout=30)
-        print(f'  Retry URL: {r3.url}  Status: {r3.status_code}')
+        print(f'  Retry response URL: {r3.url}  Status: {r3.status_code}')
         logged_in = _is_logged_in(r3.text)
-        print('  Login retry: OK' if logged_in else '  Login FAILED -- verify KONSULT_USER / KONSULT_PASS secrets')
+        print('  Login retry: OK' if logged_in else '  Login FAILED — verify KONSULT_USER / KONSULT_PASS secrets')
 
     return session, logged_in
 
+# ── Scrape one vessel ────────────────────────────────────────────────────────
 def scrape_vessel(session, vessel_name, path):
     url = BASE_URL + path
 
     r = session.get(url, timeout=30)
+    print(f'  {vessel_name}: GET → {r.url} ({r.status_code})')
     soup = BeautifulSoup(r.text, 'html.parser')
 
+    # Submit with limit=0 to show all records
     for form in soup.find_all('form'):
         sel = form.find('select', {'name': 'limit'})
         if sel:
@@ -154,13 +169,22 @@ def scrape_vessel(session, vessel_name, path):
             if not action.startswith('http'):
                 action = BASE_URL + action
             r = session.post(action, data=data, timeout=30)
+            print(f'  {vessel_name}: limit=0 POST → {r.url} ({r.status_code})')
             break
 
     soup = BeautifulSoup(r.text, 'html.parser')
-    table = soup.find('table')
+    all_tables = soup.find_all('table')
+    print(f'  {vessel_name}: {len(all_tables)} table(s) on page')
+    table = all_tables[0] if all_tables else None
     if not table:
-        print(f'  {vessel_name}: no table found')
+        print(f'  {vessel_name}: no table found — page preview: {soup.get_text(" ",strip=True)[:200]}')
         return []
+
+    rows = table.find_all('tr')
+    print(f'  {vessel_name}: table has {len(rows)} rows')
+    if len(rows) > 1:
+        sample = [td.get_text(strip=True)[:25] for td in rows[1].find_all('td')]
+        print(f'  {vessel_name}: row1 cells: {sample}')
 
     findings = []
     today = datetime.date.today().isoformat()
@@ -170,9 +194,8 @@ def scrape_vessel(session, vessel_name, path):
         if len(cells) < 5:
             continue
 
-        # offset=1 if first cell is empty OR a pure number (ID col); else 0
-        first = cells[0].strip()
-        offset = 1 if (not first or re.match(r'^[0-9]+$', first)) else 0
+        # Detect optional numeric ID column
+        offset = 1 if (not cells[0].strip() or re.match(r'^[0-9]+$', cells[0].strip())) else 0
         if offset + 4 >= len(cells):
             continue
 
@@ -182,6 +205,7 @@ def scrape_vessel(session, vessel_name, path):
         deadline_s  = cells[offset + 4].strip() if offset + 4 < len(cells) else ''
         conclusion  = cells[offset + 5].strip() if offset + 5 < len(cells) else ''
 
+        # Closed = last cell that is exactly Yes or No
         closed = False
         for cell in reversed(cells):
             t = cell.strip()
@@ -221,6 +245,7 @@ def scrape_vessel(session, vessel_name, path):
     print(f'  {vessel_name}: {len(findings)} findings')
     return findings
 
+# ── Detect new findings ──────────────────────────────────────────────────────
 def find_new(new_all, previous_all):
     prev_keys = {
         (f.get('vessel',''), f.get('title','').lower().strip(), f.get('dateRaised',''))
@@ -231,129 +256,55 @@ def find_new(new_all, previous_all):
         if (f['vessel'], f['title'].lower().strip(), f['dateRaised']) not in prev_keys
     ]
 
-def send_email(new_findings):
-    if not EMAIL_FROM or not EMAIL_TO or not EMAIL_PASS:
-        print('Email secrets not configured -- skipping notification')
-        return
-
-    subject = f'ISM Alert: {len(new_findings)} new finding(s) across fleet'
+# ── Send email notification ──────────────────────────────────────────────────
+def _finding_rows(findings):
+    """Return HTML table rows for a list of findings."""
     rows = ''
-    for f in new_findings:
-        color = '#c0392b' if f['status']=='Overdue' else '#e67e22' if f['status']=='Open' else '#27ae60'
+    for f in findings:
+        color = '#c0392b' if f['status'] == 'Overdue' else '#e67e22' if f['status'] == 'Open' else '#27ae60'
         rows += (
             f'<tr><td style="padding:8px;border-bottom:1px solid #eee"><strong>[{f["type"]}]</strong></td>'
             f'<td style="padding:8px;border-bottom:1px solid #eee">{f["vessel"]}</td>'
             f'<td style="padding:8px;border-bottom:1px solid #eee">{f["title"]}</td>'
             f'<td style="padding:8px;border-bottom:1px solid #eee">{f["dateRaised"]}</td>'
+            f'<td style="padding:8px;border-bottom:1px solid #eee">{f.get("deadline","")}</td>'
             f'<td style="padding:8px;border-bottom:1px solid #eee;color:{color}">{f["status"]}</td></tr>'
         )
+    return rows
 
-    html_body = (
-        '<div style="font-family:Arial,sans-serif;max-width:700px">'
-        '<h2 style="color:#1a3a5c">ISM Tracker - New Findings Detected</h2>'
-        f'<p><strong>{len(new_findings)} new finding(s)</strong> added to the system:</p>'
-        '<table style="width:100%;border-collapse:collapse;font-size:14px">'
-        '<tr style="background:#1a3a5c;color:#fff">'
-        '<th style="padding:8px;text-align:left">Type</th>'
-        '<th style="padding:8px;text-align:left">Vessel</th>'
-        '<th style="padding:8px;text-align:left">Title</th>'
-        '<th style="padding:8px;text-align:left">Raised</th>'
-        '<th style="padding:8px;text-align:left">Status</th>'
-        '</tr>'
-        + rows +
-        '</table>'
-        f'<p style="margin-top:20px"><a href="{TRACKER_URL}" style="background:#1a5ea8;color:#fff;padding:10px 20px;text-decoration:none;border-radius:5px">Open Tracker</a></p>'
-        '</div>'
-    )
+TABLE_HEADER = """
+  <table style="width:100%;border-collapse:collapse;font-size:14px">
+    <tr style="background:#1a3a5c;color:#fff">
+      <th style="padding:8px;text-align:left">Type</th>
+      <th style="padding:8px;text-align:left">Vessel</th>
+      <th style="padding:8px;text-align:left">Title</th>
+      <th style="padding:8px;text-align:left">Raised</th>
+      <th style="padding:8px;text-align:left">Deadline</th>
+      <th style="padding:8px;text-align:left">Status</th>
+    </tr>"""
 
-    msg = MIMEMultipart('alternative')
-    msg['Subject'] = subject
-    msg['From']    = EMAIL_FROM
-    msg['To']      = EMAIL_TO
-    msg.attach(MIMEText(html_body, 'html'))
+def send_email(new_findings, overdue_findings):
+    if not EMAIL_FROM or not EMAIL_TO or not EMAIL_PASS:
+        print('Email secrets not configured — skipping notification')
+        return
 
-    try:
-        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as srv:
-            srv.login(EMAIL_FROM, EMAIL_PASS)
-            srv.sendmail(EMAIL_FROM, EMAIL_TO, msg.as_string())
-        print(f'Email alert sent to {EMAIL_TO}')
-    except Exception as e:
-        print(f'Email failed: {e}')
+    parts = []
+    if new_findings:
+        parts.append(f'{len(new_findings)} new')
+    if overdue_findings:
+        parts.append(f'{len(overdue_findings)} overdue')
+    subject = f'ISM Daily Report: {", ".join(parts)}'
 
-def update_html(all_findings):
-    if not os.path.exists(INDEX_HTML):
-        print(f'ERROR: {INDEX_HTML} not found')
-        return False
-
-    with open(INDEX_HTML, 'r', encoding='utf-8') as fh:
-        html = fh.read()
-
-    marker = 'const SEED = ['
-    start = html.find(marker)
-    if start == -1:
-        print('ERROR: SEED marker not found in index.html')
-        return False
-
-    depth, pos = 0, start + len(marker) - 1
-    while pos < len(html):
-        c = html[pos]
-        if c == '[': depth += 1
-        elif c == ']':
-            depth -= 1
-            if depth == 0:
-                end = pos + 1
-                break
-        pos += 1
-
-    seed_json = json.dumps(all_findings, separators=(',', ':'))
-    ts_key = f"'ism_v{int(datetime.datetime.utcnow().timestamp())}'"
-    new_html = re.sub(r"'ism_v[A-Za-z0-9_]+'", ts_key,
-                      html[:start] + 'const SEED = ' + seed_json + html[end:])
-
-    with open(INDEX_HTML, 'w', encoding='utf-8') as fh:
-        fh.write(new_html)
-    print(f'index.html updated ({len(all_findings)} findings)')
-    return True
-
-def main():
-    print(f'=== ISM Sync {datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")} ===')
-    print(f'index.html path: {INDEX_HTML}')
-    print(f'index.html exists: {os.path.exists(INDEX_HTML)}')
-
-    session, logged_in = login()
-    if not logged_in:
-        print('Aborting - could not log in')
-        sys.exit(1)
-
-    all_findings = []
-    for vessel_name, path in VESSELS:
-        findings = scrape_vessel(session, vessel_name, path)
-        all_findings.extend(findings)
-
-    print(f'Total: {len(all_findings)} findings')
-
-    if len(all_findings) == 0:
-        print('WARNING: 0 findings - not updating to avoid wiping data')
-        sys.exit(1)
-
-    previous = []
-    if os.path.exists(PREV_JSON):
-        try:
-            previous = json.load(open(PREV_JSON))
-        except Exception:
-            previous = []
-
-    new_ones = find_new(all_findings, previous)
-    if new_ones:
-        print(f'{len(new_ones)} NEW finding(s) detected!')
-        send_email(new_ones)
+    # ── Section 1: New findings ──────────────────────────────────────────────
+    new_section = ''
+    if new_findings:
+        new_section = f"""
+      <h2 style="color:#1a3a5c;margin-top:0">[NEW] New Findings ({len(new_findings)})</h2>
+      <p>The following findings were added since the last sync:</p>
+      {TABLE_HEADER}
+        {_finding_rows(new_findings)}
+      </table>"""
     else:
-        print('No new findings since last sync')
+        new_section = '<h2 style="color:#1a3a5c;margin-top:0">[NEW] New Findings</h2><p style="color:#555">No new findings since last sync.</p>'
 
-    with open(PREV_JSON, 'w') as fh:
-        json.dump(all_findings, fh, indent=2)
-
-    update_html(all_findings)
-
-if __name__ == '__main__':
-    main()
+    # ── Section 2: Overdue findings ──────────────────────
