@@ -198,11 +198,17 @@ def scrape_vessel(session, vessel_name, path):
             continue
 
         detail_url = ''
-        if offset < len(tds):
-            a_tag = tds[offset].find('a')
-            if a_tag and a_tag.get('href'):
-                href = a_tag['href']
-                detail_url = href if href.startswith('http') else BASE_URL + href
+        # Search all cells in the row for any link (title cell first, then others)
+        for td_idx, td in enumerate(tds):
+            for a_tag in td.find_all('a'):
+                href = a_tag.get('href', '')
+                if href and href != '#':
+                    detail_url = href if href.startswith('http') else BASE_URL + href
+                    break
+            if detail_url:
+                break
+        if not detail_url:
+            print('  ' + vessel_name + ': no link found in row: ' + str([td.get_text(strip=True)[:20] for td in tds]))
 
         title       = cells[offset].strip()
         group_raw   = cells[offset + 1].strip()
@@ -258,8 +264,22 @@ def scrape_vessel(session, vessel_name, path):
     return findings
 
 def scrape_detail(session, url):
-    """Fetch an individual NC detail page and return rootCause, managementComment, finalManagementComment."""
-    empty = {'rootCause': '', 'managementComment': '', 'finalManagementComment': ''}
+    """Fetch an individual NC detail page and extract key fields.
+
+    Konsult field labels (from page inspection):
+      'Original cause:'                  -> rootCause
+      'Explanation:'                     -> description
+      'Corrective action made immediately:' -> correctiveAction
+      'Final conclusion from the management' -> finalManagementComment
+      'Comment from management' (if present) -> managementComment
+    """
+    empty = {
+        'rootCause': '',
+        'description': '',
+        'correctiveAction': '',
+        'managementComment': '',
+        'finalManagementComment': '',
+    }
     if not url:
         return empty
     try:
@@ -267,15 +287,17 @@ def scrape_detail(session, url):
         soup = BeautifulSoup(r.text, 'html.parser')
 
         def _extract(check):
-            # Strategy 1: table row where first cell matches
+            # Strategy 1: table row where first cell label matches
             for row in soup.find_all('tr'):
                 cells = row.find_all(['th', 'td'])
                 if len(cells) >= 2:
-                    if check(cells[0].get_text(strip=True).lower()):
+                    lbl = cells[0].get_text(strip=True).lower()
+                    if check(lbl):
                         return cells[1].get_text(separator=' ', strip=True)
-            # Strategy 2: inline label/heading tags
+            # Strategy 2: inline label/heading tag followed by sibling value
             for tag in soup.find_all(['label', 'dt', 'th', 'td', 'strong', 'b', 'span']):
-                if check(tag.get_text(strip=True).lower()):
+                lbl = tag.get_text(strip=True).lower()
+                if check(lbl):
                     nxt = tag.find_next_sibling()
                     if nxt:
                         return nxt.get_text(separator=' ', strip=True)
@@ -286,22 +308,15 @@ def scrape_detail(session, url):
             return ''
 
         result = dict(empty)
-        result['rootCause']              = _extract(lambda l: 'root' in l and 'cause' in l)
+        result['rootCause']              = _extract(lambda l: 'original' in l and 'cause' in l)
+        result['description']            = _extract(lambda l: l.startswith('explanation'))
+        result['correctiveAction']       = _extract(lambda l: 'corrective' in l and 'action' in l)
         result['managementComment']      = _extract(lambda l: 'comment' in l and 'management' in l and 'final' not in l)
-        result['finalManagementComment'] = _extract(lambda l: 'final' in l and ('comment' in l or 'management' in l))
+        result['finalManagementComment'] = _extract(lambda l: 'final' in l and ('conclusion' in l or 'management' in l))
 
-        # Debug: if nothing found, print all table row labels so we can fix matching
-        if not any(result.values()):
-            labels = []
-            for row in soup.find_all('tr'):
-                cells = row.find_all(['th', 'td'])
-                if len(cells) >= 2:
-                    lbl = cells[0].get_text(strip=True)
-                    if lbl:
-                        labels.append(lbl)
-            if labels:
-                print('  Detail labels found: ' + str(labels[:15]))
-
+        print('  Detail scraped: root=' + repr(result['rootCause'][:30]) +
+              ' ca=' + repr(result['correctiveAction'][:30]) +
+              ' final=' + repr(result['finalManagementComment'][:30]))
         return result
     except Exception as e:
         print('  Detail fetch error for ' + url + ': ' + str(e))
@@ -477,6 +492,8 @@ def main():
         key = (pf.get('vessel', ''), pf.get('title', '').lower().strip(), pf.get('dateRaised', ''))
         prev_cache[key] = {
             'rootCause':              pf.get('rootCause', ''),
+            'description':            pf.get('description', ''),
+            'correctiveAction':       pf.get('correctiveAction', ''),
             'managementComment':      pf.get('managementComment', ''),
             'finalManagementComment': pf.get('finalManagementComment', ''),
         }
@@ -490,11 +507,23 @@ def main():
             finding['rootCause']              = cached.get('rootCause', '')
             finding['managementComment']      = cached.get('managementComment', '')
             finding['finalManagementComment'] = cached.get('finalManagementComment', '')
+            if cached.get('description'):
+                finding['description'] = cached['description']
+            if cached.get('correctiveAction'):
+                finding['correctiveAction'] = cached['correctiveAction']
         else:
-            detail = scrape_detail(session, finding.get('detailUrl', ''))
+            durl = finding.get('detailUrl', '')
+            if not durl:
+                print('  No detailUrl for: ' + finding['vessel'] + ' / ' + finding['title'][:40])
+            detail = scrape_detail(session, durl)
             finding['rootCause']              = detail['rootCause']
             finding['managementComment']      = detail['managementComment']
             finding['finalManagementComment'] = detail['finalManagementComment']
+            # Enrich description and correctiveAction from detail page if available
+            if detail['description']:
+                finding['description'] = detail['description']
+            if detail['correctiveAction']:
+                finding['correctiveAction'] = detail['correctiveAction']
 
     # Overdue summary for logs
     overdue_findings = [f for f in all_findings if f['status'] == 'Overdue']
