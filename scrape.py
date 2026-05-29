@@ -316,6 +316,7 @@ def scrape_detail(session, url):
 
         print('  Detail scraped: root=' + repr(result['rootCause'][:30]) +
               ' ca=' + repr(result['correctiveAction'][:30]) +
+              ' mc=' + repr(result['managementComment'][:30]) +
               ' final=' + repr(result['finalManagementComment'][:30]))
         return result
     except Exception as e:
