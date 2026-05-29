@@ -499,8 +499,8 @@ function openDetail(id) {
     '<div class="detail-row"><span class="detail-label">Target Close</span><span>' + (f.deadline?fmtDate(f.deadline):'&#8212;') + '</span></div>' +
     '<div class="detail-row"><span class="detail-label">Date Closed</span><span>' + (f.dateClosed?fmtDate(f.dateClosed):'&#8212;') + '</span></div>' +
     '<hr class="detail-divider">' +
-    '<div class="detail-row"><span class="detail-label">Root Cause</span><span>' + esc(f.rootCause||'&#8212;') + '</span></div>' +
-    '<div class="detail-row"><span class="detail-label">Corrective Action</span><span>' + esc(f.correctiveAction||'&#8212;') + '</span></div>';
+    '<div class="detail-row"><span class="detail-label">Root Cause</span><span>' + (f.rootCause ? esc(f.rootCause) : '—') + '</span></div>' +
+    '<div class="detail-row"><span class="detail-label">Corrective Action</span><span>' + (f.correctiveAction ? esc(f.correctiveAction) : '—') + '</span></div>';
   var footer =
     '<button class="btn-outline" onclick="closeModal(this.dataset.m)" data-m="detailModal">Close</button>' +
     '<button class="btn-action" style="padding:8px 18px;" data-id="' + f.id + '" onclick="openEditModal(this.dataset.id)">Edit</button>';
