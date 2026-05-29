@@ -418,7 +418,8 @@ def generate_html(all_findings):
     with open(template_path, encoding='utf-8') as f:
         html = f.read()
     seed_json = json.dumps(all_findings, ensure_ascii=False)
-    html = re.sub(r'const SEED\s*=\s*\[.*?\];', 'const SEED = ' + seed_json + ';', html, flags=re.DOTALL)
+    replacement = 'const SEED = ' + seed_json + ';'
+    html = re.sub(r'const SEED\s*=\s*\[.*?\];', lambda m: replacement, html, flags=re.DOTALL)
     with open(INDEX_HTML, 'w', encoding='utf-8') as f:
         f.write(html)
     print('Dashboard updated: ' + INDEX_HTML)
@@ -503,8 +504,11 @@ def main():
         json.dump(all_findings, f, ensure_ascii=False, indent=2)
     print('Saved ' + PREV_JSON)
 
-    # Update dashboard HTML
-    generate_html(all_findings)
+    # Update dashboard HTML (only if we have findings, to avoid wiping dashboard on scrape failure)
+    if all_findings:
+        generate_html(all_findings)
+    else:
+        print('WARNING: all_findings is empty — skipping dashboard update to preserve existing data')
     print('=== ISM Scraper done ===')
 
 
