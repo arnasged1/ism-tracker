@@ -26,12 +26,13 @@ jobs:
 
       - name: Run scraper
         env:
-          KONSULT_USER: ${{ secrets.KONSULT_USER }}
-          KONSULT_PASS: ${{ secrets.KONSULT_PASS }}
-          EMAIL_FROM:   ${{ secrets.EMAIL_FROM }}
-          EMAIL_PASS:   ${{ secrets.EMAIL_PASS }}
-          EMAIL_TO:     ${{ secrets.EMAIL_TO }}
-          TRACKER_URL:  ${{ secrets.TRACKER_URL }}
+          KONSULT_USER:       ${{ secrets.KONSULT_USER }}
+          KONSULT_PASS:       ${{ secrets.KONSULT_PASS }}
+          EMAIL_FROM:         ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASS:         ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO:           ${{ secrets.EMAIL_TO }}
+          TRACKER_URL:        ${{ secrets.TRACKER_URL }}
+          GITHUB_EVENT_NAME:  ${{ github.event_name }}
         run: python scrape.py
 
       - name: Commit updated files
