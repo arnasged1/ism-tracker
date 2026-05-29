@@ -172,6 +172,18 @@ def scrape_vessel(session, vessel_name, path):
         sample = [td.get_text(strip=True)[:25] for td in rows[1].find_all('td')]
         print('  ' + vessel_name + ': row1 cells: ' + str(sample))
 
+    # Detect which column is the "Closed" column from the header row
+    closed_col = -1
+    header_row = table.find('tr')
+    if header_row:
+        headers = [th.get_text(strip=True).lower() for th in header_row.find_all(['th', 'td'])]
+        print('  ' + vessel_name + ': headers: ' + str(headers))
+        for i, h in enumerate(headers):
+            if 'clos' in h:
+                closed_col = i
+                break
+    print('  ' + vessel_name + ': closed_col=' + str(closed_col))
+
     findings = []
     today = datetime.date.today().isoformat()
 
@@ -199,12 +211,16 @@ def scrape_vessel(session, vessel_name, path):
         conclusion  = cells[offset + 5].strip() if offset + 5 < len(cells) else ''
 
         closed = False
-        for cell in reversed(cells):
-            t = cell.strip()
-            if re.search(r'\byes\b', t, re.IGNORECASE):
-                closed = True; break
-            elif re.search(r'\bno\b', t, re.IGNORECASE):
-                closed = False; break
+        if closed_col >= 0 and closed_col < len(cells):
+            closed = bool(re.search(r'\byes\b', cells[closed_col], re.IGNORECASE))
+        else:
+            # Fallback: scan last few cells only (avoid matching text in title/description)
+            for cell in cells[max(0, len(cells)-3):]:
+                t = cell.strip()
+                if re.search(r'\byes\b', t, re.IGNORECASE):
+                    closed = True; break
+                elif t.lower() == 'no':
+                    closed = False; break
 
         ftype        = GROUP_MAP.get(group_raw, 'NC')
         date_raised  = parse_date(registered)
@@ -232,42 +248,51 @@ def scrape_vessel(session, vessel_name, path):
             'correctiveAction':  conclusion,
             'raisedBy':          '',
             'notes':             '',
-            'detailUrl':         detail_url,
-            'managementComment': '',
+            'detailUrl':               detail_url,
+            'rootCause':               '',
+            'managementComment':       '',
+            'finalManagementComment':  '',
         })
 
     print('  ' + vessel_name + ': ' + str(len(findings)) + ' findings')
     return findings
 
 def scrape_detail(session, url):
-    """Fetch an individual NC detail page and return the 'Comment from management' text."""
+    """Fetch an individual NC detail page and return rootCause, managementComment, finalManagementComment."""
+    empty = {'rootCause': '', 'managementComment': '', 'finalManagementComment': ''}
     if not url:
-        return ''
+        return empty
     try:
         r = session.get(url, timeout=20)
         soup = BeautifulSoup(r.text, 'html.parser')
-        # Strategy 1: table row where first cell is the label
-        for row in soup.find_all('tr'):
-            cells = row.find_all(['th', 'td'])
-            if len(cells) >= 2:
-                label = cells[0].get_text(strip=True).lower()
-                if 'comment' in label and 'management' in label:
-                    return cells[1].get_text(separator=' ', strip=True)
-        # Strategy 2: any inline label tag followed by a sibling value
-        for tag in soup.find_all(['label', 'dt', 'th', 'td', 'strong', 'b', 'span']):
-            tag_text = tag.get_text(strip=True).lower()
-            if 'comment' in tag_text and 'management' in tag_text:
-                nxt = tag.find_next_sibling()
-                if nxt:
-                    return nxt.get_text(separator=' ', strip=True)
-                if tag.parent:
-                    parent_nxt = tag.parent.find_next_sibling()
-                    if parent_nxt:
-                        return parent_nxt.get_text(separator=' ', strip=True)
-        return ''
+
+        def _extract(check):
+            # Strategy 1: table row where first cell matches
+            for row in soup.find_all('tr'):
+                cells = row.find_all(['th', 'td'])
+                if len(cells) >= 2:
+                    if check(cells[0].get_text(strip=True).lower()):
+                        return cells[1].get_text(separator=' ', strip=True)
+            # Strategy 2: inline label/heading tags
+            for tag in soup.find_all(['label', 'dt', 'th', 'td', 'strong', 'b', 'span']):
+                if check(tag.get_text(strip=True).lower()):
+                    nxt = tag.find_next_sibling()
+                    if nxt:
+                        return nxt.get_text(separator=' ', strip=True)
+                    if tag.parent:
+                        parent_nxt = tag.parent.find_next_sibling()
+                        if parent_nxt:
+                            return parent_nxt.get_text(separator=' ', strip=True)
+            return ''
+
+        result = dict(empty)
+        result['rootCause']              = _extract(lambda l: 'root' in l and 'cause' in l)
+        result['managementComment']      = _extract(lambda l: 'comment' in l and 'management' in l and 'final' not in l)
+        result['finalManagementComment'] = _extract(lambda l: 'final' in l and ('comment' in l or 'management' in l))
+        return result
     except Exception as e:
         print('  Detail fetch error for ' + url + ': ' + str(e))
-        return ''
+        return empty
 
 def find_new(new_all, previous_all):
     prev_keys = {
@@ -396,89 +421,92 @@ def generate_html(all_findings):
     html = re.sub(r'const SEED\s*=\s*\[.*?\];', 'const SEED = ' + seed_json + ';', html, flags=re.DOTALL)
     with open(INDEX_HTML, 'w', encoding='utf-8') as f:
         f.write(html)
-    print('index.html updated with ' + str(len(all_findings)) + ' findings')
+    print('Dashboard updated: ' + INDEX_HTML)
+
 
 def main():
-    print('=== ISM Tracker Sync ===')
+    print('=== ISM Scraper starting ===')
     session, logged_in = login()
     if not logged_in:
-        print('Cannot proceed without login')
+        print('Login failed — aborting')
         sys.exit(1)
 
+    # Scrape all vessels
     all_findings = []
     for vessel_name, path in VESSELS:
-        findings = scrape_vessel(session, vessel_name, path)
-        all_findings.extend(findings)
-
+        print('Scraping ' + vessel_name + '...')
+        all_findings.extend(scrape_vessel(session, vessel_name, path))
     print('Total findings scraped: ' + str(len(all_findings)))
 
-    # ── Fetch management comments for open/overdue findings ──────────────────
-    # For closed findings, use cached value from previous run to avoid extra requests
-    prev_cache = {}
+    # Load previous findings for caching detail fields of Closed findings
+    previous_all = []
     if os.path.exists(PREV_JSON):
-        try:
-            with open(PREV_JSON, encoding='utf-8') as f:
-                prev_list = json.load(f)
-            for pf in prev_list:
-                key = (pf.get('vessel',''), pf.get('title','').lower().strip(), pf.get('dateRaised',''))
-                prev_cache[key] = pf
-        except Exception as e:
-            print('Could not load previous findings for cache: ' + str(e))
+        with open(PREV_JSON, encoding='utf-8') as f:
+            previous_all = json.load(f)
 
-    open_count = sum(1 for f in all_findings if f['status'] in ('Open', 'Overdue'))
-    print('Fetching management comments for ' + str(open_count) + ' open/overdue findings...')
-    for f in all_findings:
-        key = (f['vessel'], f['title'].lower().strip(), f['dateRaised'])
-        if f['status'] in ('Open', 'Overdue') and f.get('detailUrl'):
-            f['managementComment'] = scrape_detail(session, f['detailUrl'])
-        elif key in prev_cache:
-            f['managementComment'] = prev_cache[key].get('managementComment', '')
+    prev_cache = {}
+    for pf in previous_all:
+        key = (pf.get('vessel', ''), pf.get('title', '').lower().strip(), pf.get('dateRaised', ''))
+        prev_cache[key] = {
+            'rootCause':              pf.get('rootCause', ''),
+            'managementComment':      pf.get('managementComment', ''),
+            'finalManagementComment': pf.get('finalManagementComment', ''),
+        }
 
-    # ── Update website (every run) ───────────────────────────────────────────
-    with open(PREV_JSON, 'w', encoding='utf-8') as f:
-        json.dump(all_findings, f, indent=2, ensure_ascii=False)
-    print('Saved ' + str(len(all_findings)) + ' findings to previous_findings.json')
-
-    generate_html(all_findings)
-
-    # ── Send daily email (only at 06:00 UTC run) ─────────────────────────────
-    utc_hour = datetime.datetime.utcnow().hour
-    print('Current UTC hour: ' + str(utc_hour))
-    first_run = not os.path.exists(EMAIL_SNAP)
-    manual = os.environ.get('GITHUB_EVENT_NAME', '') == 'workflow_dispatch'
-    if utc_hour == 6 or first_run or manual:
-        print('Running daily email report...')
-        email_snapshot = []
-        if os.path.exists(EMAIL_SNAP):
-            try:
-                with open(EMAIL_SNAP, encoding='utf-8') as f:
-                    email_snapshot = json.load(f)
-            except Exception as e:
-                print('Could not load email snapshot: ' + str(e))
-        print('Email snapshot had ' + str(len(email_snapshot)) + ' findings')
-
-        new_ones = find_new(all_findings, email_snapshot)
-        if new_ones:
-            print(str(len(new_ones)) + ' NEW finding(s) since last email!')
-            for f in new_ones:
-                print('  + [' + f['vessel'] + '] ' + f['title'])
+    # Populate detail fields from Konsult detail pages
+    print('Fetching detail pages...')
+    for finding in all_findings:
+        key = (finding['vessel'], finding['title'].lower().strip(), finding['dateRaised'])
+        if finding['status'] == 'Closed':
+            cached = prev_cache.get(key, {})
+            finding['rootCause']              = cached.get('rootCause', '')
+            finding['managementComment']      = cached.get('managementComment', '')
+            finding['finalManagementComment'] = cached.get('finalManagementComment', '')
         else:
-            print('No new findings since last email')
+            detail = scrape_detail(session, finding.get('detailUrl', ''))
+            finding['rootCause']              = detail['rootCause']
+            finding['managementComment']      = detail['managementComment']
+            finding['finalManagementComment'] = detail['finalManagementComment']
 
-        overdue_ones = [f for f in all_findings if f['status'] == 'Overdue']
-        print(str(len(overdue_ones)) + ' overdue finding(s) fleet-wide')
-        for f in overdue_ones:
-            print('  OVERDUE: [' + f['vessel'] + '] ' + f['title'] + ' | deadline: ' + f.get('deadline','') + ' | detailUrl: ' + f.get('detailUrl','')[:60])
+    # Overdue summary for logs
+    overdue_findings = [f for f in all_findings if f['status'] == 'Overdue']
+    print('Overdue findings: ' + str(len(overdue_findings)))
+    for f in overdue_findings:
+        print('  OVERDUE: ' + f['vessel'] + ' / ' + f['title'] + ' / deadline: ' + f['deadline'])
 
-        send_email(new_ones, overdue_ones)
+    # Load email snapshot to find new findings
+    email_snap = []
+    if os.path.exists(EMAIL_SNAP):
+        with open(EMAIL_SNAP, encoding='utf-8') as f:
+            email_snap = json.load(f)
+    new_findings = find_new(all_findings, email_snap)
 
+    # Send email at 06:00 UTC, on manual dispatch, or on first run
+    event_name = os.environ.get('GITHUB_EVENT_NAME', '')
+    hour_utc   = datetime.datetime.utcnow().hour
+    should_email = (
+        not os.path.exists(EMAIL_SNAP) or
+        event_name == 'workflow_dispatch' or
+        hour_utc == 6
+    )
+    if should_email:
+        print('Sending email...')
+        send_email(new_findings, overdue_findings)
         with open(EMAIL_SNAP, 'w', encoding='utf-8') as f:
-            json.dump(all_findings, f, indent=2, ensure_ascii=False)
-        print('Email snapshot updated')
+            json.dump(all_findings, f, ensure_ascii=False, indent=2)
+        print('Email snapshot saved.')
     else:
-        print('Skipping email — not the 06:00 UTC run (hour=' + str(utc_hour) + ')')
+        print('Skipping email (hour=' + str(hour_utc) + ', event=' + str(event_name) + ')')
 
-    print('=== Sync complete ===')
+    # Save previous findings
+    with open(PREV_JSON, 'w', encoding='utf-8') as f:
+        json.dump(all_findings, f, ensure_ascii=False, indent=2)
+    print('Saved ' + PREV_JSON)
+
+    # Update dashboard HTML
+    generate_html(all_findings)
+    print('=== ISM Scraper done ===')
+
 
 if __name__ == '__main__':
     main()
