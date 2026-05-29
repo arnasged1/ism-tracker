@@ -176,13 +176,21 @@ def scrape_vessel(session, vessel_name, path):
     today = datetime.date.today().isoformat()
 
     for row in table.find_all('tr')[1:]:
-        cells = [td.get_text(separator=' ', strip=True) for td in row.find_all('td')]
+        tds   = row.find_all('td')
+        cells = [td.get_text(separator=' ', strip=True) for td in tds]
         if len(cells) < 5:
             continue
 
         offset = 1 if (not cells[0].strip() or re.match(r'^[0-9]+$', cells[0].strip())) else 0
         if offset + 4 >= len(cells):
             continue
+
+        detail_url = ''
+        if offset < len(tds):
+            a_tag = tds[offset].find('a')
+            if a_tag and a_tag.get('href'):
+                href = a_tag['href']
+                detail_url = href if href.startswith('http') else BASE_URL + href
 
         title       = cells[offset].strip()
         group_raw   = cells[offset + 1].strip()
@@ -193,9 +201,9 @@ def scrape_vessel(session, vessel_name, path):
         closed = False
         for cell in reversed(cells):
             t = cell.strip()
-            if t == 'Yes':
+            if re.search(r'\byes\b', t, re.IGNORECASE):
                 closed = True; break
-            elif t == 'No':
+            elif re.search(r'\bno\b', t, re.IGNORECASE):
                 closed = False; break
 
         ftype        = GROUP_MAP.get(group_raw, 'NC')
@@ -213,21 +221,53 @@ def scrape_vessel(session, vessel_name, path):
             status = 'Open'
 
         findings.append({
-            'id':               str(uuid.uuid4()),
-            'vessel':           vessel_name,
-            'type':             ftype,
-            'title':            title,
-            'description':      '',
-            'dateRaised':       date_raised,
-            'deadline':         deadline_iso,
-            'status':           status,
-            'correctiveAction': conclusion,
-            'raisedBy':         '',
-            'notes':            '',
+            'id':                str(uuid.uuid4()),
+            'vessel':            vessel_name,
+            'type':              ftype,
+            'title':             title,
+            'description':       '',
+            'dateRaised':        date_raised,
+            'deadline':          deadline_iso,
+            'status':            status,
+            'correctiveAction':  conclusion,
+            'raisedBy':          '',
+            'notes':             '',
+            'detailUrl':         detail_url,
+            'managementComment': '',
         })
 
     print('  ' + vessel_name + ': ' + str(len(findings)) + ' findings')
     return findings
+
+def scrape_detail(session, url):
+    """Fetch an individual NC detail page and return the 'Comment from management' text."""
+    if not url:
+        return ''
+    try:
+        r = session.get(url, timeout=20)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        # Strategy 1: table row where first cell is the label
+        for row in soup.find_all('tr'):
+            cells = row.find_all(['th', 'td'])
+            if len(cells) >= 2:
+                label = cells[0].get_text(strip=True).lower()
+                if 'comment' in label and 'management' in label:
+                    return cells[1].get_text(separator=' ', strip=True)
+        # Strategy 2: any inline label tag followed by a sibling value
+        for tag in soup.find_all(['label', 'dt', 'th', 'td', 'strong', 'b', 'span']):
+            tag_text = tag.get_text(strip=True).lower()
+            if 'comment' in tag_text and 'management' in tag_text:
+                nxt = tag.find_next_sibling()
+                if nxt:
+                    return nxt.get_text(separator=' ', strip=True)
+                if tag.parent:
+                    parent_nxt = tag.parent.find_next_sibling()
+                    if parent_nxt:
+                        return parent_nxt.get_text(separator=' ', strip=True)
+        return ''
+    except Exception as e:
+        print('  Detail fetch error for ' + url + ': ' + str(e))
+        return ''
 
 def find_new(new_all, previous_all):
     prev_keys = {
@@ -372,6 +412,28 @@ def main():
 
     print('Total findings scraped: ' + str(len(all_findings)))
 
+    # ── Fetch management comments for open/overdue findings ──────────────────
+    # For closed findings, use cached value from previous run to avoid extra requests
+    prev_cache = {}
+    if os.path.exists(PREV_JSON):
+        try:
+            with open(PREV_JSON, encoding='utf-8') as f:
+                prev_list = json.load(f)
+            for pf in prev_list:
+                key = (pf.get('vessel',''), pf.get('title','').lower().strip(), pf.get('dateRaised',''))
+                prev_cache[key] = pf
+        except Exception as e:
+            print('Could not load previous findings for cache: ' + str(e))
+
+    open_count = sum(1 for f in all_findings if f['status'] in ('Open', 'Overdue'))
+    print('Fetching management comments for ' + str(open_count) + ' open/overdue findings...')
+    for f in all_findings:
+        key = (f['vessel'], f['title'].lower().strip(), f['dateRaised'])
+        if f['status'] in ('Open', 'Overdue') and f.get('detailUrl'):
+            f['managementComment'] = scrape_detail(session, f['detailUrl'])
+        elif key in prev_cache:
+            f['managementComment'] = prev_cache[key].get('managementComment', '')
+
     # ── Update website (every run) ───────────────────────────────────────────
     with open(PREV_JSON, 'w', encoding='utf-8') as f:
         json.dump(all_findings, f, indent=2, ensure_ascii=False)
@@ -405,6 +467,8 @@ def main():
 
         overdue_ones = [f for f in all_findings if f['status'] == 'Overdue']
         print(str(len(overdue_ones)) + ' overdue finding(s) fleet-wide')
+        for f in overdue_ones:
+            print('  OVERDUE: [' + f['vessel'] + '] ' + f['title'] + ' | deadline: ' + f.get('deadline','') + ' | detailUrl: ' + f.get('detailUrl','')[:60])
 
         send_email(new_ones, overdue_ones)
 

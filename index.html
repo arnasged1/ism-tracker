@@ -200,9 +200,7 @@ let findings = [], editingId = null;
 
 function load() {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    findings = raw ? JSON.parse(raw) : JSON.parse(JSON.stringify(SEED));
-    if (!raw) localStorage.setItem(STORAGE_KEY, JSON.stringify(findings));
+    findings = JSON.parse(JSON.stringify(SEED));
   } catch(e) { findings = JSON.parse(JSON.stringify(SEED)); }
   refreshOverdue();
 }
@@ -470,7 +468,8 @@ function openDetail(id) {
     '<div class="detail-row"><span class="detail-label">Date Closed</span><span>' + (f.dateClosed?fmtDate(f.dateClosed):'&#8212;') + '</span></div>' +
     '<hr class="detail-divider">' +
     '<div class="detail-row"><span class="detail-label">Root Cause</span><span>' + esc(f.rootCause||'&#8212;') + '</span></div>' +
-    '<div class="detail-row"><span class="detail-label">Corrective Action</span><span>' + esc(f.correctiveAction||'&#8212;') + '</span></div>';
+    '<div class="detail-row"><span class="detail-label">Corrective Action</span><span>' + esc(f.correctiveAction||'&#8212;') + '</span></div>' +
+    '<div class="detail-row"><span class="detail-label">Mgmt Comment</span><span>' + esc(f.managementComment||'&#8212;') + '</span></div>';
   var footer =
     '<button class="btn-outline" onclick="closeModal(this.dataset.m)" data-m="detailModal">Close</button>' +
     '<button class="btn-action" style="padding:8px 18px;" data-id="' + f.id + '" onclick="openEditModal(this.dataset.id)">Edit</button>';
@@ -524,4 +523,4 @@ renderTable();
 history.replaceState({section: 'dashboard'}, '', '#dashboard');
 </script>
 </body>
-</html>
+</html>         
