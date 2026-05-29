@@ -289,6 +289,19 @@ def scrape_detail(session, url):
         result['rootCause']              = _extract(lambda l: 'root' in l and 'cause' in l)
         result['managementComment']      = _extract(lambda l: 'comment' in l and 'management' in l and 'final' not in l)
         result['finalManagementComment'] = _extract(lambda l: 'final' in l and ('comment' in l or 'management' in l))
+
+        # Debug: if nothing found, print all table row labels so we can fix matching
+        if not any(result.values()):
+            labels = []
+            for row in soup.find_all('tr'):
+                cells = row.find_all(['th', 'td'])
+                if len(cells) >= 2:
+                    lbl = cells[0].get_text(strip=True)
+                    if lbl:
+                        labels.append(lbl)
+            if labels:
+                print('  Detail labels found: ' + str(labels[:15]))
+
         return result
     except Exception as e:
         print('  Detail fetch error for ' + url + ': ' + str(e))
