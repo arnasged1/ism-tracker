@@ -383,7 +383,8 @@ def main():
     utc_hour = datetime.datetime.utcnow().hour
     print('Current UTC hour: ' + str(utc_hour))
     first_run = not os.path.exists(EMAIL_SNAP)
-    if utc_hour == 6 or first_run:
+    manual = os.environ.get('GITHUB_EVENT_NAME', '') == 'workflow_dispatch'
+    if utc_hour == 6 or first_run or manual:
         print('Running daily email report...')
         email_snapshot = []
         if os.path.exists(EMAIL_SNAP):
