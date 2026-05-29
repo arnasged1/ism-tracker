@@ -311,7 +311,7 @@ def scrape_detail(session, url):
 
         result = dict(empty)
         result['rootCause']              = _extract(lambda l: 'original' in l and 'cause' in l)
-        result['description']            = _extract(lambda l: l.startswith('explanation'))
+        result['description']            = _extract(lambda l: 'explanation' in l or l.startswith('description'))
         result['correctiveAction']       = _extract(lambda l: 'corrective' in l and 'action' in l)
         result['managementComment']      = _extract(lambda l: 'comment' in l and 'management' in l and 'final' not in l)
         result['finalManagementComment'] = _extract(lambda l: 'final' in l and ('conclusion' in l or 'management' in l))
@@ -319,6 +319,7 @@ def scrape_detail(session, url):
         result['dateClosed']             = parse_date(raw_date_closed) if raw_date_closed else ''
 
         print('  Detail scraped: root=' + repr(result['rootCause'][:30]) +
+              ' desc=' + repr(result['description'][:30]) +
               ' ca=' + repr(result['correctiveAction'][:30]) +
               ' mc=' + repr(result['managementComment'][:30]) +
               ' final=' + repr(result['finalManagementComment'][:30]) +
