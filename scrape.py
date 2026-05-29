@@ -210,11 +210,12 @@ def scrape_vessel(session, vessel_name, path):
         if not detail_url:
             print('  ' + vessel_name + ': no link found in row: ' + str([td.get_text(strip=True)[:20] for td in tds]))
 
-        title       = cells[offset].strip()
-        group_raw   = cells[offset + 1].strip()
-        registered  = cells[offset + 3].strip()
-        deadline_s  = cells[offset + 4].strip() if offset + 4 < len(cells) else ''
-        conclusion  = cells[offset + 5].strip() if offset + 5 < len(cells) else ''
+        title         = cells[offset].strip()
+        group_raw     = cells[offset + 1].strip()
+        description_s = cells[offset + 2].strip() if offset + 2 < len(cells) else ''
+        registered    = cells[offset + 3].strip()
+        deadline_s    = cells[offset + 4].strip() if offset + 4 < len(cells) else ''
+        conclusion    = cells[offset + 5].strip() if offset + 5 < len(cells) else ''
 
         closed = False
         if closed_col >= 0 and closed_col < len(cells):
@@ -247,7 +248,7 @@ def scrape_vessel(session, vessel_name, path):
             'vessel':            vessel_name,
             'type':              ftype,
             'title':             title,
-            'description':       '',
+            'description':       description_s,
             'dateRaised':        date_raised,
             'deadline':          deadline_iso,
             'dateClosed':        '',
