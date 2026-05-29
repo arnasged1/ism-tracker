@@ -257,6 +257,7 @@ function setPreset(btn, months) {
   }
   renderDashboard();
 }
+function resetDrillMode() {}
 function clearTablePresets() {
   document.querySelectorAll('.table-preset-btn').forEach(function(b){b.classList.remove('active');});
 }
@@ -557,4 +558,4 @@ renderTable();
 history.replaceState({section: 'dashboard'}, '', '#dashboard');
 </script>
 </body>
-</html>                                                                                                                                                      
+</html>                                                                                                                         
