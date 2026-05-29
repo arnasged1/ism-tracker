@@ -250,6 +250,7 @@ def scrape_vessel(session, vessel_name, path):
             'description':       '',
             'dateRaised':        date_raised,
             'deadline':          deadline_iso,
+            'dateClosed':        '',
             'status':            status,
             'correctiveAction':  conclusion,
             'raisedBy':          '',
@@ -279,6 +280,7 @@ def scrape_detail(session, url):
         'correctiveAction': '',
         'managementComment': '',
         'finalManagementComment': '',
+        'dateClosed': '',
     }
     if not url:
         return empty
@@ -313,11 +315,14 @@ def scrape_detail(session, url):
         result['correctiveAction']       = _extract(lambda l: 'corrective' in l and 'action' in l)
         result['managementComment']      = _extract(lambda l: 'comment' in l and 'management' in l and 'final' not in l)
         result['finalManagementComment'] = _extract(lambda l: 'final' in l and ('conclusion' in l or 'management' in l))
+        raw_date_closed                  = _extract(lambda l: 'clos' in l and ('date' in l or 'dato' in l or l.rstrip(':').endswith('closed')))
+        result['dateClosed']             = parse_date(raw_date_closed) if raw_date_closed else ''
 
         print('  Detail scraped: root=' + repr(result['rootCause'][:30]) +
               ' ca=' + repr(result['correctiveAction'][:30]) +
               ' mc=' + repr(result['managementComment'][:30]) +
-              ' final=' + repr(result['finalManagementComment'][:30]))
+              ' final=' + repr(result['finalManagementComment'][:30]) +
+              ' closed=' + repr(result['dateClosed']))
         return result
     except Exception as e:
         print('  Detail fetch error for ' + url + ': ' + str(e))
@@ -497,6 +502,7 @@ def main():
             'correctiveAction':       pf.get('correctiveAction', ''),
             'managementComment':      pf.get('managementComment', ''),
             'finalManagementComment': pf.get('finalManagementComment', ''),
+            'dateClosed':             pf.get('dateClosed', ''),
         }
 
     # Populate detail fields from Konsult detail pages
@@ -505,13 +511,31 @@ def main():
         key = (finding['vessel'], finding['title'].lower().strip(), finding['dateRaised'])
         if finding['status'] == 'Closed':
             cached = prev_cache.get(key, {})
-            finding['rootCause']              = cached.get('rootCause', '')
-            finding['managementComment']      = cached.get('managementComment', '')
-            finding['finalManagementComment'] = cached.get('finalManagementComment', '')
-            if cached.get('description'):
-                finding['description'] = cached['description']
-            if cached.get('correctiveAction'):
-                finding['correctiveAction'] = cached['correctiveAction']
+            has_cached_data = any(cached.get(k) for k in ('rootCause', 'description', 'managementComment', 'finalManagementComment'))
+            if has_cached_data:
+                # Use cached detail fields — no extra HTTP request needed
+                finding['rootCause']              = cached.get('rootCause', '')
+                finding['managementComment']      = cached.get('managementComment', '')
+                finding['finalManagementComment'] = cached.get('finalManagementComment', '')
+                finding['dateClosed']             = cached.get('dateClosed', '')
+                if cached.get('description'):
+                    finding['description'] = cached['description']
+                if cached.get('correctiveAction'):
+                    finding['correctiveAction'] = cached['correctiveAction']
+            else:
+                # No cached data — finding was already closed on first scrape, fetch detail page now
+                durl = finding.get('detailUrl', '')
+                if durl:
+                    print('  Closed (no cache) — fetching detail: ' + finding['title'][:40])
+                    detail = scrape_detail(session, durl)
+                    finding['rootCause']              = detail['rootCause']
+                    finding['managementComment']      = detail['managementComment']
+                    finding['finalManagementComment'] = detail['finalManagementComment']
+                    finding['dateClosed']             = detail.get('dateClosed', '')
+                    if detail['description']:
+                        finding['description'] = detail['description']
+                    if detail['correctiveAction']:
+                        finding['correctiveAction'] = detail['correctiveAction']
         else:
             durl = finding.get('detailUrl', '')
             if not durl:
@@ -520,6 +544,7 @@ def main():
             finding['rootCause']              = detail['rootCause']
             finding['managementComment']      = detail['managementComment']
             finding['finalManagementComment'] = detail['finalManagementComment']
+            finding['dateClosed']             = detail.get('dateClosed', '')
             # Enrich description and correctiveAction from detail page if available
             if detail['description']:
                 finding['description'] = detail['description']
