@@ -404,8 +404,10 @@ function renderTable() {
     if (vessel   && f.vessel !== vessel) return false;
     if (type     && f.type   !== type)   return false;
     if (status   && f.status !== status) return false;
-    if (dateFrom && f.dateRaised && f.dateRaised < dateFrom) return false;
-    if (dateTo   && f.dateRaised && f.dateRaised > dateTo)   return false;
+    if (f.status !== 'Overdue') {
+      if (dateFrom && f.dateRaised && f.dateRaised < dateFrom) return false;
+      if (dateTo   && f.dateRaised && f.dateRaised > dateTo)   return false;
+    }
     if (search && !f.description.toLowerCase().includes(search) && !f.vessel.toLowerCase().includes(search)) return false;
     return true;
   }).sort(function(a,b) {
@@ -558,4 +560,4 @@ renderTable();
 history.replaceState({section: 'dashboard'}, '', '#dashboard');
 </script>
 </body>
-</html>                                                                                                                         
+</html>                                                                             
