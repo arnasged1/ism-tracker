@@ -14,6 +14,7 @@ TRACKER_URL = os.environ.get('TRACKER_URL', 'https://ism-tracker.vercel.app/#das
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 INDEX_HTML = os.path.join(SCRIPT_DIR, 'index.html')
 PREV_JSON  = os.path.join(SCRIPT_DIR, 'previous_findings.json')
+EMAIL_SNAP = os.path.join(SCRIPT_DIR, 'email_snapshot.json')
 
 VESSELS = [
     ('Billefjord',     '/index.php/billefjord-report-a-notification'),
@@ -321,17 +322,23 @@ def send_email(new_findings, overdue_findings):
         + new_section + overdue_section + tracker_link + '</div>'
     )
 
+    # Build recipient list (EMAIL_TO secret + fixed extra recipients)
+    recipients = [r.strip() for r in EMAIL_TO.split(',') if r.strip()]
+    for extra in ['per@shipping.fo']:
+        if extra not in recipients:
+            recipients.append(extra)
+
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
     msg['From']    = EMAIL_FROM
-    msg['To']      = EMAIL_TO
+    msg['To']      = ', '.join(recipients)
     msg.attach(MIMEText(html_body, 'html'))
 
     try:
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(EMAIL_FROM, EMAIL_PASS)
-            server.sendmail(EMAIL_FROM, EMAIL_TO.split(','), msg.as_string())
-        print('Email sent: ' + subject)
+            server.sendmail(EMAIL_FROM, recipients, msg.as_string())
+        print('Email sent to ' + str(recipients) + ': ' + subject)
     except Exception as e:
         print('Email error: ' + str(e))
 
@@ -365,35 +372,46 @@ def main():
 
     print('Total findings scraped: ' + str(len(all_findings)))
 
-    previous = []
-    if os.path.exists(PREV_JSON):
-        try:
-            with open(PREV_JSON, encoding='utf-8') as f:
-                previous = json.load(f)
-        except Exception as e:
-            print('Could not load previous findings: ' + str(e))
-            previous = []
-
-    print('Previous snapshot had ' + str(len(previous)) + ' findings')
-
-    new_ones = find_new(all_findings, previous)
-    if new_ones:
-        print(str(len(new_ones)) + ' NEW finding(s) detected!')
-        for f in new_ones:
-            print('  + [' + f['vessel'] + '] ' + f['title'])
-    else:
-        print('No new findings since last sync')
-
-    overdue_ones = [f for f in all_findings if f['status'] == 'Overdue']
-    print(str(len(overdue_ones)) + ' overdue finding(s) fleet-wide')
-
-    send_email(new_ones, overdue_ones)
-
+    # ── Update website (every run) ───────────────────────────────────────────
     with open(PREV_JSON, 'w', encoding='utf-8') as f:
         json.dump(all_findings, f, indent=2, ensure_ascii=False)
     print('Saved ' + str(len(all_findings)) + ' findings to previous_findings.json')
 
     generate_html(all_findings)
+
+    # ── Send daily email (only at 06:00 UTC run) ─────────────────────────────
+    utc_hour = datetime.datetime.utcnow().hour
+    print('Current UTC hour: ' + str(utc_hour))
+    first_run = not os.path.exists(EMAIL_SNAP)
+    if utc_hour == 6 or first_run:
+        print('Running daily email report...')
+        email_snapshot = []
+        if os.path.exists(EMAIL_SNAP):
+            try:
+                with open(EMAIL_SNAP, encoding='utf-8') as f:
+                    email_snapshot = json.load(f)
+            except Exception as e:
+                print('Could not load email snapshot: ' + str(e))
+        print('Email snapshot had ' + str(len(email_snapshot)) + ' findings')
+
+        new_ones = find_new(all_findings, email_snapshot)
+        if new_ones:
+            print(str(len(new_ones)) + ' NEW finding(s) since last email!')
+            for f in new_ones:
+                print('  + [' + f['vessel'] + '] ' + f['title'])
+        else:
+            print('No new findings since last email')
+
+        overdue_ones = [f for f in all_findings if f['status'] == 'Overdue']
+        print(str(len(overdue_ones)) + ' overdue finding(s) fleet-wide')
+
+        send_email(new_ones, overdue_ones)
+
+        with open(EMAIL_SNAP, 'w', encoding='utf-8') as f:
+            json.dump(all_findings, f, indent=2, ensure_ascii=False)
+        print('Email snapshot updated')
+    else:
+        print('Skipping email — not the 06:00 UTC run (hour=' + str(utc_hour) + ')')
 
     print('=== Sync complete ===')
 
