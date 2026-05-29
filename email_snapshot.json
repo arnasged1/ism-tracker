@@ -1,6 +1,6 @@
 [
   {
-    "id": "d6e9b936-a742-4cca-9c25-c647c39cc9c0",
+    "id": "4a0eab7c-f1a3-4c2c-9674-0ac001051299",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet in Passenger accommodation",
@@ -12,10 +12,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/845/frontpage-toilet-in-passenger-accommodation?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "09078a0c-2e9e-4058-b644-d8b06f31dd51",
+    "id": "4d52a795-d121-44b7-b094-41767c61425c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet vaccum system",
@@ -27,10 +29,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/841/frontpage-toilet-vaccum-system?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e41878e7-aa83-4112-8d7e-4887427328a7",
+    "id": "c75944fc-cd7d-49fa-a77d-61e8f6cc8bc7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "explosion proof portable radio",
@@ -42,10 +46,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/821/frontpage-explosion-proof-portable-radio?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "af4fd745-202a-4ea7-a77a-cf65c4f1c3fc",
+    "id": "23cb620a-b4c3-4071-985f-0953a9442675",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "anti splash tape for auxilliary engine",
@@ -57,10 +63,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/820/frontpage-anti-splash-tape-for-auxilliary-engine?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "16d7e3d8-fa42-4c85-b6c1-07643bce4f2f",
+    "id": "1a9a0d61-b0af-4a9b-b345-809f6488c177",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted lights in bridge stairway",
@@ -72,10 +80,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/818/frontpage-busted-lights-in-bridge-stairway?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8af7dc8c-b447-48ae-b68f-412845bbfa97",
+    "id": "8bff2a82-653d-402a-892b-4cd007797f1d",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Cleaning snow on deck",
@@ -87,10 +97,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/801/frontpage-cleaning-snow-on-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3c98d200-bf3c-4f9a-9951-ecce16ff0fd3",
+    "id": "ed13afdf-0ce1-46ad-82f6-29096f8bd4b4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Battery of Generator no.1",
@@ -102,10 +114,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/799/frontpage-battery-of-generator-no-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "11e24659-c525-4e03-992b-9e66c49b83f8",
+    "id": "2e7eb92e-c68a-49eb-9dba-174abe373748",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Radio Batteries",
@@ -117,10 +131,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/798/frontpage-radio-batteries?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ac5bb01a-c30e-451f-a9dc-4cd4cae8c1f6",
+    "id": "a4b2a61b-f82d-4abc-a0c7-239e6202645c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "expired equiptment onboard",
@@ -132,10 +148,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/797/frontpage-expired-equiptment-onboard?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8db7f4fc-e220-4b51-917f-68da16d4b965",
+    "id": "a78576b9-38a5-4512-92f2-6101d677456d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Both fireman's outfits kept together in one place - not wide separated",
@@ -147,10 +165,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/777/frontpage-both-fireman-s-outfits-kept-together-in-one-place-not-wide-separated?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e678d1fc-f6aa-4532-a80c-16bc73bec2e8",
+    "id": "78ebfe0c-44c6-46dd-b447-87081fd6819b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Draught stop missing in over a ceiling panels om maindeck to be provided, space lenght 14 meters",
@@ -162,10 +182,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/776/frontpage-draught-stop-missing-in-over-a-ceiling-panels-om-maindeck-to-be-provided,-space-lenght-14-meters?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "14466844-ea7b-48d2-9aa1-f637b3351036",
+    "id": "4f986f49-74bd-4269-ba79-328d1bd934dd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Emergency lightning at stowage position of liferafts and rescue boat to be provided",
@@ -177,10 +199,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/775/frontpage-emergency-lightning-at-stowage-position-of-liferafts-and-rescue-boat-to-be-provided?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c5a56477-b534-4565-828b-265adb8bb45b",
+    "id": "bb625c37-cef7-4faf-8f15-63e60096c7eb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Poster with operating instruction for liferafts in theier vicinity",
@@ -192,10 +216,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/774/frontpage-poster-with-operating-instruction-for-liferafts-in-theier-vicinity?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3ba35c5d-f6b9-409b-b448-9c4d10ffb498",
+    "id": "69aef07f-feb4-4101-8303-9e48129f2901",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Overdue internal audit",
@@ -207,10 +233,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/771/frontpage-overdue-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "82ff029d-dcdd-4e97-b0c7-3ae57e057d0a",
+    "id": "47b2b794-ce55-41e9-9ca5-7b74fc47ad58",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "clogging of bridge window sprinkler",
@@ -222,10 +250,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/764/frontpage-clogging-of-bridge-window-sprinkler?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "56c9ffc9-addc-4e3a-8c59-52f4bca645be",
+    "id": "6d9f0b63-7e57-4f6c-ba90-4653715b8f59",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "sprinkler onboard",
@@ -237,10 +267,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/763/frontpage-sprinkler-onboard?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "55c9560d-406a-408b-a30f-c12e5b6e054f",
+    "id": "6f2ea501-aa50-47b7-b08f-57a3fe58b1e2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Co2 Room Not Gas tight door",
@@ -252,10 +284,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/762/frontpage-co2-room-not-gas-tight-door?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e77f0bc9-93f3-465e-a0c0-91645a955629",
+    "id": "bfda4598-7093-4641-a771-4bb351167038",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB crane motor defective",
@@ -267,10 +301,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/760/frontpage-mob-crane-motor-defective?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "cda81f0a-ea62-4b99-9b79-5a7a68dea9b7",
+    "id": "3a33fffe-6ffc-4e06-b88d-4ac8c380651b",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "working in enclosed space",
@@ -282,10 +318,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/754/frontpage-working-in-enclosed-space?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9e21d376-b1fa-4efc-8faa-dc23c4c98f5e",
+    "id": "f73e11f8-082e-4eea-97dd-1265c9b28f88",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "search light starboard",
@@ -297,10 +335,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/753/frontpage-search-light-starboard?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4dc09537-eb77-4501-b843-1f5856c031c8",
+    "id": "7195ce32-22b5-4eeb-8a9c-15334ac2cf45",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "crane hydraulic pipe leakage",
@@ -312,10 +352,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/752/frontpage-crane-hydraulic-pipe-leakage?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "14522c88-3afc-43d2-ad71-f4e3065e5490",
+    "id": "0fa2243f-cc3d-4d86-8f53-bfefc9db77f8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "busted light in stairs going up to Bridge",
@@ -327,10 +369,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/736/frontpage-busted-light-in-stairs-going-up-to-bridge?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "184980b0-1789-4ffb-b8fc-239954d0db31",
+    "id": "6de9ec7c-fc0f-4adc-82e8-4c11b527357d",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger stumbled on deck",
@@ -342,10 +386,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/720/frontpage-passenger-stumbled-on-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a13093b4-3bc0-49b1-8ac9-92ffd31cd5ad",
+    "id": "46171cca-d064-4c9e-aa0d-1b5c8a669405",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Steering indicator not working well",
@@ -357,10 +403,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/719/frontpage-steering-indicator-not-working-well?start=0",
-    "managementComment": "Maintenance to be done when vessel is back in Tromso, due to lack of electricians in Longyearbean"
+    "rootCause": "",
+    "managementComment": "Maintenance to be done when vessel is back in Tromso, due to lack of electricians in Longyearbean",
+    "finalManagementComment": ""
   },
   {
-    "id": "646013f8-f8f4-4efd-9511-40ac4b248a34",
+    "id": "360ff23d-d2ac-491b-88ed-8e70dbe5624e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Ships pontoon dent",
@@ -372,10 +420,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/717/frontpage-ships-pontoon-dent?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f8c274f1-c2c4-48b8-ae4a-10f3c4d519c8",
+    "id": "c2f60b55-df2a-40c4-a216-3667e2756a0b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "toilet vaccum",
@@ -387,10 +437,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/715/frontpage-toilet-vaccum?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "172d1092-6812-4b82-9328-2516471554d8",
+    "id": "5b51d7ea-db51-41ca-a0ff-15101f032d5c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Generator no. 1 unusual sound/noise during running",
@@ -402,10 +454,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/684/frontpage-generator-no-1-unusual-sound-noise-during-running?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fb48b6f2-558b-4527-af78-a8fa2d746f67",
+    "id": "c6d02401-a174-4cb3-b2cd-5c8ab528a73c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine lubeoil temperature",
@@ -417,10 +471,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/683/frontpage-main-engine-lubeoil-temperature?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0b32dd17-e499-4968-8b4d-6bfd71a09ce0",
+    "id": "b542d112-8022-4555-b838-89266fb836b2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Navigational lights busted",
@@ -432,10 +488,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/682/frontpage-navigational-lights-busted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8654fccb-4c74-47f1-925f-45f37c16c0f9",
+    "id": "562b9255-45db-43e0-a344-5874200e6d30",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "hydraulic hose",
@@ -447,10 +505,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/681/frontpage-hydraulic-hose?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3134e896-0de3-4f82-b121-e1da5d419995",
+    "id": "7ba05b42-e52f-451c-a323-5e0f2d697a0a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Galley refrigerator",
@@ -462,10 +522,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/679/frontpage-galley-refrigerator?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "51a75b5e-7dba-426b-bab5-4bc877bce110",
+    "id": "40503fd1-be26-4630-b900-c82f4396efd6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Storage capacity for waste on board",
@@ -477,10 +539,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/676/frontpage-storage-capacity-for-waste-on-board?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "50dd28b7-4f3b-4ef6-8acd-985ea14e2a23",
+    "id": "7b8228a8-4474-4723-a3dc-dedc19e5e406",
     "vessel": "Billefjord",
     "type": "OBS",
     "title": "Pre- arrival notification to current port",
@@ -492,10 +556,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/675/frontpage-pre-arrival-notification-to-current-port?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7ccac41e-9a31-4fc3-9beb-862bb0835a22",
+    "id": "5c0645e8-2a1b-4d32-90d5-6923682d1b9a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Garbage Record books WR",
@@ -507,10 +573,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/674/frontpage-garbage-record-books-wr?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "77102d0e-b6a0-4848-b3b7-39c1d05f1d41",
+    "id": "d71bb748-de1c-4845-9376-7f861da28669",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "L.O. alarm in Engine room",
@@ -522,10 +590,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/672/frontpage-l-o-alarm-in-engine-room?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e3470299-5430-47cb-b89c-70aef5eec2af",
+    "id": "3bf2d8df-b0a2-4c75-8d47-081d0f8dc8c6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Broken hydraulic hose of cargo crane",
@@ -537,10 +607,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/668/frontpage-broken-hydraulic-hose-of-cargo-crane?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fd61d4b8-5a3c-4837-a0bc-f2fd4a7fd0ec",
+    "id": "5ea03a75-17ac-41d9-95ab-5e0f304b32c6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Life bouy in Main deck - PSC Deficiency #2",
@@ -552,10 +624,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/654/frontpage-life-bouy-in-main-deck-psc-deficiency-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6ad42efa-a56a-4a55-b324-0a70251b0beb",
+    "id": "cac05a53-42b7-4d3f-9085-7a61ad6470c7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Fjordcruise passage plan - PSC deficiency #1",
@@ -567,10 +641,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/653/frontpage-fjordcruise-passage-plan-psc-deficiency-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a0424c6e-4c83-4fb6-80f3-82cc1e610908",
+    "id": "dc3d1db1-ea4d-43b4-a974-a5abede6b225",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted masthead light",
@@ -582,10 +658,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/652/frontpage-busted-masthead-light?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "db230911-1db1-4839-ad1e-e4059c129f3b",
+    "id": "cb7d4cb6-28d3-4ccb-b35c-96b614d71aec",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted Navigational lights starboard",
@@ -597,10 +675,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/651/frontpage-busted-navigational-lights-starboard?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0d756bfb-3d8b-4867-bf51-5c22c1374701",
+    "id": "503a315f-9111-441e-a46f-4c516a644763",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "generator break down",
@@ -612,10 +692,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/650/frontpage-generator-break-down?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f5a2147f-f36d-4cba-b06f-b7894ee01525",
+    "id": "cdd4800b-1bc3-4cbf-bb8b-e37632a60aa5",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Battery and alternator of Generator no. 1",
@@ -627,10 +709,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/648/frontpage-battery-and-alternator-of-generator-no-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2c4c4792-bf4e-4909-9d03-bc6bd41eff03",
+    "id": "975efb93-f232-4311-b8dc-85164ea1df40",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Slippery Deck",
@@ -642,10 +726,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/647/frontpage-slippery-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6566b299-c6cb-4c1f-b005-602764bf958d",
+    "id": "957744ba-276f-4a7a-bf11-a199364e0d68",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "not wearing hardhat during heaving  up anchor chain in drydock",
@@ -657,10 +743,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/646/frontpage-not-wearing-hardhat-during-heaving-up-anchor-chain-in-drydock?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c8dd75b9-c779-4659-ab93-cb81bc540223",
+    "id": "99b3e8d9-5519-4600-88bf-337501cef4cb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "self closing valve on sounding pipes in engine room",
@@ -672,10 +760,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/645/frontpage-self-closing-valve-on-sounding-pipes-in-engine-room?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3b28d5f1-cec2-4a7e-86c7-6cc553bd3c2e",
+    "id": "c6421339-e613-468c-a6e6-c80ef70636f9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Froozen roller fairlead in forcastle deck",
@@ -687,10 +777,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/644/frontpage-froozen-roller-fairlead-in-forcastle-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7f7c6473-f681-414b-adee-25cae8c14840",
+    "id": "dbd14acc-b4a1-4ab0-9ff2-4a5bdc2e9a7e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "External ISM Audit - NC 2 - Risk Assessments",
@@ -702,10 +794,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/636/frontpage-external-ism-audit-nc-2-risk-assessments?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ec60a751-8aea-48c8-8c84-1ff7eb7242ee",
+    "id": "6c9a068c-785f-4502-b7b0-115dbee44734",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "External ISM Audit - NC 1 - Ineffective maintenace",
@@ -717,10 +811,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/635/frontpage-external-ism-audit-nc-1-ineffective-maintenace?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "15408b31-f0b0-4f99-8793-b1b735f7f1a5",
+    "id": "7b0d5f82-d801-4c74-9af2-b1518807d3e2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "starboard side search light Busted",
@@ -732,10 +828,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/629/frontpage-starboard-side-search-light-busted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1aa4ea4b-fdf7-4fd5-8790-8238c8bbffb4",
+    "id": "1dbaef6c-8b9d-429c-a52f-141551c5fa7f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Leaking in AUX engine and minor leaking from quick closing valve",
@@ -747,10 +845,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/620/frontpage-leaking-in-aux-engine-and-minor-leaking-from-quick-closing-valve?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3eb8526f-70f0-4dfd-896d-5ad04f8895e4",
+    "id": "c7a763f9-2391-4d44-9a45-a865232b166c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "All outdoors light on boat deck missing its weather integrity due to missing lids or damaged lamps cover",
@@ -762,10 +862,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/619/frontpage-all-outdoors-light-on-boat-deck-missing-its-weather-integrity-due-to-missing-lids-or-damaged-lamps-cover?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8e42bcec-ebb1-4c67-991a-e30f47e484d8",
+    "id": "7374e54d-02b6-4d47-bcd3-3e648cc7e099",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Missing text in life bouy port of registry",
@@ -777,10 +879,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/618/frontpage-missing-text-in-life-bouy-port-of-registry?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d8cc4891-b5b4-4da9-8dc7-ffc55f90cc47",
+    "id": "58245374-6cad-4a9c-8747-f3a04ecbe6ea",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Deteriorated hydraulic hoses on mc gregor system.",
@@ -792,10 +896,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/617/frontpage-deteriorated-hydraulic-hoses-on-mc-gregor-system?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "53992eb9-feb8-4583-ac68-a2e66ecdf078",
+    "id": "04d54374-1d2b-423e-a597-0f95ee345f0f",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "A passenger stumbled on forcastle deck.",
@@ -807,10 +913,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/613/frontpage-a-passenger-stumbled-on-forcastle-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8955b9bb-bfed-4585-8f06-bec95ceb289d",
+    "id": "86f26182-0491-4a10-afd4-ed44b19736ec",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine No. 4 injector low exhaust pressure",
@@ -822,10 +930,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/612/frontpage-main-engine-no-4-injector-low-exhaust-pressure?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e84fe060-8667-4aed-92a1-fa922195f3fa",
+    "id": "1c58b247-41a1-4261-aeaf-63e2b401047e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "lLubricating oil pump is leaking.",
@@ -837,10 +947,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/611/frontpage-llubricating-oil-pump-is-leaking?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "57e84687-e28c-40bd-8368-eccc4c7b001b",
+    "id": "af1346fb-cdd2-4dcb-9a3c-5da9d6219365",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Ships whistle not working",
@@ -852,10 +964,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/604/frontpage-ships-whistle-not-working?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "991c54b2-3765-400b-9a46-6368b84a4d7a",
+    "id": "18b3f93c-8ec1-4379-8645-e7f1737effd1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Galley sink was clogged",
@@ -867,10 +981,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/603/frontpage-galley-sink-was-clogged?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3087752b-e715-4f69-9fc0-6f31b2587c36",
+    "id": "7599c9bc-b91a-4b33-a66e-6fb8e2b1a53a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "General alarm sound error",
@@ -882,10 +998,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/591/frontpage-general-alarm-sound-error?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "19b7c273-ac87-49a7-b41a-88b66e8bfb2c",
+    "id": "94058ef9-330b-4bd9-8c23-46ded83eb68d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Obstruction in cargo hold stairs",
@@ -897,10 +1015,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/590/frontpage-obstruction-in-cargo-hold-stairs?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "afbfd043-dfe6-463c-adac-6b25cc284cc4",
+    "id": "9e436417-9dc8-471c-ad8d-c6d8ff4d8985",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger sitting in ships bulwark",
@@ -912,10 +1032,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/589/frontpage-passenger-sitting-in-ships-bulwark?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fb100a5a-dac2-4799-b9d3-bcb5765f2abb",
+    "id": "906de62e-376f-4160-ad7e-9f3dd71d763d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Earth fault in fire alarm system",
@@ -927,10 +1049,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/585/frontpage-earth-fault-in-fire-alarm-system?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fa655530-f1f3-4a72-9694-bc4633185260",
+    "id": "a23a3ab6-a029-42a3-8192-25cc5cc7e666",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "icy fore deck",
@@ -942,10 +1066,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/584/frontpage-icy-fore-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d0e9cd81-420f-4233-8934-19dd7d32b550",
+    "id": "ad854867-8897-4acc-9fda-4b1c79a89b68",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Lashing of chairs in sundeck during helicopter training exercise",
@@ -957,10 +1083,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/583/frontpage-lashing-of-chairs-in-sundeck-during-helicopter-training-exercise?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f3434aa3-d670-4afa-849a-985e3d118124",
+    "id": "6d09385b-9b48-4b47-a0d5-29ab7ba41158",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "The gangway safety net was damaged",
@@ -972,10 +1100,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/582/frontpage-the-gangway-safety-net-was-damaged?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6fa768c5-a1b0-4d65-bc77-d0dd2a8e0664",
+    "id": "48a703b9-0ceb-46df-89b8-a0738bbfbbcc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB engine hard to start",
@@ -987,10 +1117,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/580/frontpage-mob-engine-hard-to-start?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1bde5b39-aa98-4f46-9028-ed2badcd9e14",
+    "id": "f584d942-b7c5-44bc-9476-7c7769fc578a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Air compressor - oil level level.",
@@ -1002,10 +1134,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/577/frontpage-air-compressor-oil-level-level?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ba9a2a10-2ab8-41fb-921c-4247196ad9f9",
+    "id": "55809239-eeed-486e-a833-1ab15fb00716",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger fell down on the floor",
@@ -1017,10 +1151,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/566/frontpage-passenger-fell-down-on-the-floor?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9b50d376-d4aa-4306-89a6-4cd4270afc2c",
+    "id": "57718fb3-0d37-4649-ad84-598bb4c0fc25",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Crane wire damaged",
@@ -1032,10 +1168,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/565/frontpage-crane-wire-damaged?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "cfaf9283-d277-49bf-9927-55fa04c50a35",
+    "id": "e37a58ea-3b45-47d3-8caa-1a093c0d9ac8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "rudder indicator",
@@ -1047,10 +1185,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/503/frontpage-rudder-indicator?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c728f3bc-9a6a-49b3-b7a0-fa606648f9a2",
+    "id": "86ac782d-9582-4519-b30c-83f121e955a9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Forward floodlight portside not working",
@@ -1062,10 +1202,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/502/frontpage-forward-floodlight-portside-not-working?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "18ed4fed-3533-405c-a08e-7c01ff7a53ca",
+    "id": "b05a32a2-6dd2-496a-9b21-ce9eb83364fe",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Gangway rope line twisted",
@@ -1077,10 +1219,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/495/frontpage-gangway-rope-line-twisted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6608cf35-c0b6-41a3-af43-26cb6d25fbcf",
+    "id": "d653c459-d3d0-44fe-b4a3-1e9a9995f648",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "leakage in fire hose nozzle",
@@ -1092,10 +1236,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/494/frontpage-leakage-in-fire-hose-nozzle?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f6efbdb8-a711-4e04-b076-d93e78cd11db",
+    "id": "44261798-634b-49fa-836d-c6a3dd308832",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB boat hard to start",
@@ -1107,10 +1253,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/493/frontpage-mob-boat-hard-to-start?start=0",
-    "managementComment": "Corrective actions accepted. How the water came into the tank, from which place?"
+    "rootCause": "",
+    "managementComment": "Corrective actions accepted. How the water came into the tank, from which place?",
+    "finalManagementComment": ""
   },
   {
-    "id": "a43c695c-5a45-4dc8-8f38-aee440e5b27b",
+    "id": "19c1faa7-0eec-44af-a9c3-5af84e7bba1c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine Push rod oil  leakage",
@@ -1122,10 +1270,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/492/frontpage-main-engine-push-rod-oil-leakage?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "81bcfe80-1d41-4a7a-aacf-5e48c32adaec",
+    "id": "cb5f7f58-50fc-4490-a9bf-19d98d8413b3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine clutch alarm",
@@ -1137,10 +1287,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/491/frontpage-main-engine-clutch-alarm?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "5fb2e898-f22e-4665-9a94-01524e196a56",
+    "id": "3226fb06-c071-435f-b1f8-471532741c79",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Restricted area signage in bridge deck",
@@ -1152,10 +1304,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/490/frontpage-restricted-area-signage-in-bridge-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "48f69e9b-6286-4391-967d-e6a489f4c699",
+    "id": "4c284e01-557e-4011-a1ac-f6dcd2fc9710",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "navigational lights busted",
@@ -1167,10 +1321,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/488/frontpage-navigational-lights-busted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "cff71fb0-d544-4ccc-8c6b-df20a25649db",
+    "id": "db2aa419-f20f-495c-ad41-d75d9972fbb7",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Hand sanitizer again after sight seeing tour in Russian settlement, barentsburg/Pyramiden",
@@ -1182,10 +1338,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/487/frontpage-hand-sanitizer-again-after-sight-seeing-tour-in-russian-settlement,-barentsburg-pyramiden?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f453dfed-fdfc-41ae-8e5d-8ae22e769ea0",
+    "id": "dcd74a3e-b821-46f5-ac66-c168474a2cfa",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "children climbing in anchor windlass",
@@ -1197,10 +1355,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/486/frontpage-children-climbing-in-anchor-windlass?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ec6e2eef-99e0-4025-86d4-a81c2159e3c0",
+    "id": "b8b095bd-78f5-42a0-b153-390e810cefbe",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet vacuum motor not working",
@@ -1212,10 +1372,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/485/frontpage-toilet-vacuum-motor-not-working?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "48be38af-4de5-4d0e-b6c6-24085cd9e65f",
+    "id": "0aa6b847-6759-4bc4-9144-6330ed50f78a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "bilge sensor alarm in steering room",
@@ -1227,10 +1389,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/453/frontpage-bilge-sensor-alarm-in-steering-room?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1c289ec8-5e2a-425e-9bdb-62dc1720623c",
+    "id": "73009b07-d409-48d5-9869-46b193fbf74a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "water tight door plate deteriorated",
@@ -1242,10 +1406,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/452/frontpage-water-tight-door-plate-deteriorated?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "415512eb-1890-4410-9c89-54dc013d3a5d",
+    "id": "20431480-f7ad-4c98-85da-c63d5c44a726",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "wet deck in sundeck and maindeck",
@@ -1257,10 +1423,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/451/frontpage-wet-deck-in-sundeck-and-maindeck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "87c8810d-93ea-43f0-8779-78eeb3cbafd1",
+    "id": "02732729-f36f-4e82-9a58-345f10b23d4a",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "social distancing in the Bar",
@@ -1272,10 +1440,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/445/frontpage-social-distancing-in-the-bar?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9a4b20ca-a6af-44d8-908b-e205cf015075",
+    "id": "efc8c913-469e-4baa-8ed4-7baa24621745",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Clogged toilet pipe",
@@ -1287,10 +1457,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/444/frontpage-clogged-toilet-pipe?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d16c03eb-a062-4ac1-a8f7-5329ddfe4080",
+    "id": "33915e91-6a2e-47d7-a7e0-2ce092a562f9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Hull dented port and starboard Pontoon",
@@ -1302,10 +1474,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/443/frontpage-hull-dented-port-and-starboard-pontoon?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "bd134a7f-7d0d-41be-a6ca-fe72c11cf33b",
+    "id": "5ce7674d-693d-4feb-b4d7-1b61079fc2f1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "ships whistle not working",
@@ -1317,10 +1491,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/436/frontpage-ships-whistle-not-working?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c09e2044-1850-4643-ba34-89b17e408422",
+    "id": "54daa001-12b8-4c63-9d5f-72b6924a209b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "cooler strainer full of ice",
@@ -1332,10 +1508,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/435/frontpage-cooler-strainer-full-of-ice?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ba2ab3e0-a69c-4362-9356-1c6aea2ff0b8",
+    "id": "28710798-3fb1-4112-b0c4-9461766431d1",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "additional mooring rope during bad weather",
@@ -1347,10 +1525,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/434/frontpage-additional-mooring-rope-during-bad-weather?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f34f426d-590e-4e84-9a30-fc0e3cf78b66",
+    "id": "f8eb13fd-0e30-47dd-bf82-8e41c02d3d59",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "radar scanner rotating/open",
@@ -1362,10 +1542,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/433/frontpage-radar-scanner-rotating-open?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a3ae99b5-92e6-438b-85d1-6530d9f649dd",
+    "id": "f04a97eb-7544-4d03-a6fc-64b88b8b5092",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Bridge door signage/restricted",
@@ -1377,10 +1559,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/414/frontpage-bridge-door-signage-restricted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "36b0ae6c-c162-4689-bf45-fd0f816569c3",
+    "id": "53ecf230-0215-4982-958d-a9b9c6bfe3bc",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Clean and disinfect the Passenger accommodation",
@@ -1392,10 +1576,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/413/frontpage-clean-and-disinfect-the-passenger-accommodation?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6c7561c3-8f2b-41b9-b602-ab7706b1848c",
+    "id": "e1efb50e-ca1d-4885-989d-03b161ba8bd6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine high Pressure pipe leakage",
@@ -1407,10 +1593,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/412/frontpage-main-engine-high-pressure-pipe-leakage?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2fcc4d58-3fa9-4c1b-87c8-6ea56ec00b57",
+    "id": "68822e76-1f6b-4324-88b4-bff7045b9563",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "toilet vacuum pump sensor not working properly",
@@ -1422,10 +1610,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/411/frontpage-toilet-vacuum-pump-sensor-not-working-properly?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e6100390-3fa7-4743-93dc-5253f60dd2c8",
+    "id": "885cc5a5-9b24-45e1-b57b-e556612dc4a0",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Slippery deck",
@@ -1437,10 +1627,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/393/frontpage-slippery-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f7f85b2e-4674-411c-827c-38fc5fbb4a6b",
+    "id": "0af3c066-34cb-4dc8-a728-4978bc3cc9dd",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "anchor windlass no cover while sailing and exposed to cold weather",
@@ -1452,10 +1644,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/392/frontpage-anchor-windlass-no-cover-while-sailing-and-exposed-to-cold-weather?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "194dea87-c0da-4306-aa7d-0e305a1a27f5",
+    "id": "5d3c820b-9a3a-4cc3-a26b-4c37696f241a",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "water tight door lever not properly lock while sailing from tromso to longyearbyen",
@@ -1467,10 +1661,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/391/frontpage-water-tight-door-lever-not-properly-lock-while-sailing-from-tromso-to-longyearbyen?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0c5b979f-7f17-406a-b76e-1852208a58b1",
+    "id": "954855d1-f439-4d45-b85d-7d6232f43c3b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Chart not updated, Port state required Norwegian chart on board",
@@ -1482,10 +1678,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/390/frontpage-chart-not-updated,-port-state-required-norwegian-chart-on-board?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7f872a1a-5f85-4e58-87f1-4e0436b1c9fc",
+    "id": "b00c741c-b39d-4aa8-812b-1a7a6dfa9fa8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "passage plan not signed by officer",
@@ -1497,10 +1695,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/389/frontpage-passage-plan-not-signed-by-officer?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e295010a-27cb-4312-b2b7-6aae57321dc7",
+    "id": "c8b54802-7068-4144-b073-937ced933fad",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "loose searchlight handle",
@@ -1512,10 +1712,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/261/frontpage-loose-searchlight-handle?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "41c8392f-5ff4-4159-bb2d-49605b2cca8e",
+    "id": "40cc2086-1a72-4ab2-bffe-dede1d221e2c",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Painting in chain locker",
@@ -1527,10 +1729,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/260/frontpage-painting-in-chain-locker?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "196bdb28-086f-440c-b637-2444cc7b88f2",
+    "id": "96795798-2f72-4c17-bb22-b721e1ef00b6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Broken socket of Masthead light",
@@ -1542,10 +1746,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/238/frontpage-broken-socket-of-masthead-light?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "157621c1-0597-4f3e-9527-bc78068e22c0",
+    "id": "0c7f51f6-5909-4041-b8d9-1c89d6014f61",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Aft 2nd deck flourescent light",
@@ -1557,10 +1763,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/237/frontpage-aft-2nd-deck-flourescent-light?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "10127bd0-3217-495f-9f4e-549938cda1ed",
+    "id": "7a99049d-ce48-4380-bb6d-ff956e8b68ed",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger standing in a bow during rough sea",
@@ -1572,10 +1780,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/236/frontpage-passenger-standing-in-a-bow-during-rough-sea?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f4a80dd4-1c7c-4d2d-ac11-5e48fcfdf189",
+    "id": "980e3206-874f-41d5-b6ae-3bb5d55741df",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Guideline for throwing rope",
@@ -1587,10 +1797,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/235/frontpage-guideline-for-throwing-rope?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ba3a0efd-3549-40ae-bbf8-6ff5f348a05d",
+    "id": "0bdd7736-bc97-4a1d-a6d9-9fa57c70797b",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger standing closed to bitts while docking manuever",
@@ -1602,10 +1814,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/234/frontpage-passenger-standing-closed-to-bitts-while-docking-manuever?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "42f594a1-22e6-4feb-af55-2e8813e65f2f",
+    "id": "94f09cf6-3033-4178-8580-da584ab4716a",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "wet floor of passenger acommodation",
@@ -1617,10 +1831,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/233/frontpage-wet-floor-of-passenger-acommodation?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "048e0990-3cc6-4e32-a5a4-746f17f198f7",
+    "id": "3bdce068-a218-4276-860c-eef069bfce63",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Entering cargo hold directly after opening the hatch",
@@ -1632,10 +1848,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/191/frontpage-entering-cargo-hold-directly-after-opening-the-hatch?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "80939c5d-8c9d-4805-952a-91a7b723b3ca",
+    "id": "9a0d0e8a-4c60-4176-a899-c3abdfb44621",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Not wearing Hard hat during crane operation",
@@ -1647,10 +1865,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/190/frontpage-not-wearing-hard-hat-during-crane-operation?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "506186c2-005b-4884-8716-aaea49f4ebbb",
+    "id": "793d866f-0e52-4b90-96c5-04fe329aeca6",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Working in side of the boat while picking up  ice for the guest without life vest",
@@ -1662,10 +1882,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/189/frontpage-working-in-side-of-the-boat-while-picking-up-ice-for-the-guest-without-life-vest?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d9be202d-bcff-4ce6-b290-446136351db5",
+    "id": "5fa37973-9873-422f-b12d-fa70772e9821",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Applying Rust remover with out safety goggles",
@@ -1677,10 +1899,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/188/frontpage-applying-rust-remover-with-out-safety-goggles?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c60b709a-2311-4313-b3e5-d53d29b83fc6",
+    "id": "8d75b3fd-f23f-4443-b72a-c28721132a09",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "obstruction at engine room stairs",
@@ -1692,10 +1916,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/187/frontpage-obstruction-at-engine-room-stairs?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0efa9ea0-54c3-45c8-9146-313c61704247",
+    "id": "8fac0b04-c884-4a63-8af7-87b83006f69d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Pump",
@@ -1707,10 +1933,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/173/frontpage-toilet-vacuum-pump?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4765e7d5-72f6-48a6-a909-af100dbab8cd",
+    "id": "248fff08-ed24-4db6-b49b-9785fe4b8d54",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Small Leakage of Generator #1, Sea Water Pump",
@@ -1722,10 +1950,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/billefjord-report-a-notification/details/9/172/frontpage-small-leakage-of-generator-1,-sea-water-pump?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e7c6f6ac-8cce-446f-881a-3bdcc3e6de51",
+    "id": "a80ba052-8b86-40d0-95a9-16d1075e6dea",
     "vessel": "Samson",
     "type": "NM",
     "title": "Blackout",
@@ -1737,10 +1967,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/819/frontpage-blackout?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a6c9d983-f01f-4a77-b67f-bfd3000359eb",
+    "id": "2b936c9d-c1f3-46c0-8253-3cda5c1cb471",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit REC #1 - Training Manuals",
@@ -1752,10 +1984,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/817/frontpage-ism-audit-rec-1-training-manuals?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "dcbb6873-8ec5-4057-aa2f-3f85bc15dec4",
+    "id": "ffc18ea3-3ac1-42f3-9860-4ee8fa336385",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #5 - Deck crane not inspedted",
@@ -1767,10 +2001,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/816/frontpage-ism-audit-nc-5-deck-crane-not-inspedted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "012440bb-9be5-428c-8edb-0b38fe87379c",
+    "id": "d49327f0-7cc0-4152-a3f7-834db7140db5",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #5 - Sterring Gear pumps",
@@ -1782,10 +2018,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/815/frontpage-ism-audit-obs-5-sterring-gear-pumps?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c78e9827-cac4-4974-8714-b07d3fbd768b",
+    "id": "aabec824-17e4-4aab-a99b-3d5280e0da0c",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #4 - No UKC specified",
@@ -1797,10 +2035,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/814/frontpage-ism-audit-obs-4-no-ukc-specified?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "72cdeafa-6c99-4c0b-8181-339dec404b27",
+    "id": "3a05ad22-7ae2-41d8-942a-fd5f733ab9c9",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #3 - Standing Orders",
@@ -1812,10 +2052,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/813/frontpage-ism-audit-obs-3-standing-orders?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d63cfbaf-97a6-47ef-aa5e-84e58af8f07c",
+    "id": "2a219294-eb1b-4c65-9261-4f43eeb2599a",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS # 2 - Risk Assessments.",
@@ -1827,10 +2069,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/812/frontpage-ism-audit-obs-2-risk-assessments?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0a343ef1-94ef-4b07-950b-08e4e6d60f37",
+    "id": "31f6009c-13f7-4565-8b36-818e25b088ce",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #1 - Nautical publicatios outdated.",
@@ -1842,10 +2086,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/811/frontpage-ism-audit-obs-1-nautical-publicatios-outdated?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9a6bad44-e5d5-4e8c-b83a-aca6f6df75bd",
+    "id": "b1b04c1e-bc9d-4f32-b28c-46302960ad29",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #4 - Material Data SHeets",
@@ -1857,10 +2103,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/810/frontpage-ism-audit-nc-4-material-data-sheets?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0fcbffcd-ee5c-43b6-a0f2-5168ef56391f",
+    "id": "f7e3c3f4-4052-4ac7-84ad-39bd03ed6d5e",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #3 - Emergency Drills",
@@ -1872,10 +2120,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/809/frontpage-ism-audit-nc-3-emergency-drills?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c2570a9d-a83f-4988-a537-c3426131ba1c",
+    "id": "a0d8353d-55b2-4bce-a1be-6904ff0d8187",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #2 - Immersion suits not inspected",
@@ -1887,10 +2137,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/808/frontpage-ism-audit-nc-2-immersion-suits-not-inspected?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e2b0bd00-31d6-4c09-b856-481b365a4400",
+    "id": "ca71bd49-93ee-4447-982f-097e514e0592",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #1 - Expired certifikates",
@@ -1902,10 +2154,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/807/frontpage-ism-audit-nc-1-expired-certifikates?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fbc06650-9e58-47c0-9a81-f78af0e43c82",
+    "id": "62a6873c-5e46-4f6f-8926-d06d38e281f4",
     "vessel": "Samson",
     "type": "NC",
     "title": "Gear PS",
@@ -1917,10 +2171,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/806/frontpage-gear-ps?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "742d40de-eb89-49ad-a0de-4b584bec5b66",
+    "id": "e8d08952-77ba-46ca-a19f-03ec5515480d",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit leak on the oil pan on stb aux eng",
@@ -1932,10 +2188,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/758/frontpage-internal-audit-leak-on-the-oil-pan-on-stb-aux-eng?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3a0f96d6-63d7-4413-8e9a-74dbd8f6bb0a",
+    "id": "4b746e18-e2bf-499a-b03e-746f6aeaae53",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Inernal audit chain lock broken",
@@ -1947,10 +2205,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/757/frontpage-inernal-audit-chain-lock-broken?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d9196965-837a-4e1c-b151-8b62cf94395d",
+    "id": "5867fa05-be82-46d9-86c5-90df7d01bd13",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit oIl record and Sludge",
@@ -1962,10 +2222,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/756/frontpage-internal-audit-oil-record-and-sludge?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2d0b55ad-242f-49c3-bc20-7a8d4a3b73dd",
+    "id": "2cc803f4-aad8-4efa-88c7-6378c1b5db6b",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit",
@@ -1977,10 +2239,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/755/frontpage-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d2479263-10e7-410f-874f-eed5ad4343ab",
+    "id": "e1facb43-e9ac-44e1-b7c0-49ecc56364b2",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Earmuffs",
@@ -1992,10 +2256,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/751/frontpage-earmuffs?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "648dd58a-cf20-43e9-8437-4fe468267f1f",
+    "id": "bc3031c4-9045-46bc-b24b-788e96c0d170",
     "vessel": "Samson",
     "type": "NC",
     "title": "Broken leg",
@@ -2007,10 +2273,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/734/frontpage-broken-leg?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8a9d1217-fd67-48cb-aa7f-21bff28b2389",
+    "id": "042db8be-b7d7-4613-855a-e6c7e91b0c6e",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Alarm bell",
@@ -2022,10 +2290,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/733/frontpage-alarm-bell?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "51dec88b-c5d6-4495-a801-fdf269bc2816",
+    "id": "3074550e-0105-4cfb-9a61-cbbb004c91c8",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Oilspill",
@@ -2037,10 +2307,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/732/frontpage-oilspill?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "304484ef-8ee2-49fc-9276-61e62a6fd6f1",
+    "id": "6960d0a8-7bbe-4ad4-ae0a-0215115793ef",
     "vessel": "Samson",
     "type": "NC",
     "title": "Near Accident",
@@ -2052,10 +2324,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/716/frontpage-near-accident?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4a767cd4-c5a7-418a-b949-8961020690f7",
+    "id": "20f0631d-abf1-49cb-bea6-23e5a59ce9fd",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Oil spill",
@@ -2067,10 +2341,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/714/frontpage-oil-spill?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "dc6e4ad5-9262-4d69-a07a-6544c0c52f83",
+    "id": "9348b9b7-870c-4d63-8119-135ce89d2f23",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 12.06.23",
@@ -2082,10 +2358,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/712/frontpage-internal-audit-12-06-23?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7d19d7ca-8d36-4043-ab7b-331c8cf2cbdd",
+    "id": "004fa963-2e2a-4a58-be37-993c3942cf68",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit 12.06.23",
@@ -2097,10 +2375,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/711/frontpage-internal-audit-12-06-23?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e71edf16-7cda-4b51-9ea5-2cb6fec89a13",
+    "id": "35a0ca6b-f6fa-4ad7-a86e-bfc78b106d89",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 12.06.23",
@@ -2112,10 +2392,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/710/frontpage-internal-audit-12-06-23?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ac7c805a-c730-4f78-bd68-617ca1d99cf8",
+    "id": "8ecdc6cb-62b3-44ff-83f4-44d94bb0e99c",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit 12.06.23",
@@ -2127,10 +2409,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/709/frontpage-internal-audit-12-06-23?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "210a660b-f014-4f31-82f4-03052ed48ff3",
+    "id": "e494a636-8987-4247-85b0-21146fde1154",
     "vessel": "Samson",
     "type": "NC",
     "title": "Poor followup of NC´s",
@@ -2142,10 +2426,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/688/frontpage-poor-followup-of-nc´s?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6daa44da-1c39-4c6e-adda-66dbf16178db",
+    "id": "60974b69-58d9-4bbf-a8d7-4f719249a003",
     "vessel": "Samson",
     "type": "NM",
     "title": "Balck out of Main engines",
@@ -2157,10 +2443,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/687/frontpage-balck-out-of-main-engines?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b93ce2e5-e597-4f3f-9463-fb31950c30b5",
+    "id": "ee57d336-16a5-4e9f-a42e-992d791fb72f",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Pump in front of the escape ladder.",
@@ -2172,10 +2460,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/680/frontpage-pump-in-front-of-the-escape-ladder?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6e9bf3a4-29cf-47fd-9818-a45b57da208d",
+    "id": "7a3f6345-18b9-4ade-a891-0f12ecd7012b",
     "vessel": "Samson",
     "type": "NM",
     "title": "Deformation of box for Emergency Fire Pump",
@@ -2187,10 +2477,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/661/frontpage-deformation-of-box-for-emergency-fire-pump?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d333452a-9b23-4166-9e49-3ffd66cbba10",
+    "id": "f02ca416-0d84-4bd4-bfe4-c1eec434be53",
     "vessel": "Samson",
     "type": "NM",
     "title": "Sea water in motor oil on Emergency Fire Pump",
@@ -2202,10 +2494,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/660/frontpage-sea-water-in-motor-oil-on-emergency-fire-pump?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "90878ec9-954a-4bc3-a239-57e4d845dec0",
+    "id": "cc236fce-4903-47b0-9761-35b184fa2307",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Proper communication when outside land-based Internet.",
@@ -2217,10 +2511,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/659/frontpage-proper-communication-when-outside-land-based-internet?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0b395b5f-16b1-4921-aead-74d23afaed4a",
+    "id": "c255f519-d706-4afa-aa64-cbf3922ba9c4",
     "vessel": "Samson",
     "type": "NC",
     "title": "Search Lights Aft out of order.",
@@ -2232,10 +2528,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/658/frontpage-search-lights-aft-out-of-order?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "383ceda4-6cca-4957-87cd-dd61a946fc20",
+    "id": "dc355164-ebe8-443f-a056-6da573f85441",
     "vessel": "Samson",
     "type": "NM",
     "title": "Salt water leakage on bridge-roof",
@@ -2247,10 +2545,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/643/frontpage-salt-water-leakage-on-bridge-roof?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "512d391f-7477-4766-af9c-5c90710a824e",
+    "id": "5cae3506-51ee-4e06-9fd0-679c20799988",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Recommendation 2",
@@ -2262,10 +2562,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/610/frontpage-internal-audit-recommendation-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c3588be0-2710-4270-8393-f7607048b9ee",
+    "id": "f585ad2e-e2b1-405f-bb07-60f67cee152d",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Recommendation 1",
@@ -2277,10 +2579,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/609/frontpage-internal-audit-recommendation-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2a9f781c-402d-423c-84c1-10f3e78528a0",
+    "id": "cec2e6cf-5b8a-47f8-bc93-03006a0d5c8b",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #5",
@@ -2292,10 +2596,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/608/frontpage-internal-audit-observation-5?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1a2f905a-47c6-4d63-94cf-9ee649a86198",
+    "id": "934a23a4-d5b5-4127-887f-0535c43aedd6",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #4",
@@ -2307,10 +2613,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/607/frontpage-internal-audit-observation-4?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b7ecb414-6f6b-41fd-b012-47a2a4c94163",
+    "id": "e9a8d21c-9b73-46c7-a878-958f08080c6f",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #3",
@@ -2322,10 +2630,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/606/frontpage-internal-audit-observation-3?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f93ca09b-f43d-49e2-9419-28499e4cf5a8",
+    "id": "6e30402a-36af-479f-8f40-3f9775a57597",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #2",
@@ -2337,10 +2647,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/605/frontpage-internal-audit-observation-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "723c4a65-1b93-4c71-af41-5ca1cf343c13",
+    "id": "53ed8b86-1672-42e4-a7f9-d241f51828d8",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit Observation #1",
@@ -2352,10 +2664,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/602/frontpage-internal-audit-observation-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a3cdcf20-c27a-46a3-bcec-32e64e1973b8",
+    "id": "869bfb51-9c95-45bc-9397-d19b48d63aca",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 03.03.2022 - NC #2",
@@ -2367,10 +2681,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/601/frontpage-internal-audit-03-03-2022-nc-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "17c5accb-a6b7-4654-b69c-d259652ecbc8",
+    "id": "7ce912b7-e29f-4394-ab9b-3bb2704704f4",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 03.03.2022 - NC #1",
@@ -2382,10 +2698,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/600/frontpage-internal-audit-03-03-2022-nc-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a767faae-c918-47db-acc1-6147b4002a4f",
+    "id": "c49ddced-96ed-4fa0-bdb0-08ee0d6ee5fb",
     "vessel": "Samson",
     "type": "NC",
     "title": "FIFI Engine",
@@ -2397,10 +2715,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/576/frontpage-fifi-engine?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0f327ae8-0f44-46df-a7ec-6c43a114875e",
+    "id": "2a766fba-6591-42e2-9b2c-1a269afbf667",
     "vessel": "Samson",
     "type": "NC",
     "title": "Search light",
@@ -2412,10 +2732,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/575/frontpage-search-light?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "50e1c56c-d319-4944-b726-2f5788bda8e3",
+    "id": "b533f7b1-ee3c-4803-ac90-8178776f3c6c",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Clutch in PS gear + controlling rpm.",
@@ -2427,10 +2749,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/555/frontpage-clutch-in-ps-gear-controlling-rpm?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ddc65c3c-255a-479f-afaf-d656bec9fbb0",
+    "id": "f4c31cdc-7339-4a1f-ae41-204121170326",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Sounding pipe for tank no 5",
@@ -2442,10 +2766,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/553/frontpage-sounding-pipe-for-tank-no-5?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3691fec3-8da3-490d-82fc-f8fa1acb3e2f",
+    "id": "d04cf389-a99e-4c56-b169-194158314573",
     "vessel": "Samson",
     "type": "NM",
     "title": "Emergency hatch blocked",
@@ -2457,10 +2783,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/536/frontpage-emergency-hatch-blocked?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1204a3e2-2828-4323-bb11-e402773e0277",
+    "id": "c14f6e71-12d4-48dd-b00d-c59ca09f74d7",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -2472,10 +2800,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/532/frontpage-nc-from-ism-mls-survey-by-class?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9a0b5924-6f5c-4702-a820-e3d66e62be74",
+    "id": "2db7b9d6-57b1-4fad-82cb-2b9c90bf18e5",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -2487,10 +2817,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/531/frontpage-nc-from-ism-mls-survey-by-class?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b27bd4e4-e6c6-4443-926b-d85782ef4114",
+    "id": "b1706683-376b-4906-9b3a-459cb0b479b9",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -2502,10 +2834,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/530/frontpage-nc-from-ism-mls-survey-by-class?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fbfba888-9b15-4fc6-ae23-ac2e42b008cd",
+    "id": "9125d634-0a23-4563-b574-d4e05e2bbba1",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -2517,10 +2851,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/529/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ff190fd4-07f6-4351-b4ec-83290def666b",
+    "id": "8799f91a-4413-4730-a454-f5beecadb0c3",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal audit Samson",
@@ -2532,10 +2868,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/528/frontpage-internal-audit-samson?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9edf50b7-626b-4a18-8317-30eac94c8ee3",
+    "id": "83810a7c-17db-4c09-ae81-0f8c035066d7",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal audit ISM",
@@ -2547,10 +2885,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/527/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6212b235-c6f8-45e8-ad7e-5496eeb91490",
+    "id": "0c79e09a-7729-4f9b-bcbd-327cda8589cd",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -2562,10 +2902,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/526/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "13c617c7-ccb3-4249-9237-6c0f033f5723",
+    "id": "8d418fd7-0026-4e49-972b-c1fc26b652e5",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -2577,10 +2919,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/525/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4c065de0-08fd-44b6-911e-a5ed0163ec3d",
+    "id": "33c45c93-d927-4430-b038-8e0c9324e2ca",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -2592,10 +2936,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/524/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9bb7c1d4-f193-45ce-bd10-ede5cf969b32",
+    "id": "36dc581b-e185-4fdc-bac7-4db520678fdf",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -2607,10 +2953,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/523/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6b6def00-9657-461a-80a8-3f66d3671560",
+    "id": "84e22c30-4f78-4e9b-b83c-ff2c0e77ddf5",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -2622,10 +2970,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/522/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f32b003f-a3d7-48c1-b7b7-f904c830a524",
+    "id": "73e6db1f-a553-4c27-b4fe-7615af58a539",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -2637,10 +2987,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/521/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9259f884-fefc-47e1-a645-654506574ba9",
+    "id": "580402f4-2ccd-4e09-b8d0-0c4a64e93727",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit",
@@ -2652,10 +3004,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/520/frontpage-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "69fd6b23-fdc6-4cff-9782-9856a9a0ac5c",
+    "id": "9c68f3b1-f203-476b-9076-97d0eef1d9f7",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -2667,10 +3021,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/519/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7f978d87-38bd-4de5-9d3c-426a818d3cbf",
+    "id": "fc9eef53-4609-4fa4-b57e-312a748e0875",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ism",
@@ -2682,10 +3038,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/518/frontpage-internal-audit-ism?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b08c9ddb-4ad5-47ad-b6a2-176cbb43fb2d",
+    "id": "d46ee51a-03c9-42dd-a705-a7a47fb8ed27",
     "vessel": "Samson",
     "type": "NC",
     "title": "Comms issue",
@@ -2697,10 +3055,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/517/frontpage-comms-issue?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ecc11dd4-6926-41de-93c8-753b32016f04",
+    "id": "670027f5-e25f-4a83-9837-1369e88385e1",
     "vessel": "Samson",
     "type": "NM",
     "title": "Cooling ME PS",
@@ -2712,10 +3072,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/516/frontpage-cooling-me-ps?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2778b24c-b26e-4598-9d95-ef42a005acab",
+    "id": "8f357800-0ea8-4675-9c5b-eaa852fa80e3",
     "vessel": "Samson",
     "type": "NC",
     "title": "Landstrøm og generator ind på tavlen samtidig",
@@ -2727,10 +3089,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/512/frontpage-landstrøm-og-generator-ind-på-tavlen-samtidig?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d02c5b72-276c-40ef-bcb5-030452f7aa68",
+    "id": "63928f0e-7ef2-4573-b8f6-faa7c38c1cdc",
     "vessel": "Samson",
     "type": "NM",
     "title": "Steering",
@@ -2742,10 +3106,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/511/frontpage-steering?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "475332f6-b334-44da-8ce4-b1bda80b0fef",
+    "id": "e95c6852-59cf-4c7c-bdfa-a8809d3f250c",
     "vessel": "Samson",
     "type": "NM",
     "title": "Starting FiFi pump when lying alongside.",
@@ -2757,10 +3123,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/510/frontpage-starting-fifi-pump-when-lying-alongside?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6fecc5d4-ebc8-452a-80c6-dab675c5b75c",
+    "id": "47db29d8-d981-4a28-9b78-69e3c740b8f8",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Deck surface, main deck",
@@ -2772,10 +3140,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/samson-report-a-notification/details/17/504/frontpage-deck-surface,-main-deck?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "83ed2378-63b9-4b32-8a4d-cc559551ee93",
+    "id": "b2669a57-f0a2-4efe-a76b-69f302ab3d4c",
     "vessel": "Herkules",
     "type": "NC",
     "title": "test",
@@ -2787,10 +3157,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/847/frontpage-test?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4cf199da-01d7-4e6c-a962-4fddbada46f5",
+    "id": "635b4ccf-8892-4d03-bb8a-ba76631bd22b",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Not compliant with MLC",
@@ -2802,10 +3174,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/839/frontpage-not-compliant-with-mlc?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "65758227-5902-46f9-99b2-0780384315a5",
+    "id": "5897d0ef-2002-417a-a49f-af024d3e7052",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Towing hook",
@@ -2817,10 +3191,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/838/frontpage-towing-hook?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d561ae3e-2279-44d1-9189-225e65022c69",
+    "id": "df4c7ab9-17b4-48ce-adb1-63994e5ded90",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Key for fire hose coupling",
@@ -2832,10 +3208,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/837/frontpage-key-for-fire-hose-coupling?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2f74ec6a-0c13-48b5-a5ca-7f983e3314e0",
+    "id": "c9182c21-7401-488d-b731-53ebc5664942",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Sprinklers for windows on bridge",
@@ -2847,10 +3225,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/834/frontpage-sprinklers-for-windows-on-bridge?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d61439b0-7a84-4edd-8319-fcc107299765",
+    "id": "bd72d3f0-7c2e-4496-97f0-6821344ad638",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Satellite and Magnetic Compass",
@@ -2862,10 +3242,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/825/frontpage-satellite-and-magnetic-compass?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "be440b27-1c5e-4438-805a-ae940621d172",
+    "id": "2288f7d1-d61d-43f2-b71f-6eb9dca9eb21",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Gangway",
@@ -2877,10 +3259,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/824/frontpage-gangway?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ad866bda-6df0-4c61-b2da-9279c88f7c07",
+    "id": "6c2d87bf-a7cb-4c93-8413-0b9b7564f678",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Rescue Sling",
@@ -2892,10 +3276,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/823/frontpage-rescue-sling?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4667f5c0-c293-4022-92ae-161555cb9e70",
+    "id": "f0178c88-6508-4ebc-991d-1c2a87e147f3",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Emergency Hatch covered with plastic",
@@ -2907,10 +3293,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/822/frontpage-emergency-hatch-covered-with-plastic?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "89c29ab8-2a10-4a8a-90b4-8ffc33f34bef",
+    "id": "2e35a747-206a-4a0a-8b47-3499e970b752",
     "vessel": "Herkules",
     "type": "NC",
     "title": "NC001",
@@ -2922,10 +3310,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/784/frontpage-nc001?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6031620f-af1b-4ce9-b3b0-2b7f4d7947a0",
+    "id": "619bc7e7-a3f0-46d8-8b8d-1ff2b5d794e6",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Crew working",
@@ -2937,10 +3327,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/778/frontpage-crew-working?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1fbf3b23-807c-42f0-8cd3-89049e0f091b",
+    "id": "b3d4f38b-bc8c-4ebe-b627-b34b04f60055",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-06",
@@ -2952,10 +3344,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/770/frontpage-psc-06?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8bdc7a2c-21bd-4b3d-b7d5-ecdd434f24bb",
+    "id": "94f678d0-a99a-4124-a588-27e18ba36ffa",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "PSC-05",
@@ -2967,10 +3361,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/769/frontpage-psc-05?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "5965d3cb-9e2f-4dc8-9a1c-751984364db1",
+    "id": "292ef70d-acce-4b3e-a5ab-e72bc2df3ca0",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "PSC-04",
@@ -2982,10 +3378,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/768/frontpage-psc-04?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "6cf8b86c-5ec0-41e9-bc19-482967a9f57d",
+    "id": "2fd3b6dd-9aa9-409b-a90b-1367b6b82a74",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-03",
@@ -2997,10 +3395,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/767/frontpage-psc-03?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b0820fc4-3179-4f89-8cd9-f265c0106be5",
+    "id": "f861ae28-1c34-457c-a37f-3e2976daa26f",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-02",
@@ -3012,10 +3412,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/766/frontpage-psc-02?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f42fa340-cdb0-4ba4-87ae-1596af90cbd9",
+    "id": "9daa785a-6d3d-4da2-a419-31e9ef172c14",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-01",
@@ -3027,10 +3429,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/herkules-report-a-notification-2/details/19/765/frontpage-psc-01?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "44e96426-e1ce-4fa1-addf-443c83066081",
+    "id": "e05adeb6-f75a-4ce2-ae3d-17e60bbea148",
     "vessel": "Argus",
     "type": "NC",
     "title": "Loss of Access to MARAD (PMS)",
@@ -3042,10 +3446,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/836/frontpage-loss-of-access-to-marad-pms?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": "We constantly reminding owenr to reinstate the MARAD and pay overdues. NC will be closed when MARAD lisense will be renewed."
   },
   {
-    "id": "5827e9b9-9807-4196-837e-30100bd233ca",
+    "id": "3d075428-fe90-44a4-aaae-5accbe49eac9",
     "vessel": "Argus",
     "type": "NC",
     "title": "Discrepancies in Garbage Management Plan (GMP)",
@@ -3057,10 +3463,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/835/frontpage-discrepancies-in-garbage-management-plan-gmp?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": "Revision will be made"
   },
   {
-    "id": "bf77ea38-44a4-40e2-a955-6ebf4aaf5027",
+    "id": "87199de6-eaa6-41b8-a8eb-6ed8d0e3fc85",
     "vessel": "Argus",
     "type": "OBS",
     "title": "REC 26-02 Cleanliness in ER can be improved.",
@@ -3072,10 +3480,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/795/frontpage-rec-26-02-cleanliness-in-er-can-be-improved?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f0b64747-8a92-4f1b-a709-645d915a4a4c",
+    "id": "8f47d545-fcc4-4afd-a4ad-1ddd112848d5",
     "vessel": "Argus",
     "type": "OBS",
     "title": "REC 26-01 Medicine in hospital not sorted out",
@@ -3087,10 +3497,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/794/frontpage-rec-26-01-medicine-in-hospital-not-sorted-out?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c17e394b-4fb6-44fa-b60a-33e2c65a1b25",
+    "id": "fe889173-863e-4a1a-86a1-53e597df4b51",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-05 Salaries are late (Owner)",
@@ -3102,10 +3514,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/793/frontpage-nc-26-05-salaries-are-late-owner?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "dee98b2c-0cd6-414c-8f8a-a57ebc91a438",
+    "id": "d5a8d6a6-70d7-4eea-8bb0-31ff6a52863a",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-04 Petrol/Diesel stored in ventilation room",
@@ -3117,10 +3531,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/792/frontpage-nc-26-04-petrol-diesel-stored-in-ventilation-room?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "75b04904-3190-4fe8-836f-e8d432656177",
+    "id": "b808a12e-f67e-4038-b046-838ec11495a5",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-03 Freezer temperature not monitored",
@@ -3132,10 +3548,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/791/frontpage-nc-26-03-freezer-temperature-not-monitored?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "20da18cf-4f43-454e-9d8a-eda81210a63a",
+    "id": "41925ea0-1bad-4cb5-aee4-9ccf86234c7d",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-02 SSP not in place",
@@ -3147,10 +3565,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/790/frontpage-nc-26-02-ssp-not-in-place?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3ee918a5-652b-4a97-ac7a-c7e275f26b5b",
+    "id": "86918a90-fdee-47e7-a1de-8e4d75d145a8",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-01 Rest hours",
@@ -3162,10 +3582,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/789/frontpage-nc-26-01-rest-hours?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0582b089-785e-4c74-9258-29edf7df4931",
+    "id": "27ff0acb-310c-4c1c-b55a-3a1f8409a13a",
     "vessel": "Argus",
     "type": "NC",
     "title": "Overdue external audit",
@@ -3177,10 +3599,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/773/frontpage-overdue-external-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ea190bad-9d2f-4f45-97d2-c357e1305ffc",
+    "id": "9ab2c1ac-dccc-40d9-87fc-3223d7e509f2",
     "vessel": "Argus",
     "type": "NC",
     "title": "Lifting of heavy items in engine room with expired lifting gear",
@@ -3192,10 +3616,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/761/frontpage-lifting-of-heavy-items-in-engine-room-with-expired-lifting-gear?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "da6a4c2a-8228-4691-98b4-4fb0acefc032",
+    "id": "2bd35ed9-1ad0-4ee6-907f-377f9e6fc85b",
     "vessel": "Argus",
     "type": "NC",
     "title": "Lifting of machinery equipment",
@@ -3207,10 +3633,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/759/frontpage-lifting-of-machinery-equipment?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b2b78082-7864-4be6-82bc-60c4b4bb51bf",
+    "id": "c6083ae8-dda9-41de-852e-5abbb733a42b",
     "vessel": "Argus",
     "type": "NM",
     "title": "Ch.Eng Volodymyr Levchenk ankel acident on the 10th november",
@@ -3222,10 +3650,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/750/frontpage-ch-eng-volodymyr-levchenk-ankel-acident-on-the-10th-november?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ba0e9b89-e158-4a3e-85e8-6b530fc283ab",
+    "id": "237ed6bb-980c-45b2-a822-e8316386f82e",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Recomodation 2. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3237,10 +3667,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/708/frontpage-recomodation-2-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8cc51975-1158-4496-9e1a-0aaf235c3607",
+    "id": "f9164183-a711-4c0d-81dd-795f7255996e",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Recomodation 1.  Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3252,10 +3684,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/707/frontpage-recomodation-1-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b79952f3-ce2d-478f-9c14-3b5274b027d1",
+    "id": "1db11e3b-2659-4ab6-89bb-0af1126e095c",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 5 Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3267,10 +3701,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/706/frontpage-nc-5-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "055b3d17-11f1-4d1a-a752-35091a8bc296",
+    "id": "18b2f6cc-fb78-4c24-a06a-6d6418c0fd39",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 4. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3282,10 +3718,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/705/frontpage-nc-4-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "61cb3bc9-fe90-496b-9595-9e4ec31297e3",
+    "id": "8c858c5f-599b-4958-ad37-84d4d962a30c",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 3. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3297,10 +3735,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/704/frontpage-nc-3-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "993e7fec-04ab-4e45-a9cd-c7f66a3ff08b",
+    "id": "a6441cbb-a3de-4d87-a895-81012f594486",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 2. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3312,10 +3752,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/703/frontpage-nc-2-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8bf99c30-ed8a-444a-b99a-4db27effdf50",
+    "id": "8cbe2afe-a612-4d83-9da7-c963b2409064",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 1. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -3327,10 +3769,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/702/frontpage-nc-1-extra-internal-audit-on-the-3d-and-4th-of-november-2023?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7c0a9099-1a60-4177-bb2a-0eb4436adb93",
+    "id": "220de779-dcbe-4bfb-ace1-f60926cdf581",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 13",
@@ -3342,10 +3786,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/701/frontpage-port-state-control-19-09-23-def-13?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "863e4081-e89b-4766-b443-b73a5a9ce856",
+    "id": "61ee8430-7ecd-45c9-9f80-ecba24b733ed",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 12",
@@ -3357,10 +3803,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/700/frontpage-port-state-control-19-09-23-def-12?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "cc4ea863-f377-4a45-9b54-227eedda74cd",
+    "id": "aacc5e15-2d12-4227-8042-6bbd57aa2496",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 11",
@@ -3372,10 +3820,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/699/frontpage-port-state-control-19-09-23-def-11?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "d173c69a-8f4d-40e5-b987-4b983679c265",
+    "id": "3c56d083-f28e-4fed-8d31-2c41a931928a",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 10",
@@ -3387,10 +3837,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/698/frontpage-port-state-control-19-09-23-def-10?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0be10655-1f61-40e1-9f8f-4f1412c5e927",
+    "id": "4dde4ada-003e-43da-afc9-7b3bfec30622",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 9",
@@ -3402,10 +3854,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/697/frontpage-port-state-control-19-09-23-def-9?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "293563d8-9d44-4a1f-962b-8a4794f7c428",
+    "id": "ee18df8b-31e9-409b-9d6b-06eef8e294f3",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 8",
@@ -3417,10 +3871,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/696/frontpage-port-state-control-19-09-23-def-8?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a27177d3-6d75-40d8-87cc-d25048a44684",
+    "id": "3877817c-8a6a-491b-8fd8-1b0e2a00a1d6",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 7",
@@ -3432,10 +3888,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/695/frontpage-port-state-control-19-09-23-def-7?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f2483b1b-a853-4c08-8d96-2e73629d576f",
+    "id": "cd8cc55c-fc95-4621-ac88-e732a05dd90e",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 6",
@@ -3447,10 +3905,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/694/frontpage-port-state-control-19-09-23-def-6?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "0f3b0fd4-fcf2-48d6-98cd-b6a8721bedab",
+    "id": "6c19740b-7612-4002-a9d6-8f7f09abd9ed",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 5",
@@ -3462,10 +3922,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/693/frontpage-port-state-control-19-09-23-def-5?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9e865dd8-4cdd-4f58-8458-f2065990ffbb",
+    "id": "6298365f-fc9e-4b7f-9b2a-0971b34bc77e",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 4",
@@ -3477,10 +3939,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/692/frontpage-port-state-control-19-09-23-def-4?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c5f7d13b-3f7a-4d5f-b6c1-3f57e18681e4",
+    "id": "2dc57a14-8ae8-4884-8353-4df5b52ec583",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 3",
@@ -3492,10 +3956,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/691/frontpage-port-state-control-19-09-23-def-3?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "992fcef4-aad1-4439-bb3b-745457f5e5ac",
+    "id": "949addef-ec64-4d18-af82-1016610e7479",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port state control DEF 2",
@@ -3507,10 +3973,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/690/frontpage-port-state-control-def-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "8ca62113-fd4a-4a54-ab59-7bf48519f7a5",
+    "id": "48eb3829-d8ec-484e-90de-c7317f6ee9a2",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port state control DEF 1",
@@ -3522,10 +3990,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/689/frontpage-port-state-control-def-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "74f84e50-dd7a-48a8-961b-2ba5f711d02b",
+    "id": "3665cfd3-6493-4968-b345-735c8899cbc5",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Internal Audit Observation #1 - 10",
@@ -3537,10 +4007,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/628/frontpage-internal-audit-observation-1-10?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9c40dd63-47d9-4c95-9125-9d7381f80ff5",
+    "id": "f38dbd77-9721-4870-bdc6-8d3cb806ba6d",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Internal Audit REC #1",
@@ -3552,10 +4024,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/627/frontpage-internal-audit-rec-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f91d14e1-2de9-41b5-b3ec-497163d70d93",
+    "id": "8c638190-3b50-4c22-92af-418a556ef4d5",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #6",
@@ -3567,10 +4041,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/626/frontpage-internal-audit-nc-6?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "73586fd9-5a0c-4d84-b732-bf31bef2eaaa",
+    "id": "82b89925-ea8d-4b92-8291-5d82d26d8923",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #5",
@@ -3582,10 +4058,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/625/frontpage-internal-audit-nc-5?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "71d8bc5c-082c-4c14-887b-638a2d9760d0",
+    "id": "e3ec1dc7-d73d-494d-a7cb-3f10e4228ffe",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #4",
@@ -3597,10 +4075,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/624/frontpage-internal-audit-nc-4?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9ad48318-74de-452a-8ae3-eb64178b812f",
+    "id": "2306d9b5-b881-4156-b44b-51bb93bcf8bc",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #3",
@@ -3612,10 +4092,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/623/frontpage-internal-audit-nc-3?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "58e3e77c-bf4c-4732-85c9-3a5944aa3350",
+    "id": "fe2ece80-992c-41f1-8486-029bc46d91d4",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #2",
@@ -3627,10 +4109,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/622/frontpage-internal-audit-nc-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "bde53fa8-3574-4480-b800-ac086b387c2e",
+    "id": "12a4b187-b999-404c-a334-5d68440499b1",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #1",
@@ -3642,10 +4126,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/621/frontpage-internal-audit-nc-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f60aa995-fe7d-4490-9d35-ed4f7ed76661",
+    "id": "22313c76-e9ac-4220-93f9-caee65746ec7",
     "vessel": "Argus",
     "type": "NC",
     "title": "External MLC Inspection - DEF. 1 - Paint and Chemicals on board.",
@@ -3657,10 +4143,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/616/frontpage-external-mlc-inspection-def-1-paint-and-chemicals-on-board?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4bf3bc71-77f7-4060-8ee0-383dcfd87282",
+    "id": "b1d677ed-4823-4e83-9739-4289c6474d7e",
     "vessel": "Argus",
     "type": "NC",
     "title": "External ISM Audit - NC 2 - Minimum Safe Manning Dokument not covering operation Area",
@@ -3672,10 +4160,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/615/frontpage-external-ism-audit-nc-2-minimum-safe-manning-dokument-not-covering-operation-area?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "24dc0cc3-f8fc-43bf-aacd-2d1e56f09054",
+    "id": "1a2ced1e-674f-48b2-902d-1a37caae79fe",
     "vessel": "Argus",
     "type": "NC",
     "title": "External ISM Audit - NC 1 - Audit not performed timely.",
@@ -3687,10 +4177,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/614/frontpage-external-ism-audit-nc-1-audit-not-performed-timely?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1e122e59-f46c-480b-b219-46acf224d239",
+    "id": "6dfe224b-4c7f-4d3b-a2ab-dbba9dba05e5",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 8.",
@@ -3702,10 +4194,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/599/frontpage-psc-03-06-2022-deficiency-8?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "06d86d5b-3b4c-4daf-b7cb-d4bbc43ae2f0",
+    "id": "3444fe33-1051-4cba-8101-0bd15abb892e",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 7.",
@@ -3717,10 +4211,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/598/frontpage-psc-03-06-2022-deficiency-7?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a904dfaa-4e8b-46d3-9acf-fde5981bb712",
+    "id": "bf6404eb-6b90-4559-baa6-e567486a6697",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 6.",
@@ -3732,10 +4228,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/597/frontpage-psc-03-06-2022-deficiency-6?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "49abd173-084e-4e89-9cf1-1571bb527c2a",
+    "id": "09ef3dc5-20f3-495d-8751-127da3623014",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 5.",
@@ -3747,10 +4245,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/596/frontpage-psc-03-06-2022-deficiency-5?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e2c42dac-a33f-430a-9d27-2275fb28c32c",
+    "id": "49c86190-2840-42d6-96fd-b1a8ba89dac9",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 4.",
@@ -3762,10 +4262,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/595/frontpage-psc-03-06-2022-deficiency-4?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c9716e75-a354-4096-a66f-248d22772217",
+    "id": "5fe75ac7-c276-4b8e-831a-62ba16ad9551",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 3.",
@@ -3777,10 +4279,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/594/frontpage-psc-03-06-2022-deficiency-3?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1a72b781-efb9-4f1b-a78a-661d769bad2c",
+    "id": "1633dbf6-20e3-4b95-8e94-efdcac981ae1",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 2.",
@@ -3792,10 +4296,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/593/frontpage-psc-03-06-2022-deficiency-2?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e9972213-cdae-4a43-ade6-181173938988",
+    "id": "581d21c6-ab20-4cbf-82de-e3361694bed4",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 1.",
@@ -3807,10 +4313,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/argus-report-a-notification/details/26/592/frontpage-psc-03-06-2022-deficiency-1?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ba01fa0c-b7ea-42c5-b9fc-b021d3a3e45d",
+    "id": "cf1376a1-6a5f-4d9c-9d07-ae0c746f719d",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "No communication between bridge and deck stations",
@@ -3822,10 +4330,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/805/frontpage-no-communication-between-bridge-and-deck-stations?start=0",
-    "managementComment": "Issue delegated to owner/technical superintendent. Case will be closed when fixed ."
+    "rootCause": "",
+    "managementComment": "Issue delegated to owner/technical superintendent. Case will be closed when fixed .",
+    "finalManagementComment": ""
   },
   {
-    "id": "fc8e4dc9-f9ae-431d-a6aa-cf609c40b446",
+    "id": "ab78d1be-7079-430b-a512-6bfc09f48be7",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Alarm System Malfunction",
@@ -3837,10 +4347,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/804/frontpage-alarm-system-malfunction?start=0",
-    "managementComment": "Issue delegated to owner/technical superintendent. Case will be closed when investigated and fixed."
+    "rootCause": "",
+    "managementComment": "Issue delegated to owner/technical superintendent. Case will be closed when investigated and fixed.",
+    "finalManagementComment": ""
   },
   {
-    "id": "15b802c9-9930-4102-b243-811603e1250b",
+    "id": "743798a4-105c-4af6-9434-737fe2c5d065",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Echo Sounder Malfunction",
@@ -3852,10 +4364,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/803/frontpage-echo-sounder-malfunction?start=0",
-    "managementComment": "Issue delegated to owner/technical superintend. Case will be closed when fixed."
+    "rootCause": "",
+    "managementComment": "Issue delegated to owner/technical superintend. Case will be closed when fixed.",
+    "finalManagementComment": ""
   },
   {
-    "id": "de157a68-71bb-4f25-953c-c0c62742f6d4",
+    "id": "e6f2de7d-9b33-4f8a-aa42-51327315ae11",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Alarm System Malfunction",
@@ -3867,10 +4381,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/802/frontpage-alarm-system-malfunction?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "609e98d7-3edb-4c6b-9bfd-aa89348e38b6",
+    "id": "bbc0e1c3-ef46-4aa0-ba96-55422b3eb9a3",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 01-2026 Missing  navigational lights",
@@ -3882,10 +4398,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/796/frontpage-nc-01-2026-missing-navigational-lights?start=0",
-    "managementComment": "Owner instructed to deliver the lights for installation. Case will be closed when installed."
+    "rootCause": "",
+    "managementComment": "Owner instructed to deliver the lights for installation. Case will be closed when installed.",
+    "finalManagementComment": ""
   },
   {
-    "id": "a202fde2-9f0f-4b3b-8ed9-5941bc2116a5",
+    "id": "9e5e021d-c88c-406c-92a2-6c8f68f6f6be",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 26-02 Salaries are late (Owner)",
@@ -3897,10 +4415,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/788/frontpage-nc-26-02-salaries-are-late-owner?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": "We urged owner to send us payment confirmation for the crew salaries."
   },
   {
-    "id": "87f579d3-8212-4fb3-8e71-72d9985b2d18",
+    "id": "e32fdf18-5038-4c52-bfe6-f169f2443e65",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 26-01 Freezer temperature not monitored",
@@ -3912,10 +4432,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/787/frontpage-nc-26-01-freezer-temperature-not-monitored?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "efa344cf-c036-4cb6-9938-58c790050e0c",
+    "id": "759fea2c-8840-4674-b31e-a199d6ab38a5",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Overdue internal audit",
@@ -3927,10 +4449,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/772/frontpage-overdue-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "20701f0f-8dd4-4497-97d8-e577108ad733",
+    "id": "930646a6-24f0-4346-a4f6-5e923471a7a8",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Freestanding cooker",
@@ -3942,10 +4466,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/749/frontpage-freestanding-cooker?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "f9cdb931-cbea-4672-86b8-e91e56fe952d",
+    "id": "ed1246d4-c355-42d8-9847-bc2f8d30dde2",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Sewage pump",
@@ -3957,10 +4483,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/748/frontpage-sewage-pump?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e99b2de7-06de-4309-b235-ebbac09747b1",
+    "id": "028734bf-518a-4d8f-9b9c-4320e6913180",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "SB/S ME CPP unit fault",
@@ -3972,10 +4500,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/744/frontpage-sb-s-me-cpp-unit-fault?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1fb53829-396b-4aa1-a879-1a376d460cc1",
+    "id": "f295e10e-eafc-41ce-9724-8545362fc041",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Fire Alarm system fault",
@@ -3987,10 +4517,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/743/frontpage-fire-alarm-system-fault?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a9b6130c-e084-4e82-bd39-fba1a620eba4",
+    "id": "e52d2cc7-fba8-4ab3-90c7-679bce9d9a66",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #06",
@@ -4002,10 +4534,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/742/frontpage-internal-audit-finding-06?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c15d7e36-8682-4eb5-93f0-2900dd969627",
+    "id": "56fda3fd-0761-4ba4-9328-9e0f55051f3a",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #05",
@@ -4017,10 +4551,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/741/frontpage-internal-audit-finding-05?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7ce68769-2627-4cee-b5df-dc500baac31d",
+    "id": "ed3651b6-c701-4e31-9732-b52d8626f7bd",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #04",
@@ -4032,10 +4568,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/740/frontpage-internal-audit-finding-04?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ba7d78bc-0992-406d-a151-bcdc2eb4b9f1",
+    "id": "ad553b18-8a37-4bc3-a18a-8aa4772259c6",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #03",
@@ -4047,10 +4585,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/739/frontpage-internal-audit-finding-03?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "51655e1c-0c3f-4fdc-82a1-f2a4e1748c47",
+    "id": "0491b4ca-0d17-4964-8bb0-897f3941047b",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #02",
@@ -4062,10 +4602,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/738/frontpage-internal-audit-finding-02?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "644e54ef-568d-469d-857f-1d4e9c35cb37",
+    "id": "09ad51e3-99ba-4a63-b9f3-7d4cf381e266",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #01",
@@ -4077,10 +4619,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/737/frontpage-internal-audit-finding-01?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "38515193-088b-40cb-94b7-64ae11aacb99",
+    "id": "a2154421-9ace-45b1-b44b-66eaf8907e4a",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NAVTEX",
@@ -4092,10 +4636,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/735/frontpage-navtex?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b88cf65a-0f05-41ca-b5a2-ac4aa9c2d5de",
+    "id": "8ce01e55-0515-4964-8ca6-92d1a41df582",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 9: Shore based maintenence agreement expired.",
@@ -4107,10 +4653,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/731/frontpage-psc-finding-9-shore-based-maintenence-agreement-expired?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "36d72882-2b9b-4954-bb78-eb45e0058a1d",
+    "id": "b9b097e2-c1de-4270-a889-4ee4426c4ad0",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 8: The engine room was found in dirty and unorganized condition and the platform was slippery.",
@@ -4122,10 +4670,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/730/frontpage-psc-finding-8-the-engine-room-was-found-in-dirty-and-unorganized-condition-and-the-platform-was-slippery?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1899170b-9cf2-4b08-915c-601ac60adb72",
+    "id": "6874bf7c-704c-44f1-a35d-175e7ee9ec6b",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 7: No milk was found onboard.",
@@ -4137,10 +4687,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/729/frontpage-psc-finding-7-no-milk-was-found-onboard?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "2833030e-0bc1-4cf1-a550-9c81d576f3a5",
+    "id": "ac8bca6b-05ac-476a-8b8a-5777437847f4",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 6: Engine room bilges full of oil.",
@@ -4152,10 +4704,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/728/frontpage-psc-finding-6-engine-room-bilges-full-of-oil?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "dec66c2a-65bc-4f31-9605-4d53018b9a51",
+    "id": "fc2fa1f6-8b4f-44e2-b330-b72019b1860c",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #5 - Gauge on steering gear wasted.",
@@ -4167,10 +4721,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/727/frontpage-psc-finding-5-gauge-on-steering-gear-wasted?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "64114011-40a9-4663-99ed-205b5517cd7b",
+    "id": "c0d686ad-4b50-4423-b876-c758b821545a",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 4 - Steering gear alarms",
@@ -4182,10 +4738,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/726/frontpage-psc-finding-4-steering-gear-alarms?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "edc4b073-73af-4297-bb9b-5e713251c98a",
+    "id": "a27ddc81-0a1f-4a2a-965b-5531072acad4",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #3 - Charts not onboard",
@@ -4197,10 +4755,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/725/frontpage-psc-finding-3-charts-not-onboard?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7e8abea8-edf3-481d-abc2-a8725619c976",
+    "id": "7e58f3f9-3ebf-4bc4-9346-f862e723850b",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC Finding # 2: Deck area holed and corroded.",
@@ -4212,10 +4772,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/724/frontpage-psc-finding-2-deck-area-holed-and-corroded?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "a7259287-5756-4e8a-9b63-41f5e8919f9a",
+    "id": "a2fc1a36-539d-4ea9-bd25-1eaec601a82f",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #1: Emergency fire pump - not working.",
@@ -4227,10 +4789,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/723/frontpage-psc-finding-1-emergency-fire-pump-not-working?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "7d95a766-75b4-4e3a-a15f-a8cbbf9ad825",
+    "id": "7d431adb-ccef-43b2-b445-8ded040e7f1c",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Water ingress to cahin lockers",
@@ -4242,10 +4806,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/722/frontpage-water-ingress-to-cahin-lockers?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "fcc159a8-2cc4-45d8-aa5c-b315c7b40f27",
+    "id": "18c0d627-4749-440d-9acb-e1d8623dac98",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Water ingress in Bow thuster room",
@@ -4257,10 +4823,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/grettir-sterki-report-a-notification/details/18/721/frontpage-water-ingress-in-bow-thuster-room?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ee97eedc-1bca-4121-9a71-f9d27ef2defe",
+    "id": "c706d827-1515-4b1f-abad-b76f66b3cfe5",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC expired Class certificates",
@@ -4272,10 +4840,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/846/frontpage-nc-expired-class-certificates?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b62b7f9f-4a4e-4756-a1e7-eb602e2d450f",
+    "id": "b7b9e227-c7a4-4d94-a36d-684a2db07600",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18408 Paint store",
@@ -4287,10 +4857,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/844/frontpage-psc-26-18408-paint-store?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "76b02210-cccd-428f-a890-bede69e4f5a0",
+    "id": "3383d02d-e9c7-4f19-8e95-8d617b3cec46",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18401 Medical Equipement",
@@ -4302,10 +4874,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/843/frontpage-psc-26-18401-medical-equipement?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "863610cd-a1d3-43a3-bcd9-b8129be6b888",
+    "id": "c3a85a61-9b5a-4be6-85eb-b27b958b4963",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18408 Electrical box",
@@ -4317,10 +4891,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/842/frontpage-psc-26-18408-electrical-box?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "ffd286e4-92b0-4350-abfe-e11fd5202e56",
+    "id": "10091b1a-00ef-4ec0-b597-3e9302a9ceb9",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Emergency escape hatch from the engine room was found not operational, affecting safe emergency evacuation.",
@@ -4332,10 +4908,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/840/frontpage-emergency-escape-hatch-from-the-engine-room-was-found-not-operational,-affecting-safe-emergency-evacuation?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "e14f5adf-9018-45a5-a919-a000398a2029",
+    "id": "4622e446-eb9f-4865-a8ae-7239f630fc52",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "REC 01/2026 - Internal Audit",
@@ -4347,10 +4925,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/833/frontpage-rec-01-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "53b994cd-12f2-447a-abb1-01c21d18e309",
+    "id": "dcc92ac7-ae07-4e33-9521-d0b81f606986",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 05/2026 - Internal Audit",
@@ -4362,10 +4942,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/832/frontpage-obs-05-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "973dd947-be6c-4399-b21b-9e465c95f53c",
+    "id": "5317981b-c3d7-464c-a71b-d39ed1fc146e",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 04/2026 - Internal Audit",
@@ -4377,10 +4959,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/831/frontpage-obs-04-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "767abbdc-53da-4d23-b877-ac0882858568",
+    "id": "06c9ce66-3ac9-460e-9f74-09ba011b95fc",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 03/2026 - Internal Audit",
@@ -4392,10 +4976,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/830/frontpage-obs-03-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "64ca1c41-3220-4da9-906b-6ea123e74c0b",
+    "id": "d6ae209a-fd09-4d7a-bd72-ec6d6c9561bd",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 02/2026 - Internal Audit",
@@ -4407,10 +4993,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/829/frontpage-obs-02-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "b05532c1-f5db-4237-ab83-d5bac13751cb",
+    "id": "a07b7f1a-fc97-488f-9d50-64f9b75037db",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 01/2026 - Internal Audit",
@@ -4422,10 +5010,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/828/frontpage-obs-01-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "1e295fd6-c542-4444-8f93-706521c3fdf2",
+    "id": "29e2eb0a-dc2c-4446-8829-443469e3dd0a",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 02/2026 - Internal Audit",
@@ -4437,10 +5027,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/827/frontpage-nc-02-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "4c92615f-7c3f-4207-8ebf-828295b51d60",
+    "id": "e2fd77fc-1905-4de9-85ba-ae70c9c15ce2",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 01/2026 - Internal Audit",
@@ -4452,10 +5044,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/826/frontpage-nc-01-2026-internal-audit?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "74eb32ec-6104-474e-a9c5-85be60c6076a",
+    "id": "dbf87faa-adcd-43df-ab0d-7256d34b2d5c",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Near miss Helmsman seat",
@@ -4467,10 +5061,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/800/frontpage-near-miss-helmsman-seat?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "9cec88f1-ae0f-4737-bed2-3d971f79676e",
+    "id": "1cb7a78e-8dd8-41d2-a6be-5605049eeba6",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 03-26 Tank Monitoring System",
@@ -4482,10 +5078,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/786/frontpage-nc-03-26-tank-monitoring-system?start=0",
-    "managementComment": "Independent UTI measurements shall be used at all times to verify tank level readings during cargo operations, particularly when approaching critical filling limits, to ensure safe control and prevent overfilling. The crew must check between the Tank Monitoring System indications and manual measurements during cargo loading. Crew should identify the reasons for the incorrect measurements and decide with technical superintendent how to rectify it. Until permanent rectification is completed, manual verification remains a compulsory control measure for all cargo operations."
+    "rootCause": "",
+    "managementComment": "Independent UTI measurements shall be used at all times to verify tank level readings during cargo operations, particularly when approaching critical filling limits, to ensure safe control and prevent overfilling. The crew must check between the Tank Monitoring System indications and manual measurements during cargo loading. Crew should identify the reasons for the incorrect measurements and decide with technical superintendent how to rectify it. Until permanent rectification is completed, manual verification remains a compulsory control measure for all cargo operations.",
+    "finalManagementComment": ""
   },
   {
-    "id": "123b4e58-caf9-451f-bb11-1de77c523077",
+    "id": "69b726de-8c61-4671-af4a-d65f6830bd9f",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 02-26 SUZUKI DF30A",
@@ -4497,10 +5095,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/785/frontpage-nc-02-26-suzuki-df30a?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "c5b57c76-b4cd-4537-b6f1-91208e680ace",
+    "id": "a067f05c-3f79-4dab-b339-bf28900841bb",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "AB not wearing a PPE",
@@ -4512,10 +5112,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/783/frontpage-ab-not-wearing-a-ppe?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "3df6842e-50b1-419e-ba96-1a88d2127810",
+    "id": "5ceeccb4-d4cf-42f7-8da9-c2c2f3d5e8bf",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "ER Hot Water Heaters",
@@ -4527,10 +5129,12 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/782/frontpage-er-hot-water-heaters?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   },
   {
-    "id": "63147a55-fb8a-4849-a0f3-5130efeb74af",
+    "id": "74342aaa-e6fb-4481-9774-5c162b7dc6c6",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Free-Fall Lifeboat Davit Rollers",
@@ -4542,6 +5146,8 @@
     "raisedBy": "",
     "notes": "",
     "detailUrl": "https://shipping.konsult.fo/index.php/selvik-ice-report-a-notification/details/28/781/frontpage-free-fall-lifeboat-davit-rollers?start=0",
-    "managementComment": ""
+    "rootCause": "",
+    "managementComment": "",
+    "finalManagementComment": ""
   }
 ]
