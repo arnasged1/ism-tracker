@@ -2,7 +2,7 @@ name: Sync ISM Tracker
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # once a day at 06:00 UTC
+    - cron: '0 0,6,12,18 * * *'   # 4x per day: midnight, 06:00, 12:00, 18:00 UTC
   workflow_dispatch:        # also allows manual trigger from GitHub UI
 
 permissions:
@@ -38,6 +38,6 @@ jobs:
         run: |
           git config user.name  "ISM Bot"
           git config user.email "ism-bot@shipping.fo"
-          git add index.html previous_findings.json
+          git add index.html previous_findings.json email_snapshot.json
           git diff --staged --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
