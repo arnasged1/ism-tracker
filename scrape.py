@@ -418,8 +418,22 @@ def generate_html(all_findings):
     with open(template_path, encoding='utf-8') as f:
         html = f.read()
     seed_json = json.dumps(all_findings, ensure_ascii=False)
-    replacement = 'const SEED = ' + seed_json + ';'
-    html = re.sub(r'const SEED\s*=\s*\[.*?\];', lambda m: replacement, html, flags=re.DOTALL)
+    # Escape </script> so embedded JSON can't break the HTML script tag
+    seed_json = seed_json.replace('</', '<\\/')
+    # Replace the SEED line directly (avoids regex ];  matching issues inside JSON values)
+    new_seed_line = 'const SEED = ' + seed_json + ';'
+    lines = html.split('\n')
+    replaced = False
+    for i, line in enumerate(lines):
+        if re.match(r'\s*const SEED\s*=\s*\[', line):
+            lines[i] = new_seed_line
+            replaced = True
+            break
+    if replaced:
+        html = '\n'.join(lines)
+    else:
+        print('WARNING: SEED line not found in template — dashboard not updated')
+        return
     with open(INDEX_HTML, 'w', encoding='utf-8') as f:
         f.write(html)
     print('Dashboard updated: ' + INDEX_HTML)
