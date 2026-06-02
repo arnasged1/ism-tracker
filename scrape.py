@@ -572,7 +572,7 @@ def main():
     should_email = (
         not os.path.exists(EMAIL_SNAP) or
         event_name == 'workflow_dispatch' or
-        hour_utc == 6
+        hour_utc in (6, 7)   # allow up to 1h GitHub Actions delay
     )
     if should_email:
         print('Sending email...')
