@@ -11,10 +11,11 @@ EMAIL_PASS = os.environ.get('EMAIL_PASS', '')
 EMAIL_TO   = os.environ.get('EMAIL_TO', '')
 TRACKER_URL = os.environ.get('TRACKER_URL', 'https://ism-tracker.vercel.app/#dashboard')
 
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-INDEX_HTML = os.path.join(SCRIPT_DIR, 'index.html')
-PREV_JSON  = os.path.join(SCRIPT_DIR, 'previous_findings.json')
-EMAIL_SNAP = os.path.join(SCRIPT_DIR, 'email_snapshot.json')
+SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
+INDEX_HTML  = os.path.join(SCRIPT_DIR, 'index.html')
+PREV_JSON   = os.path.join(SCRIPT_DIR, 'previous_findings.json')
+EMAIL_SNAP  = os.path.join(SCRIPT_DIR, 'email_snapshot.json')
+EMAIL_TS    = os.path.join(SCRIPT_DIR, 'email_last_sent.txt')
 
 VESSELS = [
     ('Billefjord',     '/index.php/billefjord-report-a-notification'),
@@ -566,22 +567,35 @@ def main():
             email_snap = json.load(f)
     new_findings = find_new(all_findings, email_snap)
 
-    # Send email at 06:00 UTC, on manual dispatch, or on first run
+    # Send email once per day (20h cooldown), on manual dispatch, or on first run
     event_name = os.environ.get('GITHUB_EVENT_NAME', '')
-    hour_utc   = datetime.datetime.utcnow().hour
+    now_utc    = datetime.datetime.utcnow()
+
+    hours_since_last = 999
+    if os.path.exists(EMAIL_TS):
+        try:
+            with open(EMAIL_TS) as f:
+                last_sent = datetime.datetime.fromisoformat(f.read().strip())
+            hours_since_last = (now_utc - last_sent).total_seconds() / 3600
+        except Exception:
+            pass
+
     should_email = (
         not os.path.exists(EMAIL_SNAP) or
         event_name == 'workflow_dispatch' or
-        hour_utc in (6, 7)   # allow up to 1h GitHub Actions delay
+        hours_since_last >= 20
     )
+    print('Hours since last email: ' + str(round(hours_since_last, 1)) + ' — should_email=' + str(should_email))
     if should_email:
         print('Sending email...')
         send_email(new_findings, overdue_findings)
         with open(EMAIL_SNAP, 'w', encoding='utf-8') as f:
             json.dump(all_findings, f, ensure_ascii=False, indent=2)
+        with open(EMAIL_TS, 'w') as f:
+            f.write(now_utc.isoformat())
         print('Email snapshot saved.')
     else:
-        print('Skipping email (hour=' + str(hour_utc) + ', event=' + str(event_name) + ')')
+        print('Skipping email (' + str(round(hours_since_last, 1)) + 'h since last send)')
 
     # Save previous findings
     with open(PREV_JSON, 'w', encoding='utf-8') as f:
