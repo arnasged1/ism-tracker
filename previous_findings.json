@@ -1,6 +1,6 @@
 [
   {
-    "id": "a5b37258-1041-4d74-908e-0ebaac2839f1",
+    "id": "023eea20-4600-403e-b818-20fee1d88bc8",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Not wearing complete PPE",
@@ -18,7 +18,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9fb42525-91b2-40d4-9586-dd890e3b9a6d",
+    "id": "6c0187ca-7194-4048-9e99-461fbf90bf9f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -36,7 +36,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9a49ddc7-ac70-4dc7-b1fb-1aa807e3fcbe",
+    "id": "3d8a5e45-d624-49aa-b168-3bb26dfa4671",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -54,7 +54,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a8f31a2b-35ac-4e37-8f5c-eaa2ba775dcd",
+    "id": "a90c8e69-39af-4304-92c9-296f4ae27db4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -72,7 +72,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "adc8b4ae-25fd-4eac-955c-c5e700dd63e1",
+    "id": "5d7d3704-7298-4d24-9ce8-82b3c6864e7b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -90,7 +90,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "165ceb92-1ec8-46b1-a13b-3f8e73993970",
+    "id": "648fcb9b-7011-4163-be16-d9cd00596697",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -108,7 +108,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a2aaa4e8-3d53-452c-9868-a62fec13c60a",
+    "id": "efba3275-ceab-436f-bfb3-9d61b5296220",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -126,7 +126,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a411665f-b9d4-4d24-b6b2-575a609e3a6c",
+    "id": "2f460901-ae93-4e0a-b9a2-e8b09ec1fdb8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -144,7 +144,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "41658128-7cb2-4497-996e-79044d28a73f",
+    "id": "c4da3efc-1be7-49c2-8ee8-4210437db8af",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -162,7 +162,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "caf90039-8bd3-4a8e-b570-8fbae0511e0b",
+    "id": "1cfb6911-a303-4bbc-bded-0409df10d62c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -180,7 +180,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "767c4f83-98d0-4607-911d-82ba16a75507",
+    "id": "d8b43899-f981-4307-b2af-a9219a0b756f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -198,7 +198,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5b501d40-d4dc-402f-b8e7-36ea8edb92cf",
+    "id": "d9ae5f5d-5cfc-434c-b085-ecfc01521af2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -216,7 +216,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8db3dcef-0ea1-4d42-be86-caec2b61b539",
+    "id": "650b0c8d-bf50-4765-9586-22af5fd2b121",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -234,7 +234,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ee828ab3-3bdb-423a-ac92-dbbd2ca22d42",
+    "id": "e2896ed9-7347-4f57-90a9-f69c9a6adc8a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -252,7 +252,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c2eb9e46-ff2b-44ae-932e-f67f095850ee",
+    "id": "de21abcd-272f-4d48-b987-f331238478d4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -270,7 +270,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a0bb8154-5c6a-4c91-b2e6-a3e4e963420e",
+    "id": "6f768362-52c7-4f5f-b92c-e315d8323d3c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -288,7 +288,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "51491bf3-a056-4e34-bcad-ec0f48ced3bc",
+    "id": "5d837f5f-2e4e-4308-a9bb-4ba3c8d002a9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -306,7 +306,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "98adbab7-1b4a-46cb-90fd-b4b977eb670d",
+    "id": "2744c28b-63c7-436e-8516-e3ea9df39451",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -324,7 +324,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "894c3519-17b8-423b-a068-b0c64376ba09",
+    "id": "db771f69-2d1c-4308-823e-0e2d04eacb5f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -342,7 +342,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "add0ab97-2917-4cf6-ae5f-8b364703eb12",
+    "id": "bf4fff2a-947d-4533-81de-72dc20f169de",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -360,7 +360,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "84e25229-902d-4db0-bae9-0ea55d985907",
+    "id": "1352c725-ac44-4b51-b08d-c2786c421984",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -378,7 +378,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "77e5cde3-ba91-46cd-9571-5b9470932802",
+    "id": "4fa0f8b9-6b1d-467e-b7fa-7831c3627e84",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -396,7 +396,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ac4abe89-d91e-41be-8153-54aac48e2153",
+    "id": "5149d8cc-f074-409f-9077-842e5ba0dd38",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -414,7 +414,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "996107a6-2452-4a61-9185-c4a7c1c56539",
+    "id": "45d78550-23df-4f7c-859b-29b4b999393f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -432,7 +432,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "561e3945-ccae-402c-bd91-26c420838ecb",
+    "id": "c8d8d7db-7adf-4f43-8014-327dd8d84aaa",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -450,7 +450,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a045fbc9-7e8c-474a-b671-8eb55268f483",
+    "id": "aab673fd-7a82-4fe9-8cc6-a8d289db2aa8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -468,7 +468,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "88a04245-a03e-49bc-bdfe-1943a368473e",
+    "id": "4983c4a2-91ef-424e-a352-ca765a97de30",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -486,7 +486,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "39ccbb38-05a4-467d-844a-d98e77c7a0a0",
+    "id": "e29e4c9a-7e6a-44fc-acc6-b891ee2eb07b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -504,7 +504,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3052a7c6-5260-45e2-a817-a9e3a0c7e922",
+    "id": "9be66102-da4c-4492-84c2-d47446ee1869",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -522,7 +522,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4ec0a89d-f310-464f-a973-fbd09e6c90b4",
+    "id": "d84e17c0-4f1f-4e4e-8843-6ff53202c90c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -540,7 +540,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2b823b09-4398-4e5a-abb7-8b900ce22da2",
+    "id": "7d46963a-881e-42a4-9b2d-94bcfee8756e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -558,7 +558,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1faef44b-77e5-4314-a213-4f9472d0e41e",
+    "id": "89101f0e-4eca-4cc8-a804-143a563e384e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -576,7 +576,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7910d4a1-5b59-4a09-a635-8614022b21ba",
+    "id": "8befc7dd-5f4e-421b-89b4-f2ba8f1968c9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -594,7 +594,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "07d4fbbd-ce56-4b56-b5cb-3266685822bb",
+    "id": "f67a9ed9-e606-4110-8f49-10a4ad2da2e1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -612,7 +612,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a3b63de8-3c15-4ad6-b4bc-d336d831a11a",
+    "id": "326c5348-4d1e-4ec6-ae45-a5ad62dd9a16",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -630,7 +630,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e92d1d14-f05b-4b51-83bc-5b3086d26549",
+    "id": "adaf1b1b-6ba0-45a6-b88f-c256e2918033",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -648,7 +648,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d750312b-6d71-42c9-8dc2-8b5ede1360a2",
+    "id": "637cc9f9-7aa6-4399-9fd0-7cb4bd7353b2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -666,7 +666,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "984827f9-3273-49f2-abb1-211af3a42e01",
+    "id": "a182c417-ad27-4bdc-88d6-d66e8e1d3dbe",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -684,7 +684,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fe163029-ee69-44c6-82d2-36cff50d7751",
+    "id": "997eb920-2777-4e90-a780-c3a9f6e6c196",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -702,7 +702,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5229e0b4-b898-4a99-806b-699a89346b53",
+    "id": "67f795e9-1f3f-438f-9072-c7d43b6779fe",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -720,7 +720,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ba7d408c-3446-4727-a956-dd7240ab1c4e",
+    "id": "798c61b7-0bd2-4a7c-91c1-8b0e22e2aab7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -738,7 +738,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fe48952f-baab-496a-b87c-aa9a3e822247",
+    "id": "74c29e5f-cc0e-477b-aec0-8640f54be949",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -756,7 +756,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a64f070a-3038-48be-9bb2-0022b9f20e9f",
+    "id": "09b524b3-6f52-42fe-94f7-f99f284ad585",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -774,7 +774,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0dfc4e7d-db00-43f3-9e51-6b79ef49481c",
+    "id": "38c69155-68b2-4074-897e-4bddd5fb59cc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -792,7 +792,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "59202047-d343-47ee-b38e-ed80eb6462ab",
+    "id": "fdde37a2-29bc-4ca2-ac66-2c9bfc9c9f27",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -810,7 +810,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2ce0ed38-4d60-4a06-938f-e3c2f95e841b",
+    "id": "8c1a253e-2bfb-414d-9907-1ace573064dc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -828,7 +828,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ddc1eef8-5145-4c13-8586-63e317beea79",
+    "id": "f1e2f74d-497c-4419-b5f0-2b094baad17e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -846,7 +846,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "56c5b781-2b37-4274-879e-87ef9509554f",
+    "id": "05ae4dac-8a13-431a-85d4-519a0cbf75ec",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -864,7 +864,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f669f42e-48bf-4c59-be4d-e22df563961e",
+    "id": "f35d3f3b-23f8-4264-b560-95e84287c086",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -882,7 +882,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d530076e-38e6-4d1e-9f31-35e3f4b3a883",
+    "id": "e0374a18-895a-42c5-b327-6d4dde971dec",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -900,7 +900,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5c8c2158-7879-4a41-8eab-ea67c39e1a42",
+    "id": "e28eafce-7f89-4914-b6eb-bef55625fbbd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -918,7 +918,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1ca9f0b3-0d36-405f-a128-b15d83f5d4aa",
+    "id": "9d37ec9b-712a-4303-b13b-6adcec0c43d7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -936,7 +936,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a2318ba0-c9ca-4e98-90e1-de6764e040a3",
+    "id": "7f53cb95-cc38-40cf-ad91-58894e91174f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -954,7 +954,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e288a0e0-8b42-49a3-ac45-623e9d1e3032",
+    "id": "5dfd0be4-5505-4733-a60a-ee9290e35fec",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -972,7 +972,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4e2e3306-4c7c-4781-8239-36a60824fe53",
+    "id": "fb7c204c-d776-41b5-95ff-5e6e729008de",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -990,7 +990,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b7bc17a5-14cf-413d-a257-09373d2df4a3",
+    "id": "4960b3c0-97dc-4c2f-9c16-63a4288229e1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1008,7 +1008,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0bbac3bc-4b76-431c-9254-23ae1753996b",
+    "id": "34568b10-12a4-4114-929e-900e5f1ba460",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1026,7 +1026,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a927b2f0-ed9b-4f4e-9e6a-7ce675368f75",
+    "id": "e95b412d-f815-4fd1-ab4b-55ba1e1326cb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1044,7 +1044,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d9ba858b-8f73-40c3-bd51-f8bf5a2f8f17",
+    "id": "e6e4fa75-044f-43e0-a98b-3b750f01c1e0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1062,7 +1062,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a9921084-f708-455b-bc78-aff170d0b0e8",
+    "id": "134cff94-e35d-4595-884f-70b7cf01087d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1080,7 +1080,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f38c03b4-d416-4cfc-af9f-d1c2224595ce",
+    "id": "8ad52de0-9559-4f7d-9b19-60ec861dfa23",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1098,7 +1098,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d81eccf6-8e4a-4935-9495-b707309453a8",
+    "id": "5af1dbea-2055-4cd7-ab7f-41ce1daa87e0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1116,7 +1116,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3f2c1b3d-bbf0-4353-a98d-1ed68eccecd0",
+    "id": "fb68102d-8007-4caa-b398-81cf6c0b84a8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1134,7 +1134,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "973d6c49-c0c9-4040-83b2-147861e3ea6b",
+    "id": "78da41f4-4360-4dd8-99c4-18bad73398ba",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1152,7 +1152,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "587981da-37e9-4e7c-8ca9-771e11963929",
+    "id": "91060553-acbe-4501-b933-b63cbe9aa39b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1170,7 +1170,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b6c32932-c97a-4a62-bb76-37471a31c36e",
+    "id": "6c88919a-9ddc-41dc-93af-f77993a8afc7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1188,7 +1188,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0244aef3-bc15-4c85-93c4-5f5d215286f4",
+    "id": "7af00783-d4db-4c22-8e32-d1a77c6d8f23",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1206,7 +1206,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "626e06ab-0658-4f03-ba0a-0671151eeac2",
+    "id": "68ac5574-d6b6-4067-96e9-161929109f15",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1224,7 +1224,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e4d7a8c5-12a4-4fa4-9ca3-1fd4ea55eef9",
+    "id": "d1ba7fda-4ef6-41fa-88b9-ce6a8792509b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1242,7 +1242,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f5280d30-d399-4ab4-83df-ebeb6ac0a9f8",
+    "id": "367fdde2-117c-488f-8fa7-79e6c40719fa",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1260,7 +1260,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "65213541-cae9-42d2-8b57-6ab992632b8a",
+    "id": "a9ead9ab-d333-485a-817c-cfd624fe0780",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1278,7 +1278,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4d58decf-aee3-4e76-a070-1eff9e7d938a",
+    "id": "13278221-8598-4481-9a74-a43662b76224",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1296,7 +1296,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8f43701b-65cc-4c0d-8a96-bc5af46582f7",
+    "id": "7f9baf05-0bf7-435b-b4bc-59d89cf65c19",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1314,7 +1314,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "41995dc7-d033-4e9a-893c-26ebc436e865",
+    "id": "3b851681-d72d-454b-9dea-3495457621d1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1332,7 +1332,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6dc4a103-01ea-4e0f-b409-78d796dc61ce",
+    "id": "607c9ed0-2a81-40c9-b901-d5b3113d387f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1350,7 +1350,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "77eb59a0-7ede-4c96-b964-d96611abaa2b",
+    "id": "42ab69cb-8ffa-4253-b3be-1df258ac558f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1368,7 +1368,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "41bf9e6f-cd68-480a-8d00-0ea67b28d8e5",
+    "id": "f312e140-f815-4b32-bfd6-75428f6521b2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1386,7 +1386,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c0619515-c808-4049-87e1-ba5c8e846b48",
+    "id": "d9cff87c-a1dd-4c63-96de-fd70f60da186",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1404,7 +1404,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c9a34be3-c88d-4cfc-8235-83cf1211e47e",
+    "id": "bf28a4a5-ae9e-47eb-a3e4-e05205c58159",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1422,7 +1422,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b4f4c4d5-c077-4107-a5f0-d932083fc208",
+    "id": "da1943ff-a1bd-4a5f-9574-f776bbf41d70",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1440,7 +1440,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "90c55167-239c-4f88-b327-37c0cc061bc7",
+    "id": "8cc9a8a5-0889-4dde-a88f-8eeea249fcb0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1458,7 +1458,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2baf61c3-5719-44a6-ab84-bfb9e8c9cbc8",
+    "id": "ecdd98a6-8a83-4660-9db0-544834abef4e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1476,7 +1476,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3b4647c1-52c7-4698-9686-866bb7c83a2a",
+    "id": "f2352c15-6b95-4b1d-8398-a97d923ca97e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1494,7 +1494,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "55665d88-3da5-421e-b8c0-25225b82b06f",
+    "id": "327d7c81-ea1a-4b99-8104-a75ac00f42b0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1512,7 +1512,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9161c37c-fefd-4710-a0e5-05f8a1511e08",
+    "id": "4d1eb9ed-0243-479e-a0da-c1401532723e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1530,7 +1530,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "26ba0ec0-cff9-43b3-ad3b-b22e772950b3",
+    "id": "26529d78-f551-4ac1-9443-6dfbc77c73a8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1548,7 +1548,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "792d661d-6090-491d-a7dd-f78c20d6c175",
+    "id": "cfe36f68-39e2-4e9d-b781-dc6d6021ec92",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1566,7 +1566,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "71bc4ef0-68c2-4c37-bc16-91f31c67918d",
+    "id": "6e2a0fcf-4a24-4965-8270-b0e55799fe08",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1584,7 +1584,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2660cf83-16ed-4234-b2f2-b22754700340",
+    "id": "39c95b99-9508-4c8a-8795-907f5d095847",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1602,7 +1602,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7a600892-ad22-4b23-941b-0b0b758a8048",
+    "id": "6e608685-8045-400a-8d54-c30e430ddb23",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1620,7 +1620,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9b30897d-02d9-438b-aad1-ff995a1ac0c6",
+    "id": "32f16f8a-6993-4fd3-a58c-3d1823fae7f7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1638,7 +1638,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "161885d6-76a4-4ff8-91dc-b629a6311d87",
+    "id": "c5c6462a-4fb6-491a-8de1-70eb3197be1a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1656,7 +1656,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9e27b101-93ab-4b12-aff1-1d3f4cd245c9",
+    "id": "d0125aa7-ae7d-421f-b966-7ba9be331871",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1674,7 +1674,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "25782b29-c878-4018-b202-d1086352972d",
+    "id": "dfc1220a-fca2-4942-87bf-ab6773154424",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1692,7 +1692,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "259cf889-6a43-4c98-add9-224c3b388025",
+    "id": "fff229d3-2316-4489-b6f6-5fc55d477f86",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1710,7 +1710,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "faca9ff7-9ccc-43ef-8965-a9e863bed8bf",
+    "id": "7a9b91b1-49ef-4102-942e-77cda074e860",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1728,7 +1728,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e2fd8ac8-bece-4aee-b75e-fe4bd054c41b",
+    "id": "3f2e903f-e68f-4c2c-b45f-185dbc13b111",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1746,7 +1746,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9f21737b-129a-4e58-9e0c-a59b108d224c",
+    "id": "0c85427d-f249-40f4-942b-bf400ed7fea9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1764,7 +1764,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "746aacfb-92b9-4cc2-84fa-1133a2397ad6",
+    "id": "b46b5e40-d51f-4055-ac89-b5425a207021",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1782,7 +1782,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a62c1822-e6cc-439b-ac04-e2a846c8fffb",
+    "id": "822e7ff4-5ba7-42e7-bb32-27b2feced4cb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1800,7 +1800,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4f10a61f-a2ee-45fc-978f-d04ce7f12959",
+    "id": "cf280515-61a9-468d-8a5f-fbdc953dfc6a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1818,7 +1818,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fe2a02b6-9ed6-4218-8804-a6ec8316f7f2",
+    "id": "96e9c02a-9b55-41d9-b46e-30d512aff998",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1836,7 +1836,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "40ff3c6c-80dd-475f-9c2e-b65766b2188d",
+    "id": "dcbdc8ef-d70a-4682-912c-e3c946c32148",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1854,7 +1854,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ae379f33-ed43-452c-b178-f28d77c35535",
+    "id": "ad6508eb-6985-4f13-a018-33149a6ed02d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1872,7 +1872,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "00426539-8acb-45fb-b84c-d04ae608c4b9",
+    "id": "52e64740-2316-4a5b-b243-cddd844f5c79",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1890,7 +1890,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "10b4757a-a81c-4e9c-9082-c7c555e077d4",
+    "id": "27dd9e8c-e9ea-464d-88ae-706f3c56b123",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1908,7 +1908,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ebd38790-0d17-4070-a37f-7c15c6ca61ed",
+    "id": "cb8094cb-0339-48a5-be1f-b400d660f9e3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1926,7 +1926,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "38e01d1b-ff12-4284-bd9f-dbe72182a6d7",
+    "id": "f569f133-071b-42df-8ef0-e418ade04656",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1944,7 +1944,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f833f21a-a678-4066-8aaa-9e70cd228254",
+    "id": "006d70d0-0806-4d4f-b0d9-2e9dbbc3cffa",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1962,7 +1962,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "42f34c0e-a7c9-4d43-ac50-92d179731f0a",
+    "id": "7adee0fe-fcc1-4f4f-a010-0c477b1312b8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1980,7 +1980,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "85cbb08d-48a0-4e27-8d45-def01f24274e",
+    "id": "b1e66271-d705-49ec-909e-9f8941ae9a69",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -1998,7 +1998,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b6534de1-f64f-45ad-af95-652b8a27e836",
+    "id": "e4d3b7a2-d81a-4ba7-b1eb-c75cd6c0d36f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2016,7 +2016,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "dd249969-ca2a-417b-9969-00512bbad424",
+    "id": "a7224ff1-1596-4a2f-b650-22189e1167b2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2034,7 +2034,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1ad514ee-771f-4aeb-b16d-e3621e9d82ca",
+    "id": "b326c457-3887-47a3-9c93-d25c7131c774",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2052,7 +2052,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "085c4ccc-d155-4561-9e5d-84ec22caa31b",
+    "id": "365b21cb-deca-4e6b-8eab-eafa0046f37d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2070,7 +2070,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2fa1d9c6-fd14-4209-8fce-51fbefc849d6",
+    "id": "91ded5c3-f14a-4ae8-882f-1db1fe9f222c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2088,7 +2088,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1a025ff7-6b92-44c5-a0f0-f9b94ca8d92b",
+    "id": "ea7d0d81-23a4-4bfc-91a1-37de6205c14f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2106,7 +2106,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "da54869e-134e-4cd5-b56a-ac03f9f1effc",
+    "id": "0dc862b8-33ed-471c-92b3-88c0d4bcf1ef",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2124,7 +2124,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e35c4486-f2ed-4789-9580-53a70fc15376",
+    "id": "c3f768ae-b042-4857-bc28-d1e524bdffd7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2142,7 +2142,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bf9fd017-2388-4937-8b36-b30956dd8a75",
+    "id": "cde4938a-7cd1-4d67-9a9f-7b56340e4c32",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2160,7 +2160,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "766094b7-26ed-4ff8-9c41-cad6a1615490",
+    "id": "2ccc42ae-96a2-43c6-b322-31d64edf8de0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2178,7 +2178,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e81af9e1-c4a6-4e4e-b1e0-258dc53d091c",
+    "id": "18640456-2bac-432d-91f3-a63f71d8bed8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2196,7 +2196,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fbac532f-b6a4-400c-aad7-e5019c091e6a",
+    "id": "d3144103-8079-4445-849a-091989062a60",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2214,7 +2214,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6a940e95-db32-49e7-885e-115642918dd2",
+    "id": "801dc138-b663-41b4-9f6b-dea4d1f24a7c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2232,7 +2232,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9dedc0c9-c1a0-4794-b553-9db27a8f5db7",
+    "id": "c5de0ff7-145b-4c63-af59-0f53887e5bac",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2250,7 +2250,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4523239e-0516-42c6-804c-4c1e1f8c1119",
+    "id": "c0bcee91-cb8e-4070-9a34-fdf1a8ea517d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2268,7 +2268,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a96ca353-fb3c-4097-a3d8-67335312ac38",
+    "id": "3b867625-56dc-44e8-a26e-3938422aa4d5",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2286,7 +2286,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d4b7ebf4-234b-4994-857c-5d1f6ec212a6",
+    "id": "18115059-78d0-473c-8d55-df02a52ff9cc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2304,7 +2304,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "766730f1-9c99-4a22-b83f-6272db7e41f4",
+    "id": "3841d717-3380-4398-b25a-edcc92a6e3f0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2322,7 +2322,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bad166dc-2e61-4a37-bd54-ecdaccfd77c9",
+    "id": "37c416c6-04a0-498a-9730-0a9ea2ce9eea",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2340,7 +2340,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "32302ed6-5dc7-4a95-877d-37656408713c",
+    "id": "95e4ab9b-aabe-4384-9a30-7f26b672dfd9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2358,7 +2358,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6d197fe6-7706-4ba5-8b23-48bc23a1aca0",
+    "id": "b5604adc-5d66-4681-9845-5bb2eec3b247",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2376,7 +2376,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9344122f-3202-474e-bceb-79dadd37b69b",
+    "id": "ef9d02dc-cd01-4b2e-a5da-354aea83c1c8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2394,7 +2394,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b7d4bb9b-a652-4079-97c9-bbb0203c953f",
+    "id": "5271884e-cfbf-4d44-bda3-ac534b86eb2b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2412,7 +2412,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "07f9473c-7f7b-447c-be85-631febaf7635",
+    "id": "da7a4b8a-c97d-4df1-a181-4a25ee53816c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2430,7 +2430,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d2464545-39fd-4969-b593-c8075db7d397",
+    "id": "6d7fe634-d6e0-4648-824f-6218e5171b08",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2448,7 +2448,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "08a7abd1-f2e5-46b5-9442-b8ff1480a551",
+    "id": "dd70eb21-a225-4cbe-b47d-3519c04ceac9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2466,7 +2466,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4ed05ac7-1a60-45fa-ac08-3edd09629c6b",
+    "id": "074942c7-be29-46a8-9598-a453e695a5d2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2484,7 +2484,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2351aac4-4203-4400-aaa2-b58c844f3609",
+    "id": "18ae5111-5474-4efe-8af0-db513039db34",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2502,7 +2502,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e2bef39d-d7f6-4d35-8f65-e858b9a306d5",
+    "id": "e3fa8754-5ae3-4e3f-8cf5-3536195e3d64",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2520,7 +2520,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d0457c84-c8e2-44ae-a8c1-2cd0fa4759e2",
+    "id": "e26ddc44-1437-46f2-8ab2-79e6fd5eca0b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2538,7 +2538,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7189c766-c643-4e1c-bb2b-7473ae8646ef",
+    "id": "5d43143d-60b3-4966-8132-6c2a4101c678",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2556,7 +2556,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "aba88dfc-4540-4b84-832f-8bdb6ef62d08",
+    "id": "0b494251-a23e-455d-ab8f-2b5af0e68ecd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2574,7 +2574,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6d04de52-776b-4517-9385-4e7928954433",
+    "id": "864a27a3-c3af-4131-9dc9-1a03c8607491",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2592,7 +2592,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "746a84c5-5dc8-44b3-bbed-2239ce416bbd",
+    "id": "d5559101-67e9-4ce3-a49e-f50744810dbc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2610,7 +2610,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "66525503-6e7c-421e-b226-fef03f4f6e6a",
+    "id": "bdd35157-0a3b-4e41-ba1e-5a3ff9c9f0ed",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2628,7 +2628,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "af41cd19-41e3-4981-a92c-9cf9a7e55291",
+    "id": "23ed653d-10e7-4c6c-a734-e9983cc26bbc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2646,7 +2646,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b5423343-bf60-4f56-a4c8-e27cd9d4e9d6",
+    "id": "9481c0e9-9fe5-43e3-93d2-24950b140d7f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2664,7 +2664,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "03aa1db3-37da-4074-9604-5b91b419bc91",
+    "id": "c3a5f9ce-3b9b-4584-a518-6481155327d2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2682,7 +2682,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4eea6e88-3cc5-4d8c-bca0-77075781b2dc",
+    "id": "2d40a651-b9fb-4ce7-9c98-8cea19f6453d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2700,7 +2700,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9ce3fc90-7b4f-460f-8656-4a1c04648d4f",
+    "id": "a237dd50-0112-4409-af03-e44a0cbb3845",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2718,7 +2718,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b6c1d691-cbc4-4ea6-a738-f57a3da8669d",
+    "id": "6c9422a7-1ee3-49ae-a35a-69bd7ee15003",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2736,7 +2736,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "abc7c2b5-0cf0-4041-b91e-ebf7b47cc1c0",
+    "id": "5f392e8f-929c-4da2-aaea-60681dc537fd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2754,7 +2754,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3103515c-2fac-41c8-aa83-165a1efbe293",
+    "id": "fb31648f-04aa-4c5f-9c45-5dae27ac4909",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2772,7 +2772,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2d896aba-edce-4812-ac13-0963e898ee87",
+    "id": "74af8672-eab0-4af8-8cbf-573e177a46f0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2790,7 +2790,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e6a988ba-15be-4232-815b-79cbebdcb9fc",
+    "id": "f0c5b95b-af70-4790-b6fd-ee9b4ac186ce",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2808,7 +2808,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "72bc3ea2-54b9-45f6-bca1-80e7226462ba",
+    "id": "115f83cb-6c60-4c2e-9654-cb22e09d7398",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2826,7 +2826,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "87ddd7a4-6235-4f22-bd48-6c6250153e44",
+    "id": "00d4f352-1973-426c-b4bb-e7d828cd88af",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2844,7 +2844,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "cc76e0c0-5e98-43c4-a221-8e148af14927",
+    "id": "6b5af5c3-37f8-472d-90cd-e51b7aa12cc4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2862,7 +2862,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e4e10172-395e-4d2a-96d5-b4a01e6130fa",
+    "id": "f4548d12-f882-4dcb-b39d-ffa31d233499",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2880,7 +2880,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "354ac2a7-aae9-43ef-91bf-5a4b81b3dfd6",
+    "id": "5d3b16db-0078-4604-980b-77a034f9e0e0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2898,7 +2898,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1604f4ae-fef6-4791-a7be-095c87778ed9",
+    "id": "c9ea16cf-e240-4e10-a3b8-df6c0c2b7298",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2916,7 +2916,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "74eaf6de-6289-4688-ba32-294124479daf",
+    "id": "e3534f30-ea07-4eec-b4ce-015e2a9096b7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2934,7 +2934,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2d33a1d8-0b80-41c8-8e71-4b38cc46ae72",
+    "id": "967761a5-cacc-452f-8046-02b6f750f899",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2952,7 +2952,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "77edb5dd-33ce-4e78-9d81-a9269c022c95",
+    "id": "142f761b-da8f-43e0-b1fd-9ce575b23976",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2970,7 +2970,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5de7e996-7cbf-40de-82ff-01e5d815571b",
+    "id": "9a1d36c1-6fc5-4bb7-ab27-8ccf1514219a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -2988,7 +2988,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1f579eee-ec7c-4cae-9c70-cb1c5cfa7f85",
+    "id": "7eb6e460-71d9-4bc7-832e-907526b5acaf",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3006,7 +3006,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "db602634-c7df-47f9-9d72-d409b2fd4094",
+    "id": "f9717117-a52b-4002-b334-2af38b7dee72",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3024,7 +3024,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2f356946-a46b-49a4-9e6a-2979ffce141b",
+    "id": "bdef25da-1cd3-45a2-b5c0-40ce2439d6a4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3042,7 +3042,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ebf8c185-0c9d-4d52-8a53-93a0bf290703",
+    "id": "7818623a-a132-4fae-b687-760a345161b6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3060,7 +3060,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "86c0092f-5287-4562-b75d-4c56cd60e938",
+    "id": "c8b04e0e-9f3e-416e-b0db-b46942244d19",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3078,7 +3078,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "68676238-e7fa-4617-96c6-eb70594b15aa",
+    "id": "aa2fd3e8-afe1-4509-885a-84eb2ce2548f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3096,7 +3096,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7a37ce66-92ef-426f-bc8f-127c29c6a5c7",
+    "id": "3e884f52-72c4-46c9-a113-4051a040dfd4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3114,7 +3114,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9dbf6ee6-7e95-4cb4-ac73-a49ca739f9dc",
+    "id": "afbaf985-6818-42a4-93fd-355a4930829f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3132,7 +3132,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fbd5f72f-a563-4072-9dc6-d0ea5606672f",
+    "id": "58877b3c-1594-4541-a798-c1d4d0ad59bb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3150,7 +3150,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "64148caf-d859-4c8b-bad1-4f38a3fca679",
+    "id": "1c593df3-ccfd-4cb5-85a0-0bfea540ac38",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3168,7 +3168,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a9cded12-b014-4725-815e-a57185bc7bfd",
+    "id": "76b165ae-70e2-4748-a37f-9d36fcc8ec84",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3186,7 +3186,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c0c64cdb-dd6d-4b61-9f02-d0d0806aa86d",
+    "id": "4cbf532c-f954-4977-af0d-04630dca3a9e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3204,7 +3204,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "90bb5d95-74ca-4ed1-81b6-73264e489d6a",
+    "id": "5ca993b0-92a6-4b2e-9c56-7a9180925eff",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3222,7 +3222,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "35dbd145-9e5f-4550-a2df-c31982f7c42b",
+    "id": "318158d3-42e1-43df-bf5f-fa6a1fdf7324",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3240,7 +3240,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "cf30c318-c8a3-4e6b-93e8-902364d0bb7b",
+    "id": "f8acad37-186b-4a27-8ee3-c5ac5fd25e52",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3258,7 +3258,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f37f0436-bc67-425a-af07-9bb47cdb9461",
+    "id": "ad73d1ce-ad7c-4230-a444-0af50ebb41df",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3276,7 +3276,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1aa8d1bc-1827-4ec6-baf0-f526301efb4d",
+    "id": "51a7c6d4-f377-441a-8c85-2dc97f71283d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3294,7 +3294,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "17e9b91f-3a14-4bea-95e6-ec7700f14be9",
+    "id": "e1bd2690-64c3-4e7c-b896-f0c99a93454c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3312,7 +3312,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d42e2ae0-7f08-4475-bb8f-da9db4d44212",
+    "id": "cddb7266-406f-4789-8b4f-b9098f74ac58",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3330,7 +3330,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "88011c22-5a2d-4dcf-b029-6c41e894270d",
+    "id": "3f3018a0-cd5f-4c6b-8ffa-bf44ea87d212",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3348,7 +3348,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "66a0a10f-9062-4d92-abb0-c41d804ebf88",
+    "id": "b5d6e519-43ce-4748-beae-6ad3fe05c6cf",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3366,7 +3366,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "22dc5cdb-c5b3-4c9d-bf08-5c797300d8ac",
+    "id": "c4bc48c1-afc8-4c63-9379-4532ad1db421",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3384,7 +3384,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "dfc6ffd2-2038-4f6b-a1eb-1f391db1c979",
+    "id": "98a6ada1-f19a-4cba-a946-e98cc802efb3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3402,7 +3402,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "db47174c-3046-4bc7-9056-bd13cc5135c5",
+    "id": "76478618-ecf8-4188-97c3-9c1f114dc1b7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3420,7 +3420,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "aca25b04-bdcd-4ccf-bd47-52f6fdbe252e",
+    "id": "56ca2f89-f35c-4c22-907e-c9b77e9c9447",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3438,7 +3438,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a4a94d0e-ae98-408b-9bdc-d1bdaa4867ff",
+    "id": "1526e427-4ef2-4f2c-abe2-1f26d4dd1867",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3456,7 +3456,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0b478052-dc93-47af-906a-51993c54ee62",
+    "id": "a5cccdeb-8c30-4a02-9015-2b9b09f25a1c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3474,7 +3474,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c69663d2-82c1-432d-b7bc-411ca7e2fa95",
+    "id": "55c16b6d-ac23-4a86-9ac6-d1aa48d5f35d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3492,7 +3492,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "95730e0d-bb37-44cf-a3cb-8371fb5367d6",
+    "id": "e0a3a9d1-34a0-4c8e-81bb-8f22371b515d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3510,7 +3510,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "86975cb0-a843-4e5c-8ce6-ea02ec283ebe",
+    "id": "4a23f560-3533-463f-a91c-7befc985ef9f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3528,7 +3528,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d56772d6-95d8-4899-a4a7-fd0c0c64e304",
+    "id": "21de1ee8-cc86-4015-a808-7190a54b85fb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3546,7 +3546,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "20034119-e178-4930-8496-20b1902a5df5",
+    "id": "aabc180e-ada9-4d42-bcdf-d673d877dda9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3564,7 +3564,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0da2d50a-bb4a-4ed3-9e37-fa9f911ce51c",
+    "id": "88e1752f-1b64-4809-988e-e4428de838ea",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3582,7 +3582,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f72f3444-6692-48ab-8c87-ac066582c33e",
+    "id": "0d2526c7-3cda-45aa-aa80-24a6a8b0252f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3600,7 +3600,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e4c1f983-9f10-40cb-bc03-22ddfda14af8",
+    "id": "b10fd42e-f9bb-47f8-90c5-ff3dd51b0814",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3618,7 +3618,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c7d5f8ab-9758-4f8b-888d-e2ec251d1bb0",
+    "id": "f67559e8-9a8b-4bd0-8963-68f0a0a60650",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3636,7 +3636,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4fe9371e-40b0-4019-8673-09eaa7b8e842",
+    "id": "6e8c038f-f349-4740-88c6-ba09d93d8d6e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3654,7 +3654,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c71b553f-81aa-4902-a9d5-0359ebdbe8e4",
+    "id": "4c86a7fd-7673-41cf-8655-a25bfd22923b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3672,7 +3672,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2c610ead-9145-4235-aa22-12f2b769e49d",
+    "id": "7038e252-eecc-48a2-8d40-c4b310fcf70d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3690,7 +3690,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d89cb47a-bddd-48a1-852e-5fa3002a6838",
+    "id": "37ce7514-3cc4-4797-9736-5aba4384f31f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3708,7 +3708,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3ddd359d-6350-4ea1-b4af-9ffb911097eb",
+    "id": "9089eadf-06c7-4f6e-a728-fae9a035c471",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3726,7 +3726,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d3c8e08b-6531-4951-8a60-9e93b48f70d8",
+    "id": "3d9b6b37-71ca-4107-8456-ab797df1a093",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3744,7 +3744,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c76a262f-4b32-41fd-abf1-edd96974ce61",
+    "id": "7039456d-6f55-4489-bfa0-64101ddf2a33",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3762,7 +3762,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bef91455-03e4-425a-acc0-da328c32990f",
+    "id": "4b03a985-5ce0-4efa-8779-fcf3cdd06819",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3780,7 +3780,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5d47b10c-6021-413a-8c47-dd8a2709b517",
+    "id": "ad270469-3344-440a-9fd8-59ff5c6d2c19",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3798,7 +3798,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5adc23e6-7111-4ab3-a847-f775288914fb",
+    "id": "a6e84b98-829f-468a-a95e-d081485d9036",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3816,7 +3816,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bf706360-bd0e-4bae-acb1-ae45543ab622",
+    "id": "916b7a51-29e6-4f01-a7a8-9b253b70c465",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3834,7 +3834,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "df846ae4-a96e-40ea-abf8-2c4fce30de8d",
+    "id": "eb9eeb3b-15b7-4b01-b102-7119037c4b06",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3852,7 +3852,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1200be93-02c8-4b16-aaa1-87f30a4c4b0c",
+    "id": "ce1d1b7f-620f-44b7-be85-d1abae630f16",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3870,7 +3870,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "313df0a2-53f7-4701-93a7-98bb2453ca22",
+    "id": "7501d5b9-969c-4fc7-b168-77f8edaec8d0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3888,7 +3888,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "82ce0259-93aa-43e5-ae95-4da3e7a87063",
+    "id": "6ae8ab59-443b-4278-9e47-314b42a36a8a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3906,7 +3906,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "074a2345-1540-490c-99f6-2e5a6b830c11",
+    "id": "c2fbc141-d2bc-473a-be09-e3f5da92335f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3924,7 +3924,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "48ef4fa4-e3b3-4d24-bc1c-09f201143954",
+    "id": "ab9a6b82-7cef-4eb2-91a6-0f5cd9719e79",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3942,7 +3942,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "21bdd7a2-3710-4590-9385-5f8e53ecef71",
+    "id": "9185255c-b1bd-49f8-92f7-6e5562f3fa50",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3960,7 +3960,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4d347e84-653d-4f8b-975f-bbec557a2461",
+    "id": "2a01d002-4622-407e-9cee-f9d3ef576a8f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3978,7 +3978,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "60515442-16d0-44cf-87d9-025a1f61a546",
+    "id": "53380deb-ac17-4ddc-9d16-18ab25467feb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -3996,7 +3996,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "668363ac-a919-47b6-acdd-af8acfed0115",
+    "id": "5b0a306d-9b8c-4832-a94c-dea8439a9873",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4014,7 +4014,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "59d347dc-03ba-46f1-807b-617cd19246c1",
+    "id": "e9542925-e442-48d5-8203-10e1cbc8e58f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4032,7 +4032,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "66870229-3b04-4488-9370-8eec5f96a30b",
+    "id": "5476a783-1563-4d28-809e-82b21e09b6e9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4050,7 +4050,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5e7140ac-5437-4342-8dd5-9e312bbf2e32",
+    "id": "2d2c2ddf-0c99-4fe5-b064-c6278848251d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4068,7 +4068,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d0a3e986-91c2-4c7e-885c-d63da3c31988",
+    "id": "8e0630e3-4927-47b8-a434-c23a818c8cc1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4086,7 +4086,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "44f8edbb-fe11-4e10-a389-39c92be3327b",
+    "id": "970b9b82-ea09-4e19-b6c0-c4bf9cdb905f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4104,7 +4104,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "471646a3-6c84-44d9-b0b8-77f8401734e1",
+    "id": "80287172-802b-4263-a550-02698e85314e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4122,7 +4122,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4b3f0655-20e0-4453-8151-240f309f4ac0",
+    "id": "bacdb4ba-5bfd-4b46-be2d-9bf485487582",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4140,7 +4140,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "138a401c-852a-447e-8552-61b7e5803cb9",
+    "id": "736c996c-14fc-4663-a9cd-ef71227380ae",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4158,7 +4158,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "46e38592-ba85-40c9-8ea5-bc4899d7ea71",
+    "id": "3ed803f9-6ce9-4693-adb3-de39bba4901e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4176,7 +4176,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e6295a9f-9f50-42af-9639-eeab0eee0109",
+    "id": "de17b04e-4dad-4ab9-88d7-bef3e9ce8bac",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4194,7 +4194,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "24635734-fb3c-421d-ba0b-e2d4a68c6b9f",
+    "id": "31342e4a-33e1-4a9b-8eac-d709811f503f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4212,7 +4212,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9b95fcfe-fdd9-47b5-9152-4591684ec4ae",
+    "id": "34b061a5-40d5-4434-aafb-4c96667089b5",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4230,7 +4230,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fe017e83-ef4d-4913-ae67-1cabff409eea",
+    "id": "43bf9e5c-c24a-4620-b92b-fbc77f51b436",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4248,7 +4248,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "46d9aefc-b189-478a-b90c-6b21743a18b8",
+    "id": "b9a8f5f0-5984-48e1-b7db-13b38858e9ab",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4266,7 +4266,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d345d6b8-b182-4d3f-850a-44f6b532583f",
+    "id": "65291807-a2c5-4441-8053-335b1755af9c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4284,7 +4284,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1a9853e1-1bc4-4dc2-a70b-ae81b10a5733",
+    "id": "9b482586-2158-4579-8f79-61a37052de17",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4302,7 +4302,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "29a7d27e-2bba-4be9-a5d6-b8d9b82f8c64",
+    "id": "6ede3c20-ab62-4bec-822d-0c7092737ced",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4320,7 +4320,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ea4b8852-ee36-410a-a7fc-ac87a234aefc",
+    "id": "7db49e20-befc-4795-9399-60bf7dd0008a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4338,7 +4338,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "18d849a4-473f-47df-966c-b1817cbaa5bf",
+    "id": "c5c01043-509a-49f4-9d47-2cd13dfce5eb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4356,7 +4356,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4cf08477-d68e-4e57-a87b-8a6c95adbf00",
+    "id": "0b60be73-5cfe-4a10-93ab-03c3b35330d6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4374,7 +4374,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b2f3a34d-70be-4959-bdb0-d7d038999a7a",
+    "id": "dbefac19-b979-4caa-8a4a-d7e9576dcb92",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4392,7 +4392,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ac240e53-ab65-4572-9cbd-a587416dc1da",
+    "id": "2d68bef6-e030-4246-b984-c69f5a1c9a94",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -4410,7 +4410,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7c35f66f-c4c9-42a2-a947-e91ae5f264cd",
+    "id": "92e1db13-f1d3-4979-aef2-93b3ff6c7d39",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Open side door",
@@ -4428,7 +4428,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9c33e83a-3c01-44a6-a613-ead05c30d7b8",
+    "id": "f1a31c08-9d4f-4118-821e-b7873e5f81f1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Sealing of Bulkhead Frame #16 in engine room",
@@ -4446,7 +4446,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0cb16608-7516-4db6-84e0-8a4502dd9856",
+    "id": "f6da729a-52ef-49d2-9edf-615dc3e546c5",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Tank top cover water leakage",
@@ -4464,7 +4464,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9b2c9381-1696-4f38-9dcb-7c97d494bec6",
+    "id": "ab43e06b-1064-4735-90f7-be07c53ef543",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "busted light",
@@ -4482,7 +4482,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "aba73219-0ed6-4acd-8f12-8554e1886f96",
+    "id": "6877b1e3-c854-4f0a-ad34-54ac657c606b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Explosion proof Portable VHF Radio",
@@ -4500,7 +4500,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "43f2c538-c565-425b-aa7b-7bf090839a6d",
+    "id": "2c8060d4-d4e7-403b-99f8-48ce80cad1e1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet in Passenger accommodation",
@@ -4518,7 +4518,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "cede302a-3979-4561-947c-8b0716e0d3a3",
+    "id": "a863ca84-e155-403a-992a-c8ec56aa41bd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet vaccum system",
@@ -4536,7 +4536,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "958ac920-ac40-4f08-b309-3decc33be6d5",
+    "id": "f24a6e14-a947-4a58-abd3-d184c744cad3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "explosion proof portable radio",
@@ -4554,7 +4554,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b0b38170-2513-497d-8a71-db1cb41d57c3",
+    "id": "3e03b981-12a9-4a7e-8977-326012e91f77",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "anti splash tape for auxilliary engine",
@@ -4572,7 +4572,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4d4a5ad6-bcb4-472a-bf92-03b9f8cfd2db",
+    "id": "1601bb50-a954-4765-a235-37fbbada9769",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted lights in bridge stairway",
@@ -4590,7 +4590,7 @@
     "finalManagementComment": "NC closed and lightbulb is changed."
   },
   {
-    "id": "b6341f85-2c37-4742-a757-dc0463fce660",
+    "id": "5af1a4f9-85de-4e32-82c0-a9185e2b59b8",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Cleaning snow on deck",
@@ -4608,7 +4608,7 @@
     "finalManagementComment": "Master to ensure that crew have and use the proper clothing."
   },
   {
-    "id": "31da76df-56ce-4919-a8fa-9873632de739",
+    "id": "ded3a49b-99a1-47f3-aa33-fb67b4256207",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Battery of Generator no.1",
@@ -4626,7 +4626,7 @@
     "finalManagementComment": "Corrective actions accepted. 2 new batteries received."
   },
   {
-    "id": "738e89a8-134e-4552-badc-9d3cf71e3b60",
+    "id": "a9155832-a966-481f-b6a1-9eabfce0a1ac",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Radio Batteries",
@@ -4644,7 +4644,7 @@
     "finalManagementComment": "Corrective actions accepted. 2 new batteries replaced."
   },
   {
-    "id": "efb62f32-040c-47c8-9749-4af7eab3e0a3",
+    "id": "66e05a64-6e1d-4ac8-880e-9ae624f862d4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "expired equiptment onboard",
@@ -4662,7 +4662,7 @@
     "finalManagementComment": "Corrective actions accepted. Case will be closed once delivered. Replaced new Rockets, Hru, MOB smoke signal"
   },
   {
-    "id": "406d87dd-c1a8-4e03-a18f-c6c2e259622d",
+    "id": "4ee3f121-e58d-4127-a743-005b07e93d6c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Both fireman's outfits kept together in one place - not wide separated",
@@ -4680,7 +4680,7 @@
     "finalManagementComment": "Corrective actions accepted. Built new fireman's outfit locker located on 2nd deck accomodation"
   },
   {
-    "id": "9205e8a6-6fa0-4e3d-845c-9cf8dda3c163",
+    "id": "5cc34d47-5cea-4237-aefd-06b6547d49fb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Draught stop missing in over a ceiling panels om maindeck to be provided, space lenght 14 meters",
@@ -4698,7 +4698,7 @@
     "finalManagementComment": "Corrective actions accepted. Installed in pax accomodtion as per Rina instruction"
   },
   {
-    "id": "631409b0-ad58-4206-b533-f8c80f80664c",
+    "id": "2ea0f30c-6f31-481c-9e65-5bd792ae1cca",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Emergency lightning at stowage position of liferafts and rescue boat to be provided",
@@ -4716,7 +4716,7 @@
     "finalManagementComment": "Corrective actions accepted. Case closed once installed."
   },
   {
-    "id": "ed3ba45a-4031-4fda-a3e3-ce577e8c0f32",
+    "id": "f1a5b5cf-26d7-4f72-b26e-206dc996dd3c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Poster with operating instruction for liferafts in theier vicinity",
@@ -4734,7 +4734,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "8d9f5210-7401-4311-af76-7b8835e212da",
+    "id": "1be5a867-4ce2-4643-b58d-1a76e8491177",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Overdue internal audit",
@@ -4752,7 +4752,7 @@
     "finalManagementComment": "Audit completed. Report attached to the system."
   },
   {
-    "id": "1ff56316-50a3-4930-9852-bc72f6121a9a",
+    "id": "1eea7b99-4577-4c38-9843-ec04ff8f94ed",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "clogging of bridge window sprinkler",
@@ -4770,7 +4770,7 @@
     "finalManagementComment": "New pipe was installed. NC closed."
   },
   {
-    "id": "21693e2a-98ed-4bcc-9500-2c65b14c5b6d",
+    "id": "e24c5d17-e8a9-461e-a918-758f9c4146e1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "sprinkler onboard",
@@ -4788,7 +4788,7 @@
     "finalManagementComment": "PAX number reduced to 36. No need sprinkler system."
   },
   {
-    "id": "907c401a-6a4d-4441-8472-38611a402f95",
+    "id": "e58d7beb-2687-4b50-ad48-ac9122e0c8d1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Co2 Room Not Gas tight door",
@@ -4806,7 +4806,7 @@
     "finalManagementComment": "Case closed. New fire plan issued."
   },
   {
-    "id": "2bae4525-6879-4e36-b237-aff7b941dd9e",
+    "id": "5902bcb1-2bfa-4fcb-ac84-9d004f94e23b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB crane motor defective",
@@ -4824,7 +4824,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "cd0ee8ad-113f-4442-a6b0-c146e945d25b",
+    "id": "ed2203a8-9450-4592-a7a1-86ee06ed6301",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "working in enclosed space",
@@ -4842,7 +4842,7 @@
     "finalManagementComment": "Procedure for working inside enclosed spaces to be followed."
   },
   {
-    "id": "429bc128-7cdc-46f3-b68d-1502661eb233",
+    "id": "99a02848-0496-44c4-8ac9-f4de9b96f70a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "search light starboard",
@@ -4860,7 +4860,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "840bec91-dec8-47ae-b9a1-e0caf5b3b672",
+    "id": "00a14247-ae65-4e06-a727-bbacc9c54348",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "crane hydraulic pipe leakage",
@@ -4878,7 +4878,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "98bb5626-89e6-4b78-8601-cb79df5b27d6",
+    "id": "d4720fd8-ce6a-43f6-8fdb-0d7ae7adb27a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "busted light in stairs going up to Bridge",
@@ -4896,7 +4896,7 @@
     "finalManagementComment": "Light was fixed by the engineer."
   },
   {
-    "id": "c1fc9813-a68d-41f5-9ca0-81fbeccc1435",
+    "id": "a5d582b0-5d3b-44a9-93de-9e05957c1ec5",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger stumbled on deck",
@@ -4914,7 +4914,7 @@
     "finalManagementComment": "We suggest to put no go areas signs, ropes when vessel is sailing in rough waters."
   },
   {
-    "id": "bec6dd6a-463b-4734-96ca-af1f674babd4",
+    "id": "15a59cca-8f61-4633-b8f2-a65588c8f38a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Steering indicator not working well",
@@ -4932,7 +4932,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "527d90b2-129d-48c4-b42d-ced35c4c1072",
+    "id": "53511453-8b1f-49f6-9f4c-420e5a277fbe",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Ships pontoon dent",
@@ -4950,7 +4950,7 @@
     "finalManagementComment": "The dent will be fixed in the drydock."
   },
   {
-    "id": "698120e9-5c9d-415a-9f71-e6e8bc654faa",
+    "id": "46370da2-dd98-497c-812f-bc96140dd3cb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "toilet vaccum",
@@ -4968,7 +4968,7 @@
     "finalManagementComment": "Cloesed."
   },
   {
-    "id": "1e5ce8cf-2800-450f-bbc0-0459a72be181",
+    "id": "7c511b87-c0d3-4fcd-9967-95489298c7b3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Generator no. 1 unusual sound/noise during running",
@@ -4986,7 +4986,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2259fb4f-b606-4267-93c3-039d30a439bb",
+    "id": "00976830-9893-49f2-b4ce-a58967abaeaa",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine lubeoil temperature",
@@ -5004,7 +5004,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "1cb1d31b-6e63-4981-aa11-fd3dc2a537a9",
+    "id": "fed90ce1-6d34-4531-8367-0f0bd8d39ace",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Navigational lights busted",
@@ -5022,7 +5022,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "fdc607b1-80ef-4d13-b5eb-27e870897fd3",
+    "id": "12f51ee6-ed19-4532-940f-22b8ed1ad5d8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "hydraulic hose",
@@ -5040,7 +5040,7 @@
     "finalManagementComment": "CLosed"
   },
   {
-    "id": "c1d9360d-7a91-48b8-b1fa-ca60c18dcba5",
+    "id": "9c069be5-36a8-43ac-b315-96753755bb22",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Galley refrigerator",
@@ -5058,7 +5058,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "aff6b418-5a74-4bab-8115-8320122bec0f",
+    "id": "52e62e22-92eb-45ab-87aa-908ce69951b0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Storage capacity for waste on board",
@@ -5076,7 +5076,7 @@
     "finalManagementComment": "CLosed"
   },
   {
-    "id": "4dc684a3-9a9b-4c68-aece-2f3dd04a36a1",
+    "id": "d9eb88ca-e335-43af-a2eb-e4cb899f2f14",
     "vessel": "Billefjord",
     "type": "OBS",
     "title": "Pre- arrival notification to current port",
@@ -5094,7 +5094,7 @@
     "finalManagementComment": "Re-arrival waste declared in SafeSeaNet - will be done each year when leaving Tromsø."
   },
   {
-    "id": "6e73704c-479a-403f-a3e7-670e2f25128a",
+    "id": "c6575fe8-25df-4c84-9981-5c4c92415738",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Garbage Record books WR",
@@ -5112,7 +5112,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "50a43917-28c8-403b-b024-98ee40f3309a",
+    "id": "b1ea6bae-cff0-4ba6-8f59-5c33c20abff7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "L.O. alarm in Engine room",
@@ -5130,7 +5130,7 @@
     "finalManagementComment": "Well done - no further comments."
   },
   {
-    "id": "26325681-2b63-4066-8017-0cca0da3724a",
+    "id": "55666739-2075-4c66-8916-d011a110c87b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Broken hydraulic hose of cargo crane",
@@ -5148,7 +5148,7 @@
     "finalManagementComment": "Please inspect all hoses o the cargo crane to learn whether other hoses need replacing."
   },
   {
-    "id": "d0a40e8a-8656-4e8b-8335-9096b2d0a88a",
+    "id": "c41a0a15-3923-4636-a860-7c4de8a3d595",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Life bouy in Main deck - PSC Deficiency #2",
@@ -5166,7 +5166,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "418413ca-9e7a-4c17-af4d-a391f5c36fcf",
+    "id": "788d72e1-2f0e-4c4a-977f-7a0c65b064a1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Fjordcruise passage plan - PSC deficiency #1",
@@ -5184,7 +5184,7 @@
     "finalManagementComment": "Closed out - will be followed up at internal audit."
   },
   {
-    "id": "fbea1be2-885e-46cf-bd4d-895f5e27ca67",
+    "id": "78e367be-7595-4821-ab93-a1420332a2a2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted masthead light",
@@ -5202,7 +5202,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "8cef1e7a-ff50-49c7-a3b6-4d4508d4bfd8",
+    "id": "5e35fd42-5dcf-43d9-98b7-d689d37a9b17",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted Navigational lights starboard",
@@ -5220,7 +5220,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "08d7d838-57ad-4112-9eeb-d77fce2b33c3",
+    "id": "ab4a00c5-f2f1-4a92-aeb4-9431da62af48",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "generator break down",
@@ -5238,7 +5238,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "b4c8d146-91a0-444e-af4a-81e93f6de501",
+    "id": "889167f3-3a5f-4c67-a5f2-d34b10345530",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Battery and alternator of Generator no. 1",
@@ -5256,7 +5256,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "faddef21-d3bf-4ed6-b067-c0b6f8caa807",
+    "id": "2deafd2e-eebe-406b-93e3-49034431c482",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Slippery Deck",
@@ -5274,7 +5274,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "64b3976c-2877-46b0-b6a0-e005040988fd",
+    "id": "b3b02fc0-8fcc-4098-af02-f5d9e4d9a36e",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "not wearing hardhat during heaving  up anchor chain in drydock",
@@ -5292,7 +5292,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "aaa2137b-ec8a-4b12-8abe-e6004870f0f0",
+    "id": "5523c3a9-88db-42ab-92e7-1e3bb9561595",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "self closing valve on sounding pipes in engine room",
@@ -5310,7 +5310,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "07e63d7d-ddaf-4439-987e-b2d9da637ade",
+    "id": "8905521f-f1bd-4ac6-b7f5-581a2eb0c053",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Froozen roller fairlead in forcastle deck",
@@ -5328,7 +5328,7 @@
     "finalManagementComment": "NC closed out"
   },
   {
-    "id": "4379534d-97f0-42a2-b7fa-3d506016af2f",
+    "id": "23bfcab1-5641-4f1e-8c14-b52f85bdf52d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "External ISM Audit - NC 2 - Risk Assessments",
@@ -5346,7 +5346,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bc34e31c-2226-4803-b0e4-6ae50cd5f899",
+    "id": "ab4626e3-c309-45ad-818c-5ea8391e98dd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "External ISM Audit - NC 1 - Ineffective maintenace",
@@ -5364,7 +5364,7 @@
     "finalManagementComment": "Items rectified - closed out"
   },
   {
-    "id": "b7a93ae3-8eb4-47df-926f-6da0637323f6",
+    "id": "7c4b73ee-e59d-4057-9ea3-0f2c3d3eb358",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "starboard side search light Busted",
@@ -5382,7 +5382,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "7c77b72c-ff16-443b-9302-a39349c0094e",
+    "id": "57745e9d-5ffc-41cd-b3f6-fc9d795fef50",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Leaking in AUX engine and minor leaking from quick closing valve",
@@ -5400,7 +5400,7 @@
     "finalManagementComment": "Overhauled i drydock, NC closed"
   },
   {
-    "id": "05a36340-0bb3-4d6e-b749-b8a83c6be290",
+    "id": "bdbcf801-a430-4a7e-a6e9-d15b35337cfe",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "All outdoors light on boat deck missing its weather integrity due to missing lids or damaged lamps cover",
@@ -5418,7 +5418,7 @@
     "finalManagementComment": "Lights replaced - NC closed."
   },
   {
-    "id": "34992f31-4933-4476-ae99-97ced284efb1",
+    "id": "2437c02c-1ea3-4cc9-8825-e6629ee9460c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Missing text in life bouy port of registry",
@@ -5436,7 +5436,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "dbb5fc3b-f725-448d-890a-3b57ab991019",
+    "id": "13010361-56b5-4dcd-9c8b-ab300bd3550b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Deteriorated hydraulic hoses on mc gregor system.",
@@ -5454,7 +5454,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "f0ab57ff-eee1-4a84-8ce2-24c45b3468f0",
+    "id": "a9fbb7d0-fd61-43f4-acdf-d80b76b60a5d",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "A passenger stumbled on forcastle deck.",
@@ -5472,7 +5472,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "a8c4acf6-92e9-408c-ae6c-fca25ecdafeb",
+    "id": "292dac33-322a-43c6-bab0-3b21cae56f0d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine No. 4 injector low exhaust pressure",
@@ -5490,7 +5490,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "a43e2b7c-69f1-4f6d-ae56-2be71d8bb205",
+    "id": "e13b968d-32e6-494e-9d89-efde44e7c286",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "lLubricating oil pump is leaking.",
@@ -5508,7 +5508,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "a85102b5-ca2a-453c-8f68-1d77b8fc953e",
+    "id": "e0bb22f5-570d-422f-84c8-1e4ce024198b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Ships whistle not working",
@@ -5526,7 +5526,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "ea4f7403-2ec7-4c8f-a47a-c97c787d56d3",
+    "id": "d75bb133-2611-442e-afec-0934530a57dc",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Galley sink was clogged",
@@ -5544,7 +5544,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "517b9acb-fc5e-4342-9e15-7c045a9c9da7",
+    "id": "cc2a121f-f95d-441e-8df4-d3ec6239703b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "General alarm sound error",
@@ -5562,7 +5562,7 @@
     "finalManagementComment": "CLosed."
   },
   {
-    "id": "e2862c76-6e2c-4d8f-a849-f9fef6195bca",
+    "id": "f2d51404-89c6-45de-af58-964fa00cd167",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Obstruction in cargo hold stairs",
@@ -5580,7 +5580,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "f51d2ff4-547d-48f2-9369-c3ed354d4351",
+    "id": "5b1ecf32-d365-4997-b1c9-7a254b31a741",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger sitting in ships bulwark",
@@ -5598,7 +5598,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "3cf1a740-e5e1-4fe6-8cbd-d0ed084ed98d",
+    "id": "10558a70-2d67-4771-b7c5-3a95c96e6a66",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Earth fault in fire alarm system",
@@ -5616,7 +5616,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "dd571788-706e-4ef8-95b7-3387add73171",
+    "id": "6ad5df7b-b326-466f-9a38-9b6ab1629d98",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "icy fore deck",
@@ -5634,7 +5634,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "a031ff43-8dde-4a12-9404-b4932016468c",
+    "id": "83e6bc4d-ab91-4b0f-9fc0-efb1bf6a52bc",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Lashing of chairs in sundeck during helicopter training exercise",
@@ -5652,7 +5652,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "824f17db-c62d-41f6-818a-3013cfe2f9b2",
+    "id": "66912d98-b133-4c59-a5e8-26c0b5a49569",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "The gangway safety net was damaged",
@@ -5670,7 +5670,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "518e7fe5-5a19-4802-b209-e0f3258b0e6c",
+    "id": "2a81d72c-ce2d-46bb-aac3-87fe841b2a50",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB engine hard to start",
@@ -5688,7 +5688,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "8520a5ac-5744-463e-8be8-cd48478bc29c",
+    "id": "0f3f2c2e-2b6a-4177-9bb2-18d9c0bc1363",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Air compressor - oil level level.",
@@ -5706,7 +5706,7 @@
     "finalManagementComment": "Rectified - and closed. Engineer to monitor the oil level at appropriate intervals."
   },
   {
-    "id": "bd15f0cb-de5f-42fa-89af-3140cbe24967",
+    "id": "055b08f9-fe58-4b73-b001-5012bc0861fa",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger fell down on the floor",
@@ -5724,7 +5724,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "207dde65-0bec-4cda-a6a4-b9d6d40a16ea",
+    "id": "f326795a-7f76-42a1-a335-b1d0c3566ad1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Crane wire damaged",
@@ -5742,7 +5742,7 @@
     "finalManagementComment": "Wire repaired - closed."
   },
   {
-    "id": "756513c6-a8bd-4d94-840c-7845455a505c",
+    "id": "0f8c82e0-da12-40d9-a79d-f960daf9a05d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "rudder indicator",
@@ -5760,7 +5760,7 @@
     "finalManagementComment": "Rectified - and closed"
   },
   {
-    "id": "68880e6c-d133-4c9d-ac2e-52c569a47f0e",
+    "id": "6ed615d5-b341-4f70-8c13-95bf632aa8c7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Forward floodlight portside not working",
@@ -5778,7 +5778,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "52fda901-273a-4945-98ea-2d49d43a22fa",
+    "id": "c1dd3321-9653-4435-ac9b-d63017d9a8a5",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Gangway rope line twisted",
@@ -5796,7 +5796,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "d66e9e35-167b-40c3-89ee-aa8182a7be49",
+    "id": "8cf2d932-1c7c-4e7b-9a90-565d27a08608",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "leakage in fire hose nozzle",
@@ -5814,7 +5814,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "bf482de4-dee0-4370-965d-876ea9d796a3",
+    "id": "9092f466-9daa-46ea-b9a1-5981c2466577",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB boat hard to start",
@@ -5832,7 +5832,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "77c199bd-e1f6-4981-b3f2-4563d3b7b96f",
+    "id": "ebe42b18-d9ec-460e-932d-2b0ec049aaae",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine Push rod oil  leakage",
@@ -5850,7 +5850,7 @@
     "finalManagementComment": "Case closed. Rectified 09.01"
   },
   {
-    "id": "0eb5d2b1-4ccf-4f92-9f36-03f53c231109",
+    "id": "8768733f-70c6-4ff6-a466-556e8401e954",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine clutch alarm",
@@ -5868,7 +5868,7 @@
     "finalManagementComment": "Well done, case closed."
   },
   {
-    "id": "beab6480-3d34-44c2-92b3-343d3a69f21c",
+    "id": "e55113bf-5df4-4976-9198-670d9ce0cde4",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Restricted area signage in bridge deck",
@@ -5886,7 +5886,7 @@
     "finalManagementComment": "Well done, please inspect all areas with all signs and replace if necessary. Case closed."
   },
   {
-    "id": "e8661c20-8edf-4fca-9507-7d7abaa906f2",
+    "id": "52f7f06d-9852-4fe0-be77-5ee01c212eed",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "navigational lights busted",
@@ -5904,7 +5904,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done"
   },
   {
-    "id": "e2962d45-8864-4400-958e-db6870d83336",
+    "id": "4c882537-8669-42f6-9e23-3510e8229cda",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Hand sanitizer again after sight seeing tour in Russian settlement, barentsburg/Pyramiden",
@@ -5922,7 +5922,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "82760638-758a-4fe3-bb84-993a57cd0e8d",
+    "id": "e59e15fc-c43d-4141-a04e-5c5314826587",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "children climbing in anchor windlass",
@@ -5940,7 +5940,7 @@
     "finalManagementComment": "Corrective actions accepted. Restricted area posters should be in place."
   },
   {
-    "id": "68727496-6d72-4531-a5a4-15921dab74e8",
+    "id": "2bebeeba-8ab8-451a-bb6b-0f6c3e9d3acd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet vacuum motor not working",
@@ -5958,7 +5958,7 @@
     "finalManagementComment": "Case closed as Captain informed that the case is fixed."
   },
   {
-    "id": "00e5c803-0352-42f2-8af2-1dea24297814",
+    "id": "93333e98-c204-40bc-904f-136ff1be7d67",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "bilge sensor alarm in steering room",
@@ -5976,7 +5976,7 @@
     "finalManagementComment": "Corrective actions accepted. Good job. Case closed 20.06.2020"
   },
   {
-    "id": "ce1ec3c1-e952-4f6e-80c8-f3b450bd5913",
+    "id": "535e761a-3c46-49b5-9212-5924ade38d20",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "water tight door plate deteriorated",
@@ -5994,7 +5994,7 @@
     "finalManagementComment": "Corrective action accepted. Well done. Case closed.20.06.2020"
   },
   {
-    "id": "25ffb0ba-0057-41a4-b099-bf90759c2a9e",
+    "id": "15d14c65-e6b4-4656-98ab-91d8f183cc46",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "wet deck in sundeck and maindeck",
@@ -6012,7 +6012,7 @@
     "finalManagementComment": "Corrective actions accepted. Well observed."
   },
   {
-    "id": "a99aa024-575a-4604-841d-26d997ef8cd6",
+    "id": "b3580c28-c681-4243-9a00-fb5583cfbb03",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "social distancing in the Bar",
@@ -6030,7 +6030,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "41577ac2-067e-49d7-b5e9-e70daaa88db0",
+    "id": "9942806d-532f-4a91-8362-20cf2d616937",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Clogged toilet pipe",
@@ -6048,7 +6048,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "c79a260e-e510-4d91-8441-f4479358c2cf",
+    "id": "9c44a30e-1ccc-42d7-81a0-37b3c9d6525c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Hull dented port and starboard Pontoon",
@@ -6066,7 +6066,7 @@
     "finalManagementComment": "Case closed after video call with NMA May 17."
   },
   {
-    "id": "7f24db93-422a-4864-bda6-2b93f137f827",
+    "id": "6e260805-d61c-402e-9152-10b482fcee09",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "ships whistle not working",
@@ -6084,7 +6084,7 @@
     "finalManagementComment": "Issue solved - case closed."
   },
   {
-    "id": "079827a4-2c00-440c-99ad-4f1a91f9b79a",
+    "id": "4eec2a81-1d75-4add-9b2b-7a550f140f8d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "cooler strainer full of ice",
@@ -6102,7 +6102,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "c5707ff3-4023-403d-8baa-b2bdbc790da5",
+    "id": "11d2e268-5fd7-4546-b26f-4c19a2959db3",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "additional mooring rope during bad weather",
@@ -6120,7 +6120,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "777a7af4-5d10-4db2-b9c4-467656ab0584",
+    "id": "433e5374-5803-4281-b471-4c2b9a0ea63d",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "radar scanner rotating/open",
@@ -6138,7 +6138,7 @@
     "finalManagementComment": "Corrective action accepted. You could print and put on the windows poster that before going up to the bridge deck, please inform the bridge."
   },
   {
-    "id": "79255a2d-73e4-4dd9-8327-1cf29eb4d8a3",
+    "id": "db32138d-ec07-4c8f-b8b7-ae786f93e7b5",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Bridge door signage/restricted",
@@ -6156,7 +6156,7 @@
     "finalManagementComment": "Well done. Rules should be strict now and no any passengers allowed to pass restricted areas."
   },
   {
-    "id": "eb9219a6-98bf-498b-b18d-4238ad6a787c",
+    "id": "215c400c-c01a-403c-9c89-16a56f9dba84",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Clean and disinfect the Passenger accommodation",
@@ -6174,7 +6174,7 @@
     "finalManagementComment": "Well done. This is serious nowadays so we all need to be careful."
   },
   {
-    "id": "76e6c377-79bc-45c5-b117-4a87585c807b",
+    "id": "fe82dcdf-25f8-4285-aa46-5c8f64c4f397",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine high Pressure pipe leakage",
@@ -6192,7 +6192,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done. Case closed. 15.03.2020"
   },
   {
-    "id": "1ef90ec9-0a44-4e9c-9f1e-9a06e195268a",
+    "id": "72556afa-cccc-412c-8c33-508458bb8d87",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "toilet vacuum pump sensor not working properly",
@@ -6210,7 +6210,7 @@
     "finalManagementComment": "Corrective actions accepted. Case closed. 15.03.2020"
   },
   {
-    "id": "8a646502-cf4d-43b9-baff-63db263fa5ca",
+    "id": "1da599f7-9f6f-4742-bc28-a6717874b268",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Slippery deck",
@@ -6228,7 +6228,7 @@
     "finalManagementComment": "Corrective actions accepted. Good job."
   },
   {
-    "id": "46369d93-5550-40bc-baeb-f1963c01943f",
+    "id": "750ef6de-5f42-49bf-aa67-29b8d6d35ab7",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "anchor windlass no cover while sailing and exposed to cold weather",
@@ -6246,7 +6246,7 @@
     "finalManagementComment": "Corrective actions accepted. Good job."
   },
   {
-    "id": "0668a17c-b5df-4c08-b7b3-f05b23a6bd91",
+    "id": "991ad19a-246d-46d0-bf76-4ba9a58797a7",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "water tight door lever not properly lock while sailing from tromso to longyearbyen",
@@ -6264,7 +6264,7 @@
     "finalManagementComment": "Corrective actions accepted. This should be checked before departure.."
   },
   {
-    "id": "7ccbb12e-13ab-43ff-9a98-ed20bc948046",
+    "id": "67bf730e-c917-4ef3-8a34-3e29a5ca11a3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Chart not updated, Port state required Norwegian chart on board",
@@ -6282,7 +6282,7 @@
     "finalManagementComment": "Case closed. Evaluated before the voyage to Svalbard. Date: 19.02.2020."
   },
   {
-    "id": "74b1fa33-a6d9-4b2d-8d66-a78c035bc869",
+    "id": "810ada7c-ec81-4873-a535-40a0c39f6f2d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "passage plan not signed by officer",
@@ -6300,7 +6300,7 @@
     "finalManagementComment": "Corrective actions accepted. All officers shall sign the passage plan before the voyage."
   },
   {
-    "id": "a767d13a-9a90-45c3-acac-9d5b1eb79cd3",
+    "id": "b9e340b1-a95c-40f2-b3c9-c783ff6aa171",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "loose searchlight handle",
@@ -6318,7 +6318,7 @@
     "finalManagementComment": "Closed 18.10.2019"
   },
   {
-    "id": "e5081dd9-7582-4c79-84f1-2d8431c29be9",
+    "id": "1c41b015-8c29-4417-a5a0-8118f19c0aa8",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Painting in chain locker",
@@ -6336,7 +6336,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "cec5ae59-e15e-4ae4-a6a8-b59d2b8d1492",
+    "id": "7c34bd45-2a54-4a0f-b92f-6ea6c40d548c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Broken socket of Masthead light",
@@ -6354,7 +6354,7 @@
     "finalManagementComment": "NC closed 02.10.2019"
   },
   {
-    "id": "f4811e52-abb0-48bf-b451-76507c181b02",
+    "id": "d09ff46a-d760-444b-9db8-9fc1cc61ffae",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Aft 2nd deck flourescent light",
@@ -6372,7 +6372,7 @@
     "finalManagementComment": "NC closed 02.10.2019"
   },
   {
-    "id": "6459e581-3d03-4acd-b685-1e0b3417d31a",
+    "id": "66a0d4ce-153d-4e25-acfd-882661d909dc",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger standing in a bow during rough sea",
@@ -6390,7 +6390,7 @@
     "finalManagementComment": "NM closed 02.10.2019"
   },
   {
-    "id": "1204512c-e57b-4494-b9c5-147e1e8592be",
+    "id": "bc71aba7-bb29-43d7-843c-af560cc98ae8",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Guideline for throwing rope",
@@ -6408,7 +6408,7 @@
     "finalManagementComment": "See remarks, NM closed 02.10.2019"
   },
   {
-    "id": "7d02ab66-1525-4fb9-a816-8f450c9509e1",
+    "id": "e0edcf67-51e9-45ef-beed-e72d693c15fd",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger standing closed to bitts while docking manuever",
@@ -6426,7 +6426,7 @@
     "finalManagementComment": "NM closed 02.10.2019"
   },
   {
-    "id": "5966746a-449a-4483-a448-8868fd900266",
+    "id": "86fcfa99-0d69-44bf-ba75-8850500b7dd4",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "wet floor of passenger acommodation",
@@ -6444,7 +6444,7 @@
     "finalManagementComment": "NM closed 02.10.2019"
   },
   {
-    "id": "517b567f-3212-45b6-89fc-34f84994bdb0",
+    "id": "263585fc-b93c-40ae-a705-a6c414203679",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Entering cargo hold directly after opening the hatch",
@@ -6462,7 +6462,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "bc3f1003-b86f-4e07-a540-bfb66266a79c",
+    "id": "c5827b17-7151-4cd9-8561-4ae7bb796ce4",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Not wearing Hard hat during crane operation",
@@ -6480,7 +6480,7 @@
     "finalManagementComment": "Corrective actions accepted. Captain should hold a safety meeting as this is not first case regarding PPE using."
   },
   {
-    "id": "5ca4a205-eeac-40df-8d31-81819f6b410a",
+    "id": "169b22b3-e6b1-4397-8459-53e36ea15c88",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Working in side of the boat while picking up  ice for the guest without life vest",
@@ -6498,7 +6498,7 @@
     "finalManagementComment": "Corrective actions accepted. The crew must be instructed accordingly"
   },
   {
-    "id": "4b2d16da-699f-4b78-83be-ebbc4c069a83",
+    "id": "5ae068d2-4b85-4664-b552-8b09e9e9db03",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Applying Rust remover with out safety goggles",
@@ -6516,7 +6516,7 @@
     "finalManagementComment": "The crew should be instructed about wearing PPE while working with hazardous chemicals. Corrective actions accepted. Captain to instruct crew members, that this is not acceptible from crew members, to work without PPE when required."
   },
   {
-    "id": "6c7623c4-d57f-4bf8-94bc-8decc47297a9",
+    "id": "905fb1df-19d9-4a6b-87d0-7010dcfefc42",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "obstruction at engine room stairs",
@@ -6534,7 +6534,7 @@
     "finalManagementComment": "Corrective actions accepted. All emergency exit routes should be without any obstruction in the way."
   },
   {
-    "id": "83e07dd3-fd09-4eff-89f0-89065cddf282",
+    "id": "1442b75a-f65a-4359-adba-b738c70d5711",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Pump",
@@ -6552,7 +6552,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "bc91e7cc-1267-4aaa-a673-a225537dad65",
+    "id": "fc84d703-6db7-4b43-aa8b-4e8af5355b09",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Small Leakage of Generator #1, Sea Water Pump",
@@ -6570,7 +6570,7 @@
     "finalManagementComment": "Closed by Master"
   },
   {
-    "id": "ee8a1cd2-4895-404d-81aa-c362d455e718",
+    "id": "e17aa66b-d93c-4c5f-85dc-07ca60dffdfa",
     "vessel": "Samson",
     "type": "NM",
     "title": "Blackout",
@@ -6588,7 +6588,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6ba1296c-e2e9-494a-88d0-66f8e0b0d125",
+    "id": "9a1a458a-d692-4e06-99da-f2f3a7497dd2",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit REC #1 - Training Manuals",
@@ -6606,7 +6606,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b21b0c30-5f38-45b7-813c-24b53bc612fe",
+    "id": "81d82d10-ed35-4ae6-be10-e0390c2aa42a",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #5 - Deck crane not inspedted",
@@ -6624,7 +6624,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9fdd827f-b6df-48a1-a337-a430d09ae7ae",
+    "id": "31451bdc-1b83-4480-bf34-7d41998cb9c6",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #5 - Sterring Gear pumps",
@@ -6642,7 +6642,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6b039293-1fb7-4bbe-8501-7b79a0511663",
+    "id": "f9f75552-6f66-4a2d-a2a4-19c570920848",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #4 - No UKC specified",
@@ -6660,7 +6660,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8932eadf-22a4-434e-91c1-442dd30a6209",
+    "id": "e64949bb-aca5-4596-88a3-6139de048ab7",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #3 - Standing Orders",
@@ -6678,7 +6678,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bd1dd6c4-400c-4c2d-b6fa-6824e29a5f8a",
+    "id": "32b67e79-82ad-45c3-b0a1-c4385c6eda9a",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS # 2 - Risk Assessments.",
@@ -6696,7 +6696,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2c371960-b494-43d9-a0a2-41d9448e2d51",
+    "id": "3db4dfd5-ab42-4891-9e89-cbd76bc6d714",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #1 - Nautical publicatios outdated.",
@@ -6714,7 +6714,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "21f9ed6c-9d67-44da-88a7-ff1a50cabda8",
+    "id": "4984860d-5259-42ea-925e-37bc1c1fee67",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #4 - Material Data SHeets",
@@ -6732,7 +6732,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e861064f-172a-4553-94f8-00d21723097f",
+    "id": "9d1bd03b-b717-42ae-8bc0-49ea8fa34637",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #3 - Emergency Drills",
@@ -6750,7 +6750,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6453a7c0-f4e7-4ba4-9587-8250cc950cfa",
+    "id": "72e17f7e-4bb1-46cc-a2ea-6e918b82ee54",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #2 - Immersion suits not inspected",
@@ -6768,7 +6768,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9934419b-e71c-4681-baac-b3dbced14dac",
+    "id": "ce1569a4-81ed-404c-a073-935a5b62db52",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #1 - Expired certifikates",
@@ -6786,7 +6786,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b235f599-2204-41b3-83df-c988fb1a98a5",
+    "id": "340f1090-3df4-4727-a4e7-2e5f7eb1f4fc",
     "vessel": "Samson",
     "type": "NC",
     "title": "Gear PS",
@@ -6804,7 +6804,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5dc7ca89-1993-4ede-94a1-4fbdce9a5d15",
+    "id": "2f0140a9-4c1a-4e74-b83e-5f2b720f8bf9",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit leak on the oil pan on stb aux eng",
@@ -6822,7 +6822,7 @@
     "finalManagementComment": "Gaskets changed and case is closed."
   },
   {
-    "id": "d6b68ecb-307b-4b56-bfff-6146f01727e4",
+    "id": "988cf28d-ad0b-43f2-aaa8-cfe696726024",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Inernal audit chain lock broken",
@@ -6840,7 +6840,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "bf99f731-db40-4f76-b348-c7b9f57af834",
+    "id": "5acc77e3-2d09-4b06-aef2-048228c09766",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit oIl record and Sludge",
@@ -6858,7 +6858,7 @@
     "finalManagementComment": "The master was instructed to fill out log book as required. All receipts must be kept on board."
   },
   {
-    "id": "38c6fe04-97b1-416e-8139-f01e56c006a5",
+    "id": "1366c710-77db-483f-8390-4d93779bf34e",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit",
@@ -6876,7 +6876,7 @@
     "finalManagementComment": "The lid was fixed and exercised so it won't stuck. Case closed."
   },
   {
-    "id": "5e641e96-1f4d-4624-bc53-9a203e0d31d1",
+    "id": "4a150778-1ac3-4a16-9a04-851912c3d3ec",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Earmuffs",
@@ -6894,7 +6894,7 @@
     "finalManagementComment": "Engineers on watch must ensure when taking round trips that this is not acceptable."
   },
   {
-    "id": "6be06f23-1d9b-48c5-85b3-03dd5fc27c2e",
+    "id": "d6554582-ad9b-44c6-9fb1-072a2c0c4223",
     "vessel": "Samson",
     "type": "NC",
     "title": "Broken leg",
@@ -6912,7 +6912,7 @@
     "finalManagementComment": "Corrective actions accepted. Case closed."
   },
   {
-    "id": "f06e2a2c-d853-4eb7-8489-6f4353899e18",
+    "id": "d1efd48f-dd58-447b-a1d2-5dcde0fe41f0",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Alarm bell",
@@ -6930,7 +6930,7 @@
     "finalManagementComment": "Corrective actions accepted. Captain to ensure that this is followed up."
   },
   {
-    "id": "1db21a94-eaa2-40ab-94ee-274c9af4179d",
+    "id": "8a4ad0ae-2217-4bf4-bd60-e582fca81807",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Oilspill",
@@ -6948,7 +6948,7 @@
     "finalManagementComment": "Corrective actions accepted. C/E to ensure that this is followed up."
   },
   {
-    "id": "5c6df22b-9c9f-427b-9309-f4f9bc30f5bd",
+    "id": "bdae0415-807a-4551-8442-4170e1255b74",
     "vessel": "Samson",
     "type": "NC",
     "title": "Near Accident",
@@ -6966,7 +6966,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9270d07f-3060-46c0-bfb6-97337709cf84",
+    "id": "6dd79214-8a95-4ec5-bb67-c548cbe23941",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Oil spill",
@@ -6984,7 +6984,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "c15cabfe-d8c7-4250-adff-5d4adac8156e",
+    "id": "3558171e-3c4a-416a-9d59-b186c1b73230",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 12.06.23",
@@ -7002,7 +7002,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7a1eb826-79e7-43c5-9d12-f6db630b5f1d",
+    "id": "61b25597-4567-4b56-8d06-88b298a47bf8",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit 12.06.23",
@@ -7020,7 +7020,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1c3cd335-8bb6-432f-aa78-514d854e67cc",
+    "id": "46ec221b-40d8-4a28-bd8a-79963637c407",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 12.06.23",
@@ -7038,7 +7038,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ca0cd508-6538-458a-99e9-bbe21151a88c",
+    "id": "199a7d32-3686-4a53-b96b-06e9e93c2334",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit 12.06.23",
@@ -7056,7 +7056,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6d0a420b-7619-41d7-a268-44f8cd5f0ff8",
+    "id": "04767ccc-8307-40f5-9f17-588dbf1f1d6f",
     "vessel": "Samson",
     "type": "NC",
     "title": "Poor followup of NC´s",
@@ -7074,7 +7074,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6fa9a85e-c93c-4650-894e-5477f922be67",
+    "id": "5c626ad3-132e-4f49-a41a-950318eaea62",
     "vessel": "Samson",
     "type": "NM",
     "title": "Balck out of Main engines",
@@ -7092,7 +7092,7 @@
     "finalManagementComment": "Noted. NM closed."
   },
   {
-    "id": "4a559ea0-5a3f-4cb1-8ce4-4fd4bd347fbe",
+    "id": "5fe8d3ad-864a-4b2f-9283-757e8f55c4ff",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Pump in front of the escape ladder.",
@@ -7110,7 +7110,7 @@
     "finalManagementComment": "Rectified - NC closed."
   },
   {
-    "id": "441209d4-8fb6-4746-a188-0a56b00da7de",
+    "id": "efb9cb92-fb09-4624-bae2-54cb0203deb4",
     "vessel": "Samson",
     "type": "NM",
     "title": "Deformation of box for Emergency Fire Pump",
@@ -7128,7 +7128,7 @@
     "finalManagementComment": "Box repaired - NC closed."
   },
   {
-    "id": "68bda4d7-3ff1-4133-b749-059819305422",
+    "id": "2a13f592-c017-4672-9510-8816f1e7214f",
     "vessel": "Samson",
     "type": "NM",
     "title": "Sea water in motor oil on Emergency Fire Pump",
@@ -7146,7 +7146,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "b8170030-f1c4-4792-b6e9-481dd14d3ee9",
+    "id": "e3022d0e-4889-4a22-b51c-7d7c110a27e3",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Proper communication when outside land-based Internet.",
@@ -7164,7 +7164,7 @@
     "finalManagementComment": "As long as the vessel is operarting in Faroe Islands - there's good internet connection."
   },
   {
-    "id": "ffc951bf-a9c8-411b-b0a2-cdc0be9a6e50",
+    "id": "a7fab1b8-1abc-4580-a0b9-505d6faa4479",
     "vessel": "Samson",
     "type": "NC",
     "title": "Search Lights Aft out of order.",
@@ -7182,7 +7182,7 @@
     "finalManagementComment": "It has been decided that one search light is sufficient. NC Closed."
   },
   {
-    "id": "feda4ecb-b316-4ba3-ae82-2723321bc3a4",
+    "id": "595eff67-e26b-439a-b171-c33808258cc6",
     "vessel": "Samson",
     "type": "NM",
     "title": "Salt water leakage on bridge-roof",
@@ -7200,7 +7200,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "992324cf-db37-462d-9376-82d9672bafab",
+    "id": "31c257ae-ce31-4e0c-b3f1-ecd3100270b8",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Recommendation 2",
@@ -7218,7 +7218,7 @@
     "finalManagementComment": "The vessel is equipped with one LT 3100 GMDSS stations which can connect to the internet - limited bandwidth though."
   },
   {
-    "id": "0c53ac59-b29e-4c1e-8290-c2bd15d70204",
+    "id": "4dd4c325-dbbb-4e02-8dc4-e56f2a713db6",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Recommendation 1",
@@ -7236,7 +7236,7 @@
     "finalManagementComment": "A system is now in use, case closed."
   },
   {
-    "id": "4d9f7769-de82-43cf-8309-21f4b04a01d9",
+    "id": "29ea5478-0269-4ec9-adc5-91c7f08e23d6",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #5",
@@ -7254,7 +7254,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "cc900f02-dd56-4fd5-8f5b-14823c5bd672",
+    "id": "8a72a473-3270-40c0-b177-974e208a622a",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #4",
@@ -7272,7 +7272,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "abbd7126-49ad-4420-ab87-aa0069a66d1a",
+    "id": "7c988195-e4bb-47d1-8920-bc191925d359",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #3",
@@ -7290,7 +7290,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "a20ad7f9-8fff-423a-b43e-ef939acc65b6",
+    "id": "cbde51d2-6df9-4c89-b106-9ce51db5759a",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #2",
@@ -7308,7 +7308,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "a536c8fd-6649-486d-8f6c-8782648f385d",
+    "id": "190fbee0-afde-493a-9658-378f1fa11332",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit Observation #1",
@@ -7326,7 +7326,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "92621275-246f-417e-9e39-46c8246c4ed7",
+    "id": "c157f9a6-249f-475b-9649-b06c84f79b2a",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 03.03.2022 - NC #2",
@@ -7344,7 +7344,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "a01f83e3-906c-47fd-8e8e-ebe52363a97b",
+    "id": "c5025011-37bc-48d8-9a60-fd83c97e3d88",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 03.03.2022 - NC #1",
@@ -7362,7 +7362,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "6d8538d3-a4d1-49a9-9ed1-710124f58506",
+    "id": "700f36ed-4d1d-4d94-a296-7a87bd47072b",
     "vessel": "Samson",
     "type": "NC",
     "title": "FIFI Engine",
@@ -7380,7 +7380,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0261cf7d-3b54-4906-a950-a24abc34cb62",
+    "id": "9a33e619-29b2-49b9-997e-ecb2b258ba32",
     "vessel": "Samson",
     "type": "NC",
     "title": "Search light",
@@ -7398,7 +7398,7 @@
     "finalManagementComment": "SeCloesed upon agreement with crew."
   },
   {
-    "id": "25f17e52-26d6-4cee-be5c-b7c692b233b6",
+    "id": "60b95196-8b41-499b-8b45-08eb59bb7135",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Clutch in PS gear + controlling rpm.",
@@ -7416,7 +7416,7 @@
     "finalManagementComment": "Rectified - closed."
   },
   {
-    "id": "c88886dc-b88e-4611-8f87-7483b00d6364",
+    "id": "477db4e8-aae2-4c00-b91e-dd0f1a90ee2d",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Sounding pipe for tank no 5",
@@ -7434,7 +7434,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "4b230ccf-0401-4390-b1f8-12f8197ec31a",
+    "id": "8a7b8efd-a239-45eb-89f5-6a0e7b455af8",
     "vessel": "Samson",
     "type": "NM",
     "title": "Emergency hatch blocked",
@@ -7452,7 +7452,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "4adcb12c-411b-4212-993b-cc5591ac1694",
+    "id": "bb2da008-849f-4df7-8120-17d4d08d1a8c",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -7470,7 +7470,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e61e805e-7e31-4d00-b18c-80e41bad9df6",
+    "id": "6ec3f2d2-2059-4992-8cd8-6145058406c4",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -7488,7 +7488,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "09891aa1-e97e-4982-b352-23b3af540465",
+    "id": "c1be4519-6f98-4092-b6d8-94868cc96baa",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -7506,7 +7506,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "cdd12619-099b-406b-9c04-84b506d7b4f9",
+    "id": "75e435ac-5c89-4e1c-bd66-4fadaca06c46",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -7524,7 +7524,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "6ffd33ac-1f5b-4c79-a2f1-3726b101dd9e",
+    "id": "cbcdf193-b6bb-4d2f-a5f1-6a85d319b362",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal audit Samson",
@@ -7542,7 +7542,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "21b3d17e-889b-4b2a-848a-bb596e19b5c9",
+    "id": "b92f7e45-7702-4e1f-ae50-57f390da3d4f",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal audit ISM",
@@ -7560,7 +7560,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "5edddb12-fcdb-4b7e-9ed0-94b645b83850",
+    "id": "cedb6229-42c5-4f19-b8f9-37cbe892243f",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -7578,7 +7578,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "8ee0ce1a-51be-488a-bfca-61d8ae2735f2",
+    "id": "152ccf81-1efe-477e-9827-8505c05348b7",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -7596,7 +7596,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "1d9e0afb-b6a4-4741-ad85-f1b023b52906",
+    "id": "52d2ae1c-a0c5-4dc4-b885-003a230eee2e",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -7614,7 +7614,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "28b33cf2-222a-46d0-844e-00b854e40145",
+    "id": "ad64a83e-6214-4643-a092-929d742c1723",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -7632,7 +7632,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "6c2c3c84-a383-4fb0-9a30-1d68d634baa8",
+    "id": "72272df2-44a4-4496-a994-a122a8633e1c",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -7650,7 +7650,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "c3dc8405-2ced-49c9-8984-3bdb1dc4299b",
+    "id": "307a70de-3287-4f73-be99-29bbff1ad9f5",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -7668,7 +7668,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "20a7766e-fe2d-4774-b4ea-f3f7b8cfdae3",
+    "id": "e40fe229-fc05-4143-84f2-49b9432955bc",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit",
@@ -7686,7 +7686,7 @@
     "finalManagementComment": "Critical Equipment inserted in MArad, NC closed."
   },
   {
-    "id": "b0ae1be6-3800-43aa-9ce9-7fea7329b906",
+    "id": "6a73f0f5-64a9-45c4-bfba-35b287a60743",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -7704,7 +7704,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "0a5332a3-d2ff-467d-8f22-f667c7811ef4",
+    "id": "1811f794-edd2-4510-98c9-e9e2ab0d7025",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ism",
@@ -7722,7 +7722,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "4a3da63b-39cf-4b1e-8c76-0b98bf593892",
+    "id": "519acf36-9a99-4b52-8def-4ff9247c58d7",
     "vessel": "Samson",
     "type": "NC",
     "title": "Comms issue",
@@ -7740,7 +7740,7 @@
     "finalManagementComment": "The VHF has been relocated further away from the sticks. Case closed."
   },
   {
-    "id": "c7122e80-b099-443d-80e5-4979e83d3cd2",
+    "id": "16278ebe-1747-4fc8-a7e5-94fc7fae8aa1",
     "vessel": "Samson",
     "type": "NM",
     "title": "Cooling ME PS",
@@ -7758,7 +7758,7 @@
     "finalManagementComment": "Corrective actions accepted - Well done!"
   },
   {
-    "id": "30910462-2bee-47d2-88c6-2c00c11d5ccb",
+    "id": "5b12d0ff-fb58-4af5-9bfc-87f664ee2b4a",
     "vessel": "Samson",
     "type": "NC",
     "title": "Landstrøm og generator ind på tavlen samtidig",
@@ -7776,7 +7776,7 @@
     "finalManagementComment": "Rectified - case closed."
   },
   {
-    "id": "4875e8d1-e13b-4459-a0be-2e3723f3c4b9",
+    "id": "ca8ddfca-df5e-4ac9-ba21-f216120c184f",
     "vessel": "Samson",
     "type": "NM",
     "title": "Steering",
@@ -7794,7 +7794,7 @@
     "finalManagementComment": "Repaired - closed."
   },
   {
-    "id": "8f30826f-9ebe-4fc7-b7db-d1641c59aef9",
+    "id": "312ab450-e65f-47f9-a498-6f48f38099ae",
     "vessel": "Samson",
     "type": "NM",
     "title": "Starting FiFi pump when lying alongside.",
@@ -7812,7 +7812,7 @@
     "finalManagementComment": "Procedures received - case closed"
   },
   {
-    "id": "8d2affcf-270c-4d1c-b319-7a2a1ca21c42",
+    "id": "bb439201-24af-4531-a0de-df121a4da4a4",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Deck surface, main deck",
@@ -7830,7 +7830,7 @@
     "finalManagementComment": "Rectified - and closed"
   },
   {
-    "id": "5064bac1-02a5-4d37-b06c-32e02cee3b28",
+    "id": "9084ce9e-875b-4137-b186-e34263eead91",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Not compliant with MLC",
@@ -7848,7 +7848,7 @@
     "finalManagementComment": "Owner is well informed numbers of time regarding this situation. Despite that we are pushing him to resolve the salaries."
   },
   {
-    "id": "4a8d0b73-6f59-46c9-b953-ddc6ea391c66",
+    "id": "735cc339-ff8c-487d-a533-297840dd4e5e",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Towing hook",
@@ -7866,7 +7866,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c752d328-779d-4826-8d20-9553da3508f2",
+    "id": "25c303cf-4674-4fa9-93ab-c4301ec46457",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Key for fire hose coupling",
@@ -7884,7 +7884,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f60580c0-715a-4ce4-896b-4a37f67444f4",
+    "id": "47fca259-8962-4478-af27-a418550f897c",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Sprinklers for windows on bridge",
@@ -7902,7 +7902,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d6f35847-fa3d-4a31-b70e-6893ed725bea",
+    "id": "9fdc34b9-14d6-4d86-9632-4ffb9f9d2b48",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Satellite and Magnetic Compass",
@@ -7920,7 +7920,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d535b3dd-a8c7-4a61-afa3-19c2b7e6847d",
+    "id": "f688f181-5cd2-4fd1-a569-c1e917780fc7",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Gangway",
@@ -7938,7 +7938,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ea63f476-e2e4-491e-a82b-3f3a27e8cdbe",
+    "id": "454877c7-3d02-4f33-9859-92081996b2bb",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Rescue Sling",
@@ -7956,7 +7956,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6e5dae58-ce2f-4572-b255-da53fc265c72",
+    "id": "c5aa36b8-ac4d-4f25-8677-d088b8661e6a",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Emergency Hatch covered with plastic",
@@ -7974,7 +7974,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "700a0b6a-2b47-4f1e-82b8-7a3cb15d0755",
+    "id": "9c8c061c-a805-4650-89c5-699bc2148c3c",
     "vessel": "Herkules",
     "type": "NC",
     "title": "NC001",
@@ -7992,7 +7992,7 @@
     "finalManagementComment": "Medical chest certificate renewed."
   },
   {
-    "id": "ca7a8b46-f76a-4a33-9c51-dc4871986240",
+    "id": "75ad32fc-4645-414d-a30a-f707acb9ea27",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Crew working",
@@ -8010,7 +8010,7 @@
     "finalManagementComment": "Master to ensure that corrective action are followed."
   },
   {
-    "id": "a4705ecc-cc49-49fb-bb18-64f542777cd3",
+    "id": "6845c371-7ec9-4b8d-a62c-450f21bf6f44",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-06",
@@ -8028,7 +8028,7 @@
     "finalManagementComment": "All items as per FS plan must be in place. Procedures to be followed."
   },
   {
-    "id": "668a010d-aa42-4dc2-869f-bdb23b9e903f",
+    "id": "2a2b3898-c9ef-4742-a7e2-b372eda35bd8",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "PSC-05",
@@ -8046,7 +8046,7 @@
     "finalManagementComment": "C/E and the crew adjusted the doors so it closes tightly."
   },
   {
-    "id": "d5f338b0-487a-4f55-a099-6dd6dffa9c4b",
+    "id": "764bc66d-5d2b-45a1-81aa-7c2a29e35e6e",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "PSC-04",
@@ -8064,7 +8064,7 @@
     "finalManagementComment": "Approved."
   },
   {
-    "id": "b954f3ef-5454-47aa-a5e5-ff6e639c8f41",
+    "id": "c38f1af9-c972-437a-967b-4926ac23bc5e",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-03",
@@ -8082,7 +8082,7 @@
     "finalManagementComment": "Crew was instructed that such actions cannot be performed in any case. All fire detectors must be free from cover."
   },
   {
-    "id": "0066e114-3431-4666-85f8-b693602ff3a3",
+    "id": "cf6de53e-b6e7-475e-9dc2-d4ab90bfe9fa",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-02",
@@ -8100,7 +8100,7 @@
     "finalManagementComment": "IMO sign was requested and ordered by Master, will be delivered in Stavanger."
   },
   {
-    "id": "d954b4aa-4367-45c8-9516-458925d69c6d",
+    "id": "95a41414-4d06-430a-bb8a-82c75c50721a",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-01",
@@ -8118,7 +8118,7 @@
     "finalManagementComment": "Approved."
   },
   {
-    "id": "9c345ee4-db55-4f04-88b2-39dfed56bc79",
+    "id": "0eb811ef-003c-4fbe-b097-d09d143acd25",
     "vessel": "Argus",
     "type": "NC",
     "title": "Defective Immersion Suits",
@@ -8136,7 +8136,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e237553b-080f-4cf2-94b0-a063496ae85a",
+    "id": "27ea4649-62c4-4e46-b9c2-1f3871f70d08",
     "vessel": "Argus",
     "type": "NC",
     "title": "Loss of Access to MARAD (PMS)",
@@ -8154,7 +8154,7 @@
     "finalManagementComment": "We constantly reminding owenr to reinstate the MARAD and pay overdues. NC will be closed when MARAD lisense will be renewed."
   },
   {
-    "id": "46d820f9-bf89-4ad0-b6d1-b3f1e2a39adc",
+    "id": "0e8f844f-9434-491a-bc73-76c96b7e4bf8",
     "vessel": "Argus",
     "type": "NC",
     "title": "Discrepancies in Garbage Management Plan (GMP)",
@@ -8172,7 +8172,7 @@
     "finalManagementComment": "Revision will be made"
   },
   {
-    "id": "52b5d303-4982-4733-9e83-e51d9845398f",
+    "id": "f0b0ce31-9747-4e6c-90e7-e1e30f0887cb",
     "vessel": "Argus",
     "type": "OBS",
     "title": "REC 26-02 Cleanliness in ER can be improved.",
@@ -8190,7 +8190,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9d36cda1-5de7-402e-ad9b-e373ea668b22",
+    "id": "4abf0744-476a-4549-8516-e88db8b97c49",
     "vessel": "Argus",
     "type": "OBS",
     "title": "REC 26-01 Medicine in hospital not sorted out",
@@ -8208,7 +8208,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "b11bd066-36eb-48c7-85ad-cfc60514f118",
+    "id": "13a0f798-4716-4962-b3b0-30ef12b794cc",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-05 Salaries are late (Owner)",
@@ -8226,7 +8226,7 @@
     "finalManagementComment": "We urged owner to pay the salaries within one month. Owner has now big issues with payments, due to 3 vessels being stopped in operations and in docked. If salaries will not be paid, we will take decision on next action. Salaries are paid up to February'26 Salaries settled up."
   },
   {
-    "id": "0fd275f6-c374-457a-995b-2fcf3e483a16",
+    "id": "c1f4ddd1-71aa-4de5-adc3-31a1e26ae816",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-04 Petrol/Diesel stored in ventilation room",
@@ -8244,7 +8244,7 @@
     "finalManagementComment": "We have instructed the crew to move the tanks out of the ventilation room, because gases can escape and go inside the ventilation system. Ventilation locker cleaned out from gasoline container and other unnecessary items, the gasoline stored in helicopter fuel pump room. Evidence provided."
   },
   {
-    "id": "889c9a40-2b96-4579-98f8-98ef8b5733bf",
+    "id": "58165de2-cf08-4e20-9ae8-43838e700eca",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-03 Freezer temperature not monitored",
@@ -8262,7 +8262,7 @@
     "finalManagementComment": "We have instructed cook that he needs to monitor temperature on freezers/fridges daily and log it on the checklist. Cook is now monitoring the temperature of the fridges/freezers. Evidence provided."
   },
   {
-    "id": "d6d37b4d-1549-4150-b3ee-5cdd4f99cb42",
+    "id": "b7a6834b-ae9c-4213-bd66-a9a1fe56bb30",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-02 SSP not in place",
@@ -8280,7 +8280,7 @@
     "finalManagementComment": "We instructed Captain that SSP must be in secure locked place, in captain's cabin, due to the confidential information. SSP has been put in the ships safe. Evidence provided."
   },
   {
-    "id": "0134e069-8a7a-4dd9-8775-3be1b2893859",
+    "id": "bca36f73-a8ac-475a-a5e7-a44b6dc70b34",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-01 Rest hours",
@@ -8298,7 +8298,7 @@
     "finalManagementComment": "Captain must ensure that rest hours reflects actual rest. Records of rest hours now filled propely, evidence provided."
   },
   {
-    "id": "d830a36d-fb1d-4dd1-96f0-a232ef92ef45",
+    "id": "5d1c2d97-1fe7-44f0-a49c-430557c3c587",
     "vessel": "Argus",
     "type": "NC",
     "title": "Overdue external audit",
@@ -8316,7 +8316,7 @@
     "finalManagementComment": "Vessel is released. Surveys of class will be in Las Palmas. Internal audit scheduled 01.2026"
   },
   {
-    "id": "e8491d70-bc26-419b-96be-e13dc2c15ca5",
+    "id": "5022d124-e64c-4b8b-9f1e-49eeb71ce3b1",
     "vessel": "Argus",
     "type": "NC",
     "title": "Lifting of heavy items in engine room with expired lifting gear",
@@ -8334,7 +8334,7 @@
     "finalManagementComment": "NC accepted. Although lifting gear was inspected and safe to use, certification had expired and Danish regulations were not met. Gear has now been re-certified and passed inspection. Procedures adjusted to ensure timely re-certification in future."
   },
   {
-    "id": "953b3bdb-47a8-485b-ba46-6bf344534e3a",
+    "id": "b9b9cd98-85e9-4234-8dfa-d0ccd6ff694c",
     "vessel": "Argus",
     "type": "NC",
     "title": "Lifting of machinery equipment",
@@ -8352,7 +8352,7 @@
     "finalManagementComment": "NC accepted. Although lifting gear was inspected and safe to use, certification had expired and Danish regulations were not met. Gear has now been re-certified and passed inspection. Procedures adjusted to ensure timely re-certification in future."
   },
   {
-    "id": "2c2d0bfc-72e2-487a-821b-5d8290a8b45c",
+    "id": "4e7ecc22-6e01-4db8-897a-6ed22fe247b5",
     "vessel": "Argus",
     "type": "NM",
     "title": "Ch.Eng Volodymyr Levchenk ankel acident on the 10th november",
@@ -8370,7 +8370,7 @@
     "finalManagementComment": "Monitoring on confined spaces should be done in adequate intervals, so no loose or dropped items are on the floor. Require the use of appropriate safety footwear and other PPE"
   },
   {
-    "id": "2c009ce7-b7ed-4a61-9375-97ac5ee204dd",
+    "id": "cc7437bc-011a-49e6-979d-dad6341d9af5",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Recomodation 2. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8388,7 +8388,7 @@
     "finalManagementComment": "number of eye washes reduced to 6"
   },
   {
-    "id": "358c6792-6b68-4676-bb10-70d5d8855fe1",
+    "id": "ea7068af-5a0d-4828-a4e6-ea5c108e6345",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Recomodation 1.  Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8406,7 +8406,7 @@
     "finalManagementComment": "Done by crew"
   },
   {
-    "id": "91a5d85c-430d-4081-8c5e-f42a341e54c7",
+    "id": "670d2e48-2b72-4305-9a26-bed5de85650b",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 5 Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8424,7 +8424,7 @@
     "finalManagementComment": "New on acquired"
   },
   {
-    "id": "1bfa8518-d5d2-4afe-b6af-64a01512fba4",
+    "id": "3a846bff-7ded-4dee-beab-94d689863d21",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 4. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8442,7 +8442,7 @@
     "finalManagementComment": "Fire plan updated with new crew list"
   },
   {
-    "id": "9d4da958-9c4e-4cb1-8ba6-c902e67d5089",
+    "id": "db8f18a0-2f91-4838-884e-d0bc733ceb27",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 3. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8460,7 +8460,7 @@
     "finalManagementComment": "All eye wash stations renewed"
   },
   {
-    "id": "f4447c9e-b3ba-47bb-8785-333e7b379d4f",
+    "id": "60f6130d-2812-47f3-869c-717662e66ccf",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 2. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8478,7 +8478,7 @@
     "finalManagementComment": "Done"
   },
   {
-    "id": "49364772-5ec9-466e-a488-a6209b15616d",
+    "id": "a32b8f8a-5895-4949-8090-344b5cc33f9c",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 1. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -8496,7 +8496,7 @@
     "finalManagementComment": "NC closed as new gyros was fitted."
   },
   {
-    "id": "676fce94-9a0b-438f-b99f-83e36b0afab3",
+    "id": "5ca215ca-a2b2-45a9-b917-73e8d4736173",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 13",
@@ -8514,7 +8514,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2d381b0d-0959-4482-b38b-6f013ecebcf7",
+    "id": "63462bf6-e236-4675-9bc6-0bf390cab3a9",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 12",
@@ -8532,7 +8532,7 @@
     "finalManagementComment": "Crew must report malfunctions as soon as possible in order to repair these."
   },
   {
-    "id": "1a3309b9-db44-44ac-80f7-e1581b8e18ba",
+    "id": "c762f9da-fd01-45ee-8016-433612d7add6",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 11",
@@ -8550,7 +8550,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4b2f551f-0eba-4320-a153-bfe1f2591b7a",
+    "id": "340af32e-f69b-4e4e-9bb6-89ccc714d31b",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 10",
@@ -8568,7 +8568,7 @@
     "finalManagementComment": "Crew instructed accordingly, shipping.fo will follow up."
   },
   {
-    "id": "68ece5f5-b47a-413d-8689-df02bf76da10",
+    "id": "ce35878c-c5c1-46d8-8aba-ea6c9303c139",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 9",
@@ -8586,7 +8586,7 @@
     "finalManagementComment": "Crew instructed accordingly, shipping.fo will follow up."
   },
   {
-    "id": "a3cf65fa-ca04-4d5d-aa6b-23ecda942dc6",
+    "id": "f2d621d5-289e-4a29-a644-163ff5ff1833",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 8",
@@ -8604,7 +8604,7 @@
     "finalManagementComment": "Crew instructed to be more observant, shipping.fo will follow up."
   },
   {
-    "id": "ba492a95-b364-4d9a-843a-2bdeb9d6e852",
+    "id": "aed59b04-d8a7-4344-b4c0-4edbe3ca2cee",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 7",
@@ -8622,7 +8622,7 @@
     "finalManagementComment": "Engine crew to follow maintenance and check procedures, shipping.fo will follow up."
   },
   {
-    "id": "8645f5ff-9ded-43d2-9e71-8501e95d355a",
+    "id": "39684211-a652-456c-8bc2-426a545a18bf",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 6",
@@ -8640,7 +8640,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6243d56c-416a-41c9-9bd7-e850810cf5bf",
+    "id": "dfd781dd-a7a1-4dd8-9708-b8d6c2974e6f",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 5",
@@ -8658,7 +8658,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8eb662a3-7fe3-438c-8341-a6d2a4a1bd6c",
+    "id": "da97af80-c1d2-45db-b54c-f1ec8126b1f2",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 4",
@@ -8676,7 +8676,7 @@
     "finalManagementComment": "Crew instructed to dispose of this at regular intervals."
   },
   {
-    "id": "918fef6d-da1a-44cd-aa1b-8f711ab43bc1",
+    "id": "59527f65-f578-4976-a9af-1bf335e73525",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 3",
@@ -8694,7 +8694,7 @@
     "finalManagementComment": "New crew lack of training PSC was informed that the crew is new"
   },
   {
-    "id": "e731f9f2-3f50-4313-a067-53758c226327",
+    "id": "6bf1fc62-a716-4465-ab89-857cd36620a9",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port state control DEF 2",
@@ -8712,7 +8712,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "041ac55f-32d1-4697-88b3-482aa1b72bfe",
+    "id": "0ab6ba5a-6965-4d7e-8a2a-3402a008093f",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port state control DEF 1",
@@ -8730,7 +8730,7 @@
     "finalManagementComment": "More care from the crew’s side, shipping.fo will follow up"
   },
   {
-    "id": "1acb4f12-346a-48a8-a88a-87830009c93a",
+    "id": "37516d5e-6324-4241-88eb-d0a6fc0e9bfa",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Internal Audit Observation #1 - 10",
@@ -8748,7 +8748,7 @@
     "finalManagementComment": "We will follow up on Observations at the next visit on board."
   },
   {
-    "id": "ae693c11-e4eb-4a63-86dc-20dd38f0b4ce",
+    "id": "f7c87c87-b234-4694-86c0-12b643be1bf9",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Internal Audit REC #1",
@@ -8766,7 +8766,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "78183a10-ba4a-4ca8-8ea6-bb5f1dbf3c0d",
+    "id": "25b156f2-3a40-499d-b2f5-90572330495c",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #6",
@@ -8784,7 +8784,7 @@
     "finalManagementComment": "NC closed - will be followed up."
   },
   {
-    "id": "8cd06978-025e-44cd-bbf5-d4c95436e246",
+    "id": "9ef95542-d39f-496b-b50b-dc6d297fd803",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #5",
@@ -8802,7 +8802,7 @@
     "finalManagementComment": "NC closed - but will be followed up."
   },
   {
-    "id": "0309e6e7-e173-4a11-b322-8e57f2aa445e",
+    "id": "b07c8882-8bce-41c7-a355-dade86fce941",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #4",
@@ -8820,7 +8820,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "0d0f6d35-c954-45e2-a214-f53bab18d7bf",
+    "id": "7caec58f-43ac-4200-9e0d-aaa01e53d1cc",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #3",
@@ -8838,7 +8838,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "77df8355-10e4-4ee3-acd9-5e462f2a35cf",
+    "id": "d9d1f3df-177b-4207-834b-5cadf905dee4",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #2",
@@ -8856,7 +8856,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3bf4a36d-bec3-4464-966a-663a5ac63da3",
+    "id": "da717c3d-f346-4642-9ffa-baf599e7b5c3",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #1",
@@ -8874,7 +8874,7 @@
     "finalManagementComment": "Crew are following procedures - case closed."
   },
   {
-    "id": "60d7fe48-b13a-4037-a991-228f7f36287c",
+    "id": "080c5540-9ef3-4ef9-bfd8-4cac7272946d",
     "vessel": "Argus",
     "type": "NC",
     "title": "External MLC Inspection - DEF. 1 - Paint and Chemicals on board.",
@@ -8892,7 +8892,7 @@
     "finalManagementComment": "Sanitation of chemicals carried out - case closed."
   },
   {
-    "id": "3e15e7de-8795-494d-bdb6-ca1845f3a3e3",
+    "id": "a7f1b69d-4767-4fd2-80ca-751a5a156140",
     "vessel": "Argus",
     "type": "NC",
     "title": "External ISM Audit - NC 2 - Minimum Safe Manning Dokument not covering operation Area",
@@ -8910,7 +8910,7 @@
     "finalManagementComment": "Both office and vessel will check certificates etc. more carefully in the future."
   },
   {
-    "id": "174f1148-d7c0-406d-a4f3-82e70f628b25",
+    "id": "7b0b6fb7-14ba-46d3-989d-4aed6c9e2d00",
     "vessel": "Argus",
     "type": "NC",
     "title": "External ISM Audit - NC 1 - Audit not performed timely.",
@@ -8928,7 +8928,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1363e1ae-cc23-42d0-ade1-e46e46a8142b",
+    "id": "e301a5ef-8624-4ed7-9dd6-e4cf58807554",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 8.",
@@ -8946,7 +8946,7 @@
     "finalManagementComment": "Engineers instructed accordingly."
   },
   {
-    "id": "02815b8a-b17d-41fc-8fb8-1935e45ac516",
+    "id": "bd1cce9c-176b-4b7c-be56-b2cdcd0ad4bc",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 7.",
@@ -8964,7 +8964,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "648a178f-63ed-4728-8603-7d0f5fcb88ce",
+    "id": "bb2f4058-7767-49ce-b9e2-399c6316b635",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 6.",
@@ -8982,7 +8982,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f3d19ec3-9655-4398-8e18-534756ba1c5a",
+    "id": "741f288c-9408-4eb9-a296-dffecb2e686c",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 5.",
@@ -9000,7 +9000,7 @@
     "finalManagementComment": "Rectified before departure."
   },
   {
-    "id": "3b6989a1-d8bc-455d-94c7-43208566fbe1",
+    "id": "c267f048-4bfe-42fa-9171-ec57af39ebe3",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 4.",
@@ -9018,7 +9018,7 @@
     "finalManagementComment": "Rectified before departure."
   },
   {
-    "id": "533a7862-6f9d-4df7-8476-03c1d7daee76",
+    "id": "08f95ba4-09ff-4284-a972-fd3079c9d1b2",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 3.",
@@ -9036,7 +9036,7 @@
     "finalManagementComment": "Rectified before departure."
   },
   {
-    "id": "cf6074f3-861d-4a0e-9395-77318e8e4047",
+    "id": "24331d13-6aeb-4ef5-9487-95db478e551c",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 2.",
@@ -9054,7 +9054,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d1d71711-a2f1-44a6-b321-27825f67afc2",
+    "id": "ebcaacc0-0d0f-4006-9b46-5c75be0a9a12",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 1.",
@@ -9072,7 +9072,7 @@
     "finalManagementComment": "Procedures followed - NC closed"
   },
   {
-    "id": "d71b6d96-d68c-4eee-b924-19c507df9741",
+    "id": "27832a56-3247-42bc-8953-16172d901032",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "No communication between bridge and deck stations",
@@ -9090,7 +9090,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3d891f72-e3b3-40ed-9eb1-f24e32bf26ef",
+    "id": "974e138b-1a59-4d22-9f7d-32dbfddfa48e",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Alarm System Malfunction",
@@ -9108,7 +9108,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8b602e7e-a65d-44fc-8c90-4bfe57ab6e03",
+    "id": "01605b63-fd27-4b21-b349-5a192f841010",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Echo Sounder Malfunction",
@@ -9126,7 +9126,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1147506e-9eab-48b5-ad48-363650a7f28b",
+    "id": "9331ca66-5fa0-449d-92e2-d919b2b3ffd3",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Alarm System Malfunction",
@@ -9144,7 +9144,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "fa5ed2ee-0d36-4281-88a7-4615460f10df",
+    "id": "5fec4164-b414-45dc-a6a9-ccdb31edc608",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 01-2026 Missing  navigational lights",
@@ -9162,7 +9162,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7e5202d7-ccff-4abe-b26b-f37c0b30884f",
+    "id": "097b4d2e-e132-446b-a21f-16278a60d5ee",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 26-02 Salaries are late (Owner)",
@@ -9180,7 +9180,7 @@
     "finalManagementComment": "We urged owner to send us payment confirmation for the crew salaries."
   },
   {
-    "id": "5c8524ef-fbfa-443a-9c88-22454f09a3a4",
+    "id": "27d387a0-930e-4980-8804-500c19dddc7f",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 26-01 Freezer temperature not monitored",
@@ -9198,7 +9198,7 @@
     "finalManagementComment": "Captain to ensure that procedure and instructions are followed. Logs provided. Case closed."
   },
   {
-    "id": "472405bc-3481-4c74-8749-97a7c610855a",
+    "id": "2dbbb7f7-91b0-45a2-bfcc-9fec64ee3f0c",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Overdue internal audit",
@@ -9216,7 +9216,7 @@
     "finalManagementComment": "Audit performed on 30.01.2026"
   },
   {
-    "id": "fc82d3eb-bdfe-4dd7-b1d2-aa05afa95a40",
+    "id": "caa49daf-de7a-4f4e-96fd-69ebb3064455",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Freestanding cooker",
@@ -9234,7 +9234,7 @@
     "finalManagementComment": "New electric stove installed."
   },
   {
-    "id": "9de6ecb6-6bac-4b3f-8781-432e6cc5d9a1",
+    "id": "e0a7325c-1ec0-442f-9a22-2c92f443c2a7",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Sewage pump",
@@ -9252,7 +9252,7 @@
     "finalManagementComment": "All above is fixed and in satisfactory condition."
   },
   {
-    "id": "4b29e0d1-3edb-4830-8734-8ebd1ede4877",
+    "id": "f404ce9b-6621-4b8a-943b-55a154158bf2",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "SB/S ME CPP unit fault",
@@ -9270,7 +9270,7 @@
     "finalManagementComment": "Technicion fixed the issues. ME CPP unit working correctly."
   },
   {
-    "id": "ad313c7c-7245-4254-ae9e-aad8c2c8a631",
+    "id": "12de3683-2e43-4019-b81a-bdcf53e16e37",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Fire Alarm system fault",
@@ -9288,7 +9288,7 @@
     "finalManagementComment": "All in order and found satisfactory."
   },
   {
-    "id": "cc8e632c-1b30-4abc-9f39-d082f3f6034b",
+    "id": "03e94a02-74fc-4066-96a5-f1755add3deb",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #06",
@@ -9306,7 +9306,7 @@
     "finalManagementComment": "C/E was instructed to start doing handover according to the checklist and keep records of it."
   },
   {
-    "id": "e361cfa1-a1e1-470a-bae7-1cad52726ba1",
+    "id": "756433e2-6209-4521-a186-d67ae4f4aad9",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #05",
@@ -9324,7 +9324,7 @@
     "finalManagementComment": "Captain was instructed to ensure that checklist be filled up accordingly."
   },
   {
-    "id": "d332df82-a721-4c0c-a8f9-b503085d1b23",
+    "id": "073ad5d8-5f01-4e88-a382-582b9f20e006",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #04",
@@ -9342,7 +9342,7 @@
     "finalManagementComment": "Instructed captain to order manual in working language"
   },
   {
-    "id": "ecb435da-2fd6-408a-b557-ac9c6aa3ba14",
+    "id": "f36e9714-8d37-4651-9c71-98a2b4e0f959",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #03",
@@ -9360,7 +9360,7 @@
     "finalManagementComment": "After discussion in the office internaly we have concluded that crew manager must ensure by receiving ir making the interviews with the seafarers before they join onboard."
   },
   {
-    "id": "56f7ddda-8170-46c9-8a93-2d43ddf10fd1",
+    "id": "4adfa994-4331-4843-b3e0-7c8a178dd1d0",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #02",
@@ -9378,7 +9378,7 @@
     "finalManagementComment": "OWS valve sealed and remark was made in ORB."
   },
   {
-    "id": "b549a7d7-921f-438a-8079-faf9d784b435",
+    "id": "0025ec8c-63a7-40e4-b747-26474649c222",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #01",
@@ -9396,7 +9396,7 @@
     "finalManagementComment": "We have received renewed certificate."
   },
   {
-    "id": "7f54f0d7-1960-4a8a-9104-1736953a1b6a",
+    "id": "a17db362-45cf-4274-a271-2d458a10c0f2",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NAVTEX",
@@ -9414,7 +9414,7 @@
     "finalManagementComment": "New navtex unit was ordered and installed."
   },
   {
-    "id": "88dfcaea-6132-40b8-bb29-87f14b4f2b7f",
+    "id": "36d20886-7a94-4ffd-bd7f-8f4c5e118a90",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 9: Shore based maintenence agreement expired.",
@@ -9432,7 +9432,7 @@
     "finalManagementComment": "Closed - but will be followed up by the management."
   },
   {
-    "id": "df6d3acf-c2fb-48f9-b9d0-8cf303c9b4ee",
+    "id": "181845b4-220f-4e96-8c90-7032820ca242",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 8: The engine room was found in dirty and unorganized condition and the platform was slippery.",
@@ -9450,7 +9450,7 @@
     "finalManagementComment": "Closed - but will be monitored by the management."
   },
   {
-    "id": "136c2039-9c5c-4237-87fb-f013a0997095",
+    "id": "cc4dafd6-fda6-408b-b09c-1394b92ecb75",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 7: No milk was found onboard.",
@@ -9468,7 +9468,7 @@
     "finalManagementComment": "Closed - no furhter action."
   },
   {
-    "id": "305bec40-07de-4ce2-99e5-89a44cf55f7e",
+    "id": "5dba9469-a893-4c7b-a27f-b7dbc2bfd1e1",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 6: Engine room bilges full of oil.",
@@ -9486,7 +9486,7 @@
     "finalManagementComment": "CLosed - but will be followed up in the future."
   },
   {
-    "id": "ccef6a20-8862-4eca-8266-2befafe6eac2",
+    "id": "186b264f-7094-4b5a-b851-a2e8b217ab32",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #5 - Gauge on steering gear wasted.",
@@ -9504,7 +9504,7 @@
     "finalManagementComment": "Closed - but will be followed by the management."
   },
   {
-    "id": "04a54652-aad3-4d70-8c9d-24f81f54d3ac",
+    "id": "64e99cfd-7184-45f1-a207-40ad3c8b9df9",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 4 - Steering gear alarms",
@@ -9522,7 +9522,7 @@
     "finalManagementComment": "Closed - but will be monitored by the management."
   },
   {
-    "id": "8eb8c013-59d3-47de-98f7-c072d6c6340f",
+    "id": "16c02e3d-a653-4aa9-b040-ba409349960a",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #3 - Charts not onboard",
@@ -9540,7 +9540,7 @@
     "finalManagementComment": "Closed, but will be monitored by the management."
   },
   {
-    "id": "c24b89e9-e0a4-423e-abb6-03230a9a077d",
+    "id": "0dca51ef-5005-4d91-936b-720b09d69b9a",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC Finding # 2: Deck area holed and corroded.",
@@ -9558,7 +9558,7 @@
     "finalManagementComment": "The anchor winch was dismantled, all corroded parts of the deck eas removed, and new syteel plates inserted."
   },
   {
-    "id": "d552f237-3191-4950-b7ff-0f2e4c2166e3",
+    "id": "30feb2e7-f4d0-455c-9ea4-a305b9ee172f",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #1: Emergency fire pump - not working.",
@@ -9576,7 +9576,7 @@
     "finalManagementComment": "Closed - but will be followed up by the management."
   },
   {
-    "id": "bd0dedf1-5b43-47e0-a5c2-b71b09bc1afe",
+    "id": "e48184fb-2025-4201-a643-2ca3233606ae",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Water ingress to cahin lockers",
@@ -9594,7 +9594,7 @@
     "finalManagementComment": "Closed, but will be followed up by the management."
   },
   {
-    "id": "ed526254-b15f-4f0e-9d0f-b83ee66f837d",
+    "id": "e4025e60-66a3-4be4-9ee7-61af0c46c0de",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Water ingress in Bow thuster room",
@@ -9612,7 +9612,7 @@
     "finalManagementComment": "Bilge alarm installed"
   },
   {
-    "id": "6f348efc-3be6-4a8f-8903-fd8a94b9a1bd",
+    "id": "53c48ce1-85d4-4784-8955-d7c12351b0eb",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "DSC VHF Antenna mounting bracket damage",
@@ -9630,7 +9630,7 @@
     "finalManagementComment": "The corrective actions received. The matter may be considered closed from the management side."
   },
   {
-    "id": "ed7f3d14-0885-46ca-ba78-060df4cc430e",
+    "id": "0d8ef6c3-99b3-4f6f-b4cd-9d77451697de",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "BWTS Container ventilation blockage",
@@ -9648,7 +9648,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "54216301-79e0-43dd-bbf5-43cc5f8ff7a3",
+    "id": "456e3dbb-2b00-4b2a-8576-4b44b5e16de8",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Non-Compliance with PPE Requirements During Framo Pump Purging",
@@ -9666,7 +9666,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "778d3644-42b6-4929-ac29-128301d7a2d3",
+    "id": "9a44bdab-9126-4501-8db4-d4dcf62eca98",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Discrepancy in Rest Hours documentation",
@@ -9684,7 +9684,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "deea4502-1fb0-4e60-a06a-24213f450ae9",
+    "id": "9f49adec-dac5-4acf-8d9b-c5add728150b",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Enclosed Space Entering Procedures",
@@ -9702,7 +9702,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7d07c019-0bca-44e1-a0be-6c43c675f811",
+    "id": "4c9754fc-ecb6-446b-9a38-fa27826af68e",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Safety matter during Backstow operation",
@@ -9720,7 +9720,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "252fdc4b-ad4a-4050-b120-6b43d8cc9746",
+    "id": "7d5d15e9-9838-477d-bc2e-5a10c85ff3f9",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC expired Class certificates",
@@ -9738,7 +9738,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c44d0730-aea1-4c1b-9e2f-db54850bd59f",
+    "id": "c46daf58-e200-4e2f-af3c-c6fb4e9ab17e",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18408 Paint store",
@@ -9756,7 +9756,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5ec13f9d-d3ff-47f4-92bd-289c68bd1ac3",
+    "id": "68e39244-a368-4c49-a024-4b03f02e72c0",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18401 Medical Equipement",
@@ -9774,7 +9774,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ad89ec46-9715-45d4-8939-02ec1712a00f",
+    "id": "c0a3fd7b-1311-4e0e-b4ce-7e1899d88b42",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18408 Electrical box",
@@ -9792,7 +9792,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6eac6a8e-d767-47bf-93e5-e8c7398a718c",
+    "id": "d1066020-0a86-40b8-b494-1da47d98d0fd",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Emergency escape hatch from the engine room was found not operational, affecting safe emergency evacuation.",
@@ -9810,7 +9810,7 @@
     "finalManagementComment": "We acknowledge the seriousness of the finding, as emergency escape routes must remain fully operational at all times. The immediate corrective action taken on board is considered appropriate. The emergency escape hatch was repaired and tested, and additional checks of all emergency escape routes were carried out to verify their operational condition. We will add routine checks of emergency exits into PMS to prevent reocurrance."
   },
   {
-    "id": "914ba9a5-1575-4a6f-afa1-e0869f82b659",
+    "id": "0a91d7d3-37a7-43ee-9f98-db73b67cb287",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "REC 01/2026 - Internal Audit",
@@ -9828,7 +9828,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4ee580bd-f74d-4890-8f0b-366c73ae0cc7",
+    "id": "0efc433e-eb54-49ec-9d8a-ceacda54d51d",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 05/2026 - Internal Audit",
@@ -9846,7 +9846,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4fa82c5e-38b2-4333-8c25-5b87c1cabcb5",
+    "id": "34de6cc1-0373-4a30-b5de-e0091bc9cefd",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 04/2026 - Internal Audit",
@@ -9864,7 +9864,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3b5240ab-0b68-4bf9-9af2-ec1caf781347",
+    "id": "a56150b2-bb91-4b4c-b127-f46566e473b8",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 03/2026 - Internal Audit",
@@ -9882,7 +9882,7 @@
     "finalManagementComment": "Uploaded into SMS and posted on the wall."
   },
   {
-    "id": "e7e25233-016c-4d63-a2b9-7c183a45e93d",
+    "id": "be1c6cc2-3cf1-4d22-9a31-afa8a6fc0153",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 02/2026 - Internal Audit",
@@ -9900,7 +9900,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "03c81b25-cd44-495a-b49a-6cc5ab9e3969",
+    "id": "c8d00820-327e-49eb-9238-b956dab1eeae",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 01/2026 - Internal Audit",
@@ -9918,7 +9918,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "90f6a93e-baf1-4243-a9d1-e61c007d3322",
+    "id": "87f13a37-3329-430a-9f56-72b52baf1491",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 02/2026 - Internal Audit",
@@ -9936,7 +9936,7 @@
     "finalManagementComment": "We have implemented cargo plan checklists 7-0507I LOADING DISCHARGING BALLAST PLANNING"
   },
   {
-    "id": "e6d42738-9b3c-4cc5-8a6e-72df360dad3a",
+    "id": "7965c6ab-df1a-458e-81d4-95d2ba244c34",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 01/2026 - Internal Audit",
@@ -9954,7 +9954,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8eddff86-ac03-4a06-a930-8d6901cbc854",
+    "id": "5fb4602e-9e59-4033-8591-a1a41b6c78bc",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Near miss Helmsman seat",
@@ -9972,7 +9972,7 @@
     "finalManagementComment": "To be delegated to the ship`s superintendent."
   },
   {
-    "id": "0e91b5a5-d818-4873-83a6-6cf14c1cf3ff",
+    "id": "1f710c88-80df-4038-8056-2af46af203a5",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 03-26 Tank Monitoring System",
@@ -9990,7 +9990,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "71a24785-15b6-46e6-902d-5aaa09b762a3",
+    "id": "6f4a8284-f49d-4e7b-beef-fa65aec0b09a",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 02-26 SUZUKI DF30A",
@@ -10008,7 +10008,7 @@
     "finalManagementComment": "SOLAS/LSA Code does not explicitly require Teleflex steering. It does not require remote throttle/gear control specifically. It requires the boat to be safe, controllable, and capable of maneuvering effectively Superindendent is responsible to check with owners how they want the boat steering to be made."
   },
   {
-    "id": "78f6520f-75f8-47f5-aebb-6509268bd29d",
+    "id": "6c2346b8-e1d5-4716-b114-5fee7588b1b7",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "AB not wearing a PPE",
@@ -10026,7 +10026,7 @@
     "finalManagementComment": "Management has reviewed the near-miss involving a crew member working on deck without a safety helmet. Although no injury occurred, the situation had the potential to result in serious harm. Immediate corrective actions were taken, including a safety briefing, reinforcement of mandatory PPE requirements, increased supervision, and confirmation that this near-miss will be referred to during upcoming toolbox talks and safety meetings. If near-miss reocurs, verbal warnings may be issued to the crew. The near-miss is considered closed."
   },
   {
-    "id": "6ee82dff-818f-4e0d-8c4b-c712b63e4785",
+    "id": "eb5f1ca0-b40d-4ce3-9fa8-c8ad8ac1a2f3",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "ER Hot Water Heaters",
@@ -10044,7 +10044,7 @@
     "finalManagementComment": "Management has reviewed the near-miss involving overheating of fuses supplying the ER hot water electric heaters. The investigation confirmed that when both heaters operate simultaneously, the combined load is close to the rated capacity of the installed 63A fuses, leading to overheating and increased fire risk. As an immediate risk-control measure, operation has been limited to one heater only. Electrical schematics and load measurements were reviewed together with a shore electrician, confirming that the existing cable and fuse rating are marginal for simultaneous operation. Permanent corrective action will be evaluated, including upgrading the supply cables and protective devices to an appropriate rating in accordance with load requirements. The near-miss has been addressed, risk mitigated, and the case is considered closed, subject to implementation of the permanent corrective action."
   },
   {
-    "id": "247ad39e-5a4a-467c-ae5c-7a203736c0b9",
+    "id": "e7182c9f-0270-4d4d-8c89-93109caacd44",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Free-Fall Lifeboat Davit Rollers",
