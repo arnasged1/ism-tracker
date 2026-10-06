@@ -1,6 +1,6 @@
 [
   {
-    "id": "7e6ec32b-d361-484b-8964-6f6224b73739",
+    "id": "2794dae4-92a5-487c-baf0-8cf5a7d74d9c",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Not wearing complete PPE",
@@ -18,7 +18,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2e0b4ce7-cb45-4631-9e16-b99807bd6507",
+    "id": "39e5f27a-0c79-4e1c-8815-42d1fe4d9ce3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Valve",
@@ -36,7 +36,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5a9fdc21-8a04-4dcb-9b95-ba64fa6810b8",
+    "id": "fadf0c96-7df9-400b-8e50-9f74d45c4eab",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Open side door",
@@ -54,7 +54,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7d7e6b02-c5c5-4380-9f14-764ff9bf83f0",
+    "id": "bccd5d77-f415-48c8-a92f-a5b04e7ddfa3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Sealing of Bulkhead Frame #16 in engine room",
@@ -72,7 +72,7 @@
     "finalManagementComment": "Waiting further information from the captain."
   },
   {
-    "id": "931c047d-c824-4439-b295-563f9981a743",
+    "id": "7126bc5f-24b8-40ed-be43-70d16237e2e7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Tank top cover water leakage",
@@ -90,7 +90,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ee1a24ad-9fbb-42a6-adb6-1391b75d0d38",
+    "id": "dfa3c5ab-5286-423e-b906-dab73660d77c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "busted light",
@@ -108,7 +108,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "13635ea3-7259-4089-a1ff-48c8dd53dc9d",
+    "id": "97d83c4c-8b47-4b67-aca9-65402ba0d5eb",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Explosion proof Portable VHF Radio",
@@ -126,7 +126,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "08c009fd-b2f8-4cf5-986f-4901ab59065c",
+    "id": "6f29cb59-be0d-47a5-9d29-42effe35fa55",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet in Passenger accommodation",
@@ -144,7 +144,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f50b76a9-06f6-4fb9-ad46-17ab9faba56a",
+    "id": "511aeda4-1ec9-42a2-a276-6dc03ae5b81d",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet vaccum system",
@@ -162,7 +162,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9cccab6c-0661-4103-bbf3-fa6b403b1539",
+    "id": "9b3ea2ad-3537-431f-baf4-b25681097a9c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "explosion proof portable radio",
@@ -180,7 +180,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d7aa865e-6397-4837-af93-b5168e82758b",
+    "id": "fa6bb3da-37f7-4a04-9afb-58361b3f4798",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "anti splash tape for auxilliary engine",
@@ -198,7 +198,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "aade3360-c2c9-4ffe-b00b-b56f2a6ff70f",
+    "id": "5450310a-b238-46e9-bb7e-d111fe03f53a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted lights in bridge stairway",
@@ -216,7 +216,7 @@
     "finalManagementComment": "NC closed and lightbulb is changed."
   },
   {
-    "id": "43993444-6018-4e0c-98eb-37c4434b2a11",
+    "id": "d8ff0065-5a7c-443a-bac8-704e39d57c19",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Cleaning snow on deck",
@@ -234,7 +234,7 @@
     "finalManagementComment": "Master to ensure that crew have and use the proper clothing."
   },
   {
-    "id": "513a71c0-6706-4d19-9b84-e20e321f77db",
+    "id": "54bdbdb1-02a8-48f9-a3c8-3822f82d6537",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Battery of Generator no.1",
@@ -252,7 +252,7 @@
     "finalManagementComment": "Corrective actions accepted. 2 new batteries received."
   },
   {
-    "id": "ec4906d5-6452-45f5-b7fb-e367321599fc",
+    "id": "ac65ecde-30d3-43c7-be9a-af338d5d8ad1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Radio Batteries",
@@ -270,7 +270,7 @@
     "finalManagementComment": "Corrective actions accepted. 2 new batteries replaced."
   },
   {
-    "id": "5bb2a11a-8b05-43c8-9a29-9379c383de28",
+    "id": "5d9b96a1-d54a-4b52-a765-e6bf2646195b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "expired equiptment onboard",
@@ -288,7 +288,7 @@
     "finalManagementComment": "Corrective actions accepted. Case will be closed once delivered. Replaced new Rockets, Hru, MOB smoke signal"
   },
   {
-    "id": "e62e9f4a-1e95-483c-85d7-4aefc0a44ba8",
+    "id": "cf09856c-4d9a-4e51-b1e8-f28469600c42",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Both fireman's outfits kept together in one place - not wide separated",
@@ -306,7 +306,7 @@
     "finalManagementComment": "Corrective actions accepted. Built new fireman's outfit locker located on 2nd deck accomodation"
   },
   {
-    "id": "dc1ad218-5f01-4fe4-8403-288d6dc5c9b2",
+    "id": "e4371949-7636-45db-9b5c-60f6cf41de20",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Draught stop missing in over a ceiling panels om maindeck to be provided, space lenght 14 meters",
@@ -324,7 +324,7 @@
     "finalManagementComment": "Corrective actions accepted. Installed in pax accomodtion as per Rina instruction"
   },
   {
-    "id": "11f8f1d3-de12-4bc8-a336-6774033dbf01",
+    "id": "2c40445f-ff7a-453f-b451-acc73765a7ff",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Emergency lightning at stowage position of liferafts and rescue boat to be provided",
@@ -342,7 +342,7 @@
     "finalManagementComment": "Corrective actions accepted. Case closed once installed."
   },
   {
-    "id": "33c2b875-c6f9-4a19-9522-95006ab8abec",
+    "id": "dc3d4097-d8a3-4566-8722-3149c117b508",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Poster with operating instruction for liferafts in theier vicinity",
@@ -360,7 +360,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "1a999be1-041d-485c-ae67-b4dfd597f447",
+    "id": "5b2c87e2-9232-429a-a55a-fd8ae4c8149f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Overdue internal audit",
@@ -378,7 +378,7 @@
     "finalManagementComment": "Audit completed. Report attached to the system."
   },
   {
-    "id": "f0c4b5a1-1ff9-4323-8d78-e59b99ceae5f",
+    "id": "33419fd3-bf1c-4ef6-b6d4-5d6a4ff58137",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "clogging of bridge window sprinkler",
@@ -396,7 +396,7 @@
     "finalManagementComment": "New pipe was installed. NC closed."
   },
   {
-    "id": "973df5e0-f400-437c-961a-c3054bd14192",
+    "id": "3b5d6c4a-6430-47ed-b033-0374fea10c99",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "sprinkler onboard",
@@ -414,7 +414,7 @@
     "finalManagementComment": "PAX number reduced to 36. No need sprinkler system."
   },
   {
-    "id": "d8a49bee-ae74-4e65-8863-8503fd8c802d",
+    "id": "38341a5e-26bc-41b0-b095-5ad4cb577205",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Co2 Room Not Gas tight door",
@@ -432,7 +432,7 @@
     "finalManagementComment": "Case closed. New fire plan issued."
   },
   {
-    "id": "a121d4b8-bfe9-4f50-bf4d-4191f10492bd",
+    "id": "3649e2f7-9abb-4ac0-a72e-7d5eade9f6fe",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB crane motor defective",
@@ -450,7 +450,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "95f1845e-8ac4-48bc-85d7-18a731090e5f",
+    "id": "279b055e-d212-44f7-9abe-2ad3235ce16c",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "working in enclosed space",
@@ -468,7 +468,7 @@
     "finalManagementComment": "Procedure for working inside enclosed spaces to be followed."
   },
   {
-    "id": "e5955976-2466-43d5-a93d-5d9944ed5314",
+    "id": "f790e10b-8c44-4b5d-90a1-97d7432ec379",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "search light starboard",
@@ -486,7 +486,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "c0a45ee3-b423-41b9-8e36-c2d301436144",
+    "id": "6ac2f745-311e-4779-8526-57f35b4c90a7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "crane hydraulic pipe leakage",
@@ -504,7 +504,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "7e7ddffc-8264-4644-9429-e41fb39777cb",
+    "id": "8af6d810-509c-4607-be72-f7d46399da67",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "busted light in stairs going up to Bridge",
@@ -522,7 +522,7 @@
     "finalManagementComment": "Light was fixed by the engineer."
   },
   {
-    "id": "f7685576-b88d-4182-9942-b35f83c3b8e3",
+    "id": "89c49029-b91a-4571-a62e-96aebb2c716c",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger stumbled on deck",
@@ -540,7 +540,7 @@
     "finalManagementComment": "We suggest to put no go areas signs, ropes when vessel is sailing in rough waters."
   },
   {
-    "id": "a7c72553-a663-4b08-993f-a5067cfc81c9",
+    "id": "765b7d69-7611-491a-947c-26c991c60bd5",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Steering indicator not working well",
@@ -558,7 +558,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9dcdc916-e1ae-4518-879e-06e7da78f962",
+    "id": "1f0ff4a2-7791-4e31-b77d-f725af110b51",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Ships pontoon dent",
@@ -576,7 +576,7 @@
     "finalManagementComment": "The dent will be fixed in the drydock."
   },
   {
-    "id": "2ab3f5be-b2f1-4bf5-a19e-ff014917eb7b",
+    "id": "aff9011d-13db-4f43-9ba2-9c02f39ee58b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "toilet vaccum",
@@ -594,7 +594,7 @@
     "finalManagementComment": "Cloesed."
   },
   {
-    "id": "79854979-163b-4adc-88e4-903262c21f40",
+    "id": "281534ba-d78c-4723-9198-8cbfe0be4171",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Generator no. 1 unusual sound/noise during running",
@@ -612,7 +612,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2c50f7ab-2e29-4d75-9a93-4dea95c0b320",
+    "id": "dd90cfab-98e7-4740-909f-607f78f4b39a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine lubeoil temperature",
@@ -630,7 +630,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "93883106-cf9b-4cce-b20c-872e1e102674",
+    "id": "294418db-c4c2-470d-b881-7325f4d584d4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Navigational lights busted",
@@ -648,7 +648,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "d8665532-c5fc-4baa-bccf-92b8570ef472",
+    "id": "8ead5147-0845-450f-ab09-92eeb4bf9f3f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "hydraulic hose",
@@ -666,7 +666,7 @@
     "finalManagementComment": "CLosed"
   },
   {
-    "id": "1f97fc6b-6612-4d12-86d9-ed361b6a9ea2",
+    "id": "a83485f5-278f-4fd1-a907-8fc4c9130608",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Galley refrigerator",
@@ -684,7 +684,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "048b4a16-c070-4984-af59-dcee0a11bf31",
+    "id": "aafb9c4c-a2d1-416b-adbc-b5b1b8447e3c",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Storage capacity for waste on board",
@@ -702,7 +702,7 @@
     "finalManagementComment": "CLosed"
   },
   {
-    "id": "790967c2-720b-48f3-8759-adb20dfdf387",
+    "id": "badd4abd-50dc-48a3-9b6f-0d086693a7ce",
     "vessel": "Billefjord",
     "type": "OBS",
     "title": "Pre- arrival notification to current port",
@@ -720,7 +720,7 @@
     "finalManagementComment": "Re-arrival waste declared in SafeSeaNet - will be done each year when leaving Tromsø."
   },
   {
-    "id": "c505608c-a593-452d-976c-2d614051a72b",
+    "id": "524f351b-8788-48dc-802b-f7d1f9866c1f",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Garbage Record books WR",
@@ -738,7 +738,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "3ae3bc0c-7fa9-4fdb-8e82-1d5f21cd4cdf",
+    "id": "53c212a3-dd64-41d9-83ec-b35fde4577b0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "L.O. alarm in Engine room",
@@ -756,7 +756,7 @@
     "finalManagementComment": "Well done - no further comments."
   },
   {
-    "id": "cc50a482-3dc3-4de4-ba08-57f697f1b16c",
+    "id": "d7f3de3a-e233-456e-ae0b-15851361a995",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Broken hydraulic hose of cargo crane",
@@ -774,7 +774,7 @@
     "finalManagementComment": "Please inspect all hoses o the cargo crane to learn whether other hoses need replacing."
   },
   {
-    "id": "b5f0785b-5e5d-4e4a-bb5f-c4fd18f0257d",
+    "id": "957d0267-bc40-4bc5-8aca-69fdf5093d82",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Life bouy in Main deck - PSC Deficiency #2",
@@ -792,7 +792,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "482ec28e-1e94-4cb2-a9b0-25e490d35911",
+    "id": "2cb70879-af18-4a75-994b-f9ffb3177f96",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Fjordcruise passage plan - PSC deficiency #1",
@@ -810,7 +810,7 @@
     "finalManagementComment": "Closed out - will be followed up at internal audit."
   },
   {
-    "id": "ce71337f-16b4-41b2-ba83-de5b61afcdfd",
+    "id": "5e42f5f0-f568-457e-a10e-310446ad8fcd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted masthead light",
@@ -828,7 +828,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "5b4890bf-a83d-4b19-9d53-2b0c26f995e6",
+    "id": "138d20c8-67c7-4088-8ed0-a019aa8376a4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Busted Navigational lights starboard",
@@ -846,7 +846,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "6d71cc49-fa5e-4ffe-a783-f60959003644",
+    "id": "9103dde8-5440-4a5d-b0ea-481f7b612085",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "generator break down",
@@ -864,7 +864,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "f166f28f-530a-4dba-a232-2d5c40f19590",
+    "id": "356bfa4b-c391-4acc-8b93-8ac2127776dd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Battery and alternator of Generator no. 1",
@@ -882,7 +882,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "0eb5a9ba-2fed-49aa-b0d4-dc552fa55aa6",
+    "id": "9ab45516-ac30-483f-9f37-2b5e4a4c18bc",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Slippery Deck",
@@ -900,7 +900,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "dd704d99-6a83-4225-aa41-9407abcabf0a",
+    "id": "b9f5ee43-208f-4bdc-a99a-a5d2eec61b9c",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "not wearing hardhat during heaving  up anchor chain in drydock",
@@ -918,7 +918,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "e2267199-1299-4663-a31e-bc8848bdafd7",
+    "id": "23570cce-e0f4-46d4-b296-82bf76da3eb6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "self closing valve on sounding pipes in engine room",
@@ -936,7 +936,7 @@
     "finalManagementComment": "Closed out."
   },
   {
-    "id": "b85d1032-8770-4c24-a7cd-ca4fa6422693",
+    "id": "f67fd39c-24e6-4bb3-81fe-941bd626f864",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Froozen roller fairlead in forcastle deck",
@@ -954,7 +954,7 @@
     "finalManagementComment": "NC closed out"
   },
   {
-    "id": "014266a5-be99-49d6-80d5-6bbc3fe8adc3",
+    "id": "dc8c58f0-cc1b-4315-bccc-7d31ddf58185",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "External ISM Audit - NC 2 - Risk Assessments",
@@ -972,7 +972,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3093d0cc-13c9-4030-b44d-c156ab15cd6e",
+    "id": "599714b1-d534-46f8-bbf1-928f1e6b7edf",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "External ISM Audit - NC 1 - Ineffective maintenace",
@@ -990,7 +990,7 @@
     "finalManagementComment": "Items rectified - closed out"
   },
   {
-    "id": "3e486c10-0a7c-4b9b-9683-6fad19e452a6",
+    "id": "7c0b4b6b-5f03-40fe-8620-088836960d5a",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "starboard side search light Busted",
@@ -1008,7 +1008,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "1cfbf66f-df7c-4b3d-9543-ff4617471d89",
+    "id": "035849a1-d621-413c-ac7f-2afa5fa662c1",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Leaking in AUX engine and minor leaking from quick closing valve",
@@ -1026,7 +1026,7 @@
     "finalManagementComment": "Overhauled i drydock, NC closed"
   },
   {
-    "id": "f51da3a6-c90a-41bf-9799-eb44ab97709b",
+    "id": "fd3a184c-e229-45bc-9d01-257eafc91f05",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "All outdoors light on boat deck missing its weather integrity due to missing lids or damaged lamps cover",
@@ -1044,7 +1044,7 @@
     "finalManagementComment": "Lights replaced - NC closed."
   },
   {
-    "id": "6d56e00d-d901-4664-9ce3-7f358b705de0",
+    "id": "c7d47784-58d5-4571-9ed3-328d109b1b0b",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Missing text in life bouy port of registry",
@@ -1062,7 +1062,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "b064bce9-a429-4e37-8296-664177de4e0c",
+    "id": "aac97983-806f-4236-8b95-2019e0badf62",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Deteriorated hydraulic hoses on mc gregor system.",
@@ -1080,7 +1080,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "40713099-ce45-4ae8-a24d-dcf58f73d068",
+    "id": "36fb106f-0a43-4db7-bc53-d3439af58c66",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "A passenger stumbled on forcastle deck.",
@@ -1098,7 +1098,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "381d7b39-b942-4e8c-b064-8b0dd0404531",
+    "id": "dee454ba-717e-469a-ab00-dc9775baa7ed",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine No. 4 injector low exhaust pressure",
@@ -1116,7 +1116,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "6d103e79-05f6-4354-a654-1ed99d570e98",
+    "id": "8ef444e9-b873-44c0-b842-650ba11c7773",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "lLubricating oil pump is leaking.",
@@ -1134,7 +1134,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "351ace8a-6192-47bc-a8ae-ae31ff521144",
+    "id": "7676644c-11a9-433f-bb83-396e58511417",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Ships whistle not working",
@@ -1152,7 +1152,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "791f4c9d-e213-49c8-ad7c-52c5e50f2624",
+    "id": "74f6094d-dace-4c3d-929d-9f5e68bb59fd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Galley sink was clogged",
@@ -1170,7 +1170,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "36766531-270c-49f3-be7f-ea1d2fc3b1aa",
+    "id": "c147ef1e-6b32-47ba-8f21-f1e3d95341dd",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "General alarm sound error",
@@ -1188,7 +1188,7 @@
     "finalManagementComment": "CLosed."
   },
   {
-    "id": "1b66b818-93bd-40b6-9cbf-c3d6b3ced3b2",
+    "id": "898608fc-cd78-4446-8146-826a1eb8a4ca",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Obstruction in cargo hold stairs",
@@ -1206,7 +1206,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "1a711884-6ba6-4fc5-9837-619dc0a2d5ed",
+    "id": "c2c72967-0b41-473c-9757-7d2e5750dfe4",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger sitting in ships bulwark",
@@ -1224,7 +1224,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "27829aec-743a-4106-baf0-001879d5d350",
+    "id": "63b5938e-b745-49e7-9700-a092aa65f251",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Earth fault in fire alarm system",
@@ -1242,7 +1242,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "d3fdcb3b-6f56-493b-ad8f-05b5a24cac49",
+    "id": "dc41202f-1c91-463c-a562-acd3f5875892",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "icy fore deck",
@@ -1260,7 +1260,7 @@
     "finalManagementComment": "Noted - closed."
   },
   {
-    "id": "f362770f-66db-4144-8761-3b604c56ae00",
+    "id": "abe23b9d-6aac-47f8-97a6-02077f7f86d0",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Lashing of chairs in sundeck during helicopter training exercise",
@@ -1278,7 +1278,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "25c92286-b003-49cf-8218-a0e9036eea61",
+    "id": "91a8e038-bb17-40f8-b665-5ebf02697694",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "The gangway safety net was damaged",
@@ -1296,7 +1296,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "4a53b43b-9ae2-4d6d-8924-e1b5004993af",
+    "id": "d543973b-a239-46e0-9759-db213980a4a0",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB engine hard to start",
@@ -1314,7 +1314,7 @@
     "finalManagementComment": "Closed."
   },
   {
-    "id": "91969b51-ca48-49c2-bfd0-cebc5ee5aebd",
+    "id": "a8a29679-02ac-423e-9498-9e3c88a9d2af",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Air compressor - oil level level.",
@@ -1332,7 +1332,7 @@
     "finalManagementComment": "Rectified - and closed. Engineer to monitor the oil level at appropriate intervals."
   },
   {
-    "id": "f914148a-ac5a-496f-9c02-7653dffc742e",
+    "id": "fae9a75c-bc75-43af-b23c-400208d9d7ed",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger fell down on the floor",
@@ -1350,7 +1350,7 @@
     "finalManagementComment": "Noted - and closed."
   },
   {
-    "id": "e899eba7-98aa-4ccb-be44-61bc8490b42a",
+    "id": "c55b40d2-c527-49be-99e4-a5a55a0561e4",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Crane wire damaged",
@@ -1368,7 +1368,7 @@
     "finalManagementComment": "Wire repaired - closed."
   },
   {
-    "id": "4aebe940-9db6-41a5-8a91-ee61addff66e",
+    "id": "f9c80b30-d824-4129-9666-322fdcf4d181",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "rudder indicator",
@@ -1386,7 +1386,7 @@
     "finalManagementComment": "Rectified - and closed"
   },
   {
-    "id": "637b2b8c-7c38-47ad-b4e0-a560dbeee3cc",
+    "id": "c434d84f-2ad5-4ea7-905b-0a845cb98359",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Forward floodlight portside not working",
@@ -1404,7 +1404,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "5c745d41-853d-4c1d-a290-5e7218a9fd45",
+    "id": "d0132c7c-2f24-4d2d-a0d4-064281563c18",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Gangway rope line twisted",
@@ -1422,7 +1422,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "043fe544-62fd-43ef-b93b-6278c00267b5",
+    "id": "04d613e6-efd8-4b13-b3c3-4ee1c05c05d8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "leakage in fire hose nozzle",
@@ -1440,7 +1440,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "e5d5f09b-89b9-4633-bb80-dec0dd13164a",
+    "id": "8a01e708-a8a3-483c-a3ce-a162d1bf82de",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "MOB boat hard to start",
@@ -1458,7 +1458,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "cfbc3fb4-f125-4b37-bd1c-104e921d714d",
+    "id": "5f994128-54da-42d3-a692-8ace5b09e727",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine Push rod oil  leakage",
@@ -1476,7 +1476,7 @@
     "finalManagementComment": "Case closed. Rectified 09.01"
   },
   {
-    "id": "7c701885-eeaf-4740-b07e-8adaac9755de",
+    "id": "0e418685-4a4c-45d7-a02a-a111373449f8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine clutch alarm",
@@ -1494,7 +1494,7 @@
     "finalManagementComment": "Well done, case closed."
   },
   {
-    "id": "64ef842e-1b67-4392-8d1d-73adc343b4f9",
+    "id": "5cb2daed-0a5c-4f46-b29b-f9b75fe31234",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Restricted area signage in bridge deck",
@@ -1512,7 +1512,7 @@
     "finalManagementComment": "Well done, please inspect all areas with all signs and replace if necessary. Case closed."
   },
   {
-    "id": "3ca94c07-0b83-4248-a4c0-c4013874ae5b",
+    "id": "440ac3c0-b42f-4998-85cf-0d6368582d02",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "navigational lights busted",
@@ -1530,7 +1530,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done"
   },
   {
-    "id": "415dbe28-c155-4e57-b651-33aeb7182091",
+    "id": "5c4f7d1f-82c8-41fe-abae-6ee3ecb8a605",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Hand sanitizer again after sight seeing tour in Russian settlement, barentsburg/Pyramiden",
@@ -1548,7 +1548,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "9ac8c773-bbb2-4a9b-89dd-619bd6ac9565",
+    "id": "a2d651c3-8e17-4d0a-b3e2-9409d7e8aed5",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "children climbing in anchor windlass",
@@ -1566,7 +1566,7 @@
     "finalManagementComment": "Corrective actions accepted. Restricted area posters should be in place."
   },
   {
-    "id": "df900c58-4bd4-4707-b2a5-da6d1ceb2076",
+    "id": "7e65059f-2bb7-4e39-939b-ed3e368fddf2",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet vacuum motor not working",
@@ -1584,7 +1584,7 @@
     "finalManagementComment": "Case closed as Captain informed that the case is fixed."
   },
   {
-    "id": "2e1633ac-db7f-4432-a700-91fbcb4c5782",
+    "id": "ee1f910e-4c95-4abc-8239-a8a5a918b282",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "bilge sensor alarm in steering room",
@@ -1602,7 +1602,7 @@
     "finalManagementComment": "Corrective actions accepted. Good job. Case closed 20.06.2020"
   },
   {
-    "id": "f4e5e799-38b5-4419-85c6-abf6f1c980c4",
+    "id": "24ec1871-fc4b-4908-9a19-6045858483a7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "water tight door plate deteriorated",
@@ -1620,7 +1620,7 @@
     "finalManagementComment": "Corrective action accepted. Well done. Case closed.20.06.2020"
   },
   {
-    "id": "97f81e2d-6f1a-4377-ac44-839685ef9422",
+    "id": "ecfe9c0b-5e6b-4b29-825f-cd014d39c136",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "wet deck in sundeck and maindeck",
@@ -1638,7 +1638,7 @@
     "finalManagementComment": "Corrective actions accepted. Well observed."
   },
   {
-    "id": "0a57e628-415e-4d29-af44-a7e7b2208f8d",
+    "id": "043a473f-68a1-427b-894e-d33e5a1e9e39",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "social distancing in the Bar",
@@ -1656,7 +1656,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "84792843-0aef-49c6-9cc4-5173d99200fc",
+    "id": "f50ba958-aca0-40b9-be27-297079b731c3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Clogged toilet pipe",
@@ -1674,7 +1674,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "dc83d845-ff35-40ee-9cdf-e5f23e8372fb",
+    "id": "e308ad45-3af8-40aa-8844-2d9872c94a37",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Hull dented port and starboard Pontoon",
@@ -1692,7 +1692,7 @@
     "finalManagementComment": "Case closed after video call with NMA May 17."
   },
   {
-    "id": "5236ad57-941f-462b-af11-67de9e3314fe",
+    "id": "f7e43590-9d43-4a19-a495-f8d82af8e0f3",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "ships whistle not working",
@@ -1710,7 +1710,7 @@
     "finalManagementComment": "Issue solved - case closed."
   },
   {
-    "id": "b4a82e66-e865-41f7-851a-30b169956c12",
+    "id": "4f916040-935e-464e-b557-12a870a1e9ff",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "cooler strainer full of ice",
@@ -1728,7 +1728,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done."
   },
   {
-    "id": "d7fa6d63-de02-4d42-aed9-bef23ebde06b",
+    "id": "c97fdd61-2288-48e4-b390-ddfb27cb418a",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "additional mooring rope during bad weather",
@@ -1746,7 +1746,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "e98bc09f-47e9-47eb-97cb-d596e18d3c67",
+    "id": "d8088fba-2f50-4442-8fa4-ac68ab1eefaa",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "radar scanner rotating/open",
@@ -1764,7 +1764,7 @@
     "finalManagementComment": "Corrective action accepted. You could print and put on the windows poster that before going up to the bridge deck, please inform the bridge."
   },
   {
-    "id": "0e0d90a5-c320-4b2d-943b-93ff583b29a6",
+    "id": "7a420846-02b2-4a81-bf53-00fbf2fdc19e",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Bridge door signage/restricted",
@@ -1782,7 +1782,7 @@
     "finalManagementComment": "Well done. Rules should be strict now and no any passengers allowed to pass restricted areas."
   },
   {
-    "id": "a3c5bcd1-de5d-483b-8291-c17726b7329c",
+    "id": "7aeef9ae-a9ac-4cdd-9474-8b2a16a50b5d",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Clean and disinfect the Passenger accommodation",
@@ -1800,7 +1800,7 @@
     "finalManagementComment": "Well done. This is serious nowadays so we all need to be careful."
   },
   {
-    "id": "7a5410eb-0787-418b-8ddb-bce25110975c",
+    "id": "82499c19-3972-48df-bd9c-c819723cd8d7",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Main engine high Pressure pipe leakage",
@@ -1818,7 +1818,7 @@
     "finalManagementComment": "Corrective actions accepted. Well done. Case closed. 15.03.2020"
   },
   {
-    "id": "221d5ca9-48b1-41ba-be77-fb44845aaec2",
+    "id": "7e1d65c7-22b7-4024-a651-8508b5e9a29e",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "toilet vacuum pump sensor not working properly",
@@ -1836,7 +1836,7 @@
     "finalManagementComment": "Corrective actions accepted. Case closed. 15.03.2020"
   },
   {
-    "id": "3060e3e1-732d-4046-8c25-924769042027",
+    "id": "2c5f4c7d-6e35-4260-9cd3-5c5b9f5ab237",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Slippery deck",
@@ -1854,7 +1854,7 @@
     "finalManagementComment": "Corrective actions accepted. Good job."
   },
   {
-    "id": "94e40a42-a0f7-409e-abb6-d575b018fc85",
+    "id": "27041fb3-ae3b-4813-b34b-bc1a20dc87e9",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "anchor windlass no cover while sailing and exposed to cold weather",
@@ -1872,7 +1872,7 @@
     "finalManagementComment": "Corrective actions accepted. Good job."
   },
   {
-    "id": "bc4c1ddb-112f-43c9-beb0-57a9a0653cf2",
+    "id": "a6e744f1-e98d-451f-b45e-504bc39e6e81",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "water tight door lever not properly lock while sailing from tromso to longyearbyen",
@@ -1890,7 +1890,7 @@
     "finalManagementComment": "Corrective actions accepted. This should be checked before departure.."
   },
   {
-    "id": "7940d984-1dbe-42a6-9282-4b3a3bdb2952",
+    "id": "e03b7269-0e85-495c-ba2c-a4c7fd92b3c8",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Chart not updated, Port state required Norwegian chart on board",
@@ -1908,7 +1908,7 @@
     "finalManagementComment": "Case closed. Evaluated before the voyage to Svalbard. Date: 19.02.2020."
   },
   {
-    "id": "7f40e34e-4f7a-4a3a-9552-f7a3e9e83383",
+    "id": "c8c5f0f6-e29c-42c3-98d1-f654c36491a9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "passage plan not signed by officer",
@@ -1926,7 +1926,7 @@
     "finalManagementComment": "Corrective actions accepted. All officers shall sign the passage plan before the voyage."
   },
   {
-    "id": "ebdac2eb-d8dd-4826-9734-baf1fc6bf7ba",
+    "id": "b99abef4-f6da-4af7-bdda-0ecbd9e90795",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "loose searchlight handle",
@@ -1944,7 +1944,7 @@
     "finalManagementComment": "Closed 18.10.2019"
   },
   {
-    "id": "3f6ff3f8-3ccd-400c-a8bb-867d7d6fe860",
+    "id": "a81f8bdc-d23e-4845-a5e1-d6e5442d6e75",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Painting in chain locker",
@@ -1962,7 +1962,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "2e6a76d6-3daa-4af0-9313-e53bf01c40ca",
+    "id": "17edb6a9-e7c1-47aa-9549-49f44a9af3e9",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Broken socket of Masthead light",
@@ -1980,7 +1980,7 @@
     "finalManagementComment": "NC closed 02.10.2019"
   },
   {
-    "id": "ccc92aa3-460e-4244-9955-1799e1889d1b",
+    "id": "0484fd42-2a48-4356-b66d-ec3c397eb1a6",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Aft 2nd deck flourescent light",
@@ -1998,7 +1998,7 @@
     "finalManagementComment": "NC closed 02.10.2019"
   },
   {
-    "id": "7a071a46-59b4-4b55-b28e-594b3175e7ca",
+    "id": "e261264d-5228-4a93-ba3b-0c5d59f2bfca",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger standing in a bow during rough sea",
@@ -2016,7 +2016,7 @@
     "finalManagementComment": "NM closed 02.10.2019"
   },
   {
-    "id": "51c2c78e-1139-4aeb-9e90-53f05916a310",
+    "id": "f8b791e5-ed2c-4074-a6b5-427a090f0646",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Guideline for throwing rope",
@@ -2034,7 +2034,7 @@
     "finalManagementComment": "See remarks, NM closed 02.10.2019"
   },
   {
-    "id": "24d79318-dd06-4569-b626-37c3dee3ce9c",
+    "id": "bbfcedbc-68d9-4cbd-a953-08835da53670",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Passenger standing closed to bitts while docking manuever",
@@ -2052,7 +2052,7 @@
     "finalManagementComment": "NM closed 02.10.2019"
   },
   {
-    "id": "0204239f-8f0c-4c18-b02c-b42c59a4f14f",
+    "id": "21b6d22f-6db0-4103-a20f-907470f26785",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "wet floor of passenger acommodation",
@@ -2070,7 +2070,7 @@
     "finalManagementComment": "NM closed 02.10.2019"
   },
   {
-    "id": "a6ad8dfa-4bc6-456e-9d42-498c9ce18816",
+    "id": "7dac4a90-ab8f-46fd-aaac-63867f7ef969",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Entering cargo hold directly after opening the hatch",
@@ -2088,7 +2088,7 @@
     "finalManagementComment": "Corrective actions accepted."
   },
   {
-    "id": "bbb00793-1fc6-46b4-abe1-e0a128298919",
+    "id": "f2bf74bb-93b3-4089-959e-dfa35c779c07",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Not wearing Hard hat during crane operation",
@@ -2106,7 +2106,7 @@
     "finalManagementComment": "Corrective actions accepted. Captain should hold a safety meeting as this is not first case regarding PPE using."
   },
   {
-    "id": "bf917cf9-d004-413e-a0e8-5072c974c5cf",
+    "id": "e0329d49-6a90-4353-898d-cb33cc1446a0",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Working in side of the boat while picking up  ice for the guest without life vest",
@@ -2124,7 +2124,7 @@
     "finalManagementComment": "Corrective actions accepted. The crew must be instructed accordingly"
   },
   {
-    "id": "0a309367-41a2-4922-86b2-1a442d07f457",
+    "id": "31a4e04d-5dcd-4ea2-a21b-03872f04918f",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "Applying Rust remover with out safety goggles",
@@ -2142,7 +2142,7 @@
     "finalManagementComment": "The crew should be instructed about wearing PPE while working with hazardous chemicals. Corrective actions accepted. Captain to instruct crew members, that this is not acceptible from crew members, to work without PPE when required."
   },
   {
-    "id": "be0b02fe-2b7f-41ff-b61b-d0c117c87a07",
+    "id": "0447e5b8-7d0c-451a-91ce-651263abfa06",
     "vessel": "Billefjord",
     "type": "NM",
     "title": "obstruction at engine room stairs",
@@ -2160,7 +2160,7 @@
     "finalManagementComment": "Corrective actions accepted. All emergency exit routes should be without any obstruction in the way."
   },
   {
-    "id": "191c3850-f78f-4483-b74b-c7b0ff901949",
+    "id": "f0758c85-50c8-4d56-b302-c180a5919680",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Toilet Vacuum Pump",
@@ -2178,7 +2178,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "42770147-1384-4d47-80e7-af559534dd0d",
+    "id": "19ae6175-4ef8-4d3c-ad89-d39305041742",
     "vessel": "Billefjord",
     "type": "NC",
     "title": "Small Leakage of Generator #1, Sea Water Pump",
@@ -2196,7 +2196,7 @@
     "finalManagementComment": "Closed by Master"
   },
   {
-    "id": "ad9f12b9-a8bd-49fe-bf6f-ebdab89c3673",
+    "id": "c98093f8-251d-492a-a2a0-215ec180cf3d",
     "vessel": "Samson",
     "type": "NM",
     "title": "Blackout",
@@ -2214,7 +2214,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "95a42d3e-f8d2-4a0f-9505-6fd031b3c759",
+    "id": "33218338-bb7d-4bb6-bd93-3c7765e85866",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit REC #1 - Training Manuals",
@@ -2232,7 +2232,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2a564b34-7dcb-448c-928a-5f9c637cc617",
+    "id": "fc800959-bd32-48d8-b327-e53f459a6f75",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #5 - Deck crane not inspedted",
@@ -2250,7 +2250,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "07d021fe-b6fb-4b12-835f-b5cc098626d0",
+    "id": "85a701ae-e56e-4939-a88c-97315b748b03",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #5 - Sterring Gear pumps",
@@ -2268,7 +2268,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8d3c149c-068e-480d-9ec2-fd7540a8925c",
+    "id": "efa99881-f7bf-4709-a1af-f29dfe98804e",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #4 - No UKC specified",
@@ -2286,7 +2286,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1eb86f0d-53ab-4cd1-9da8-b8c76f0d8f50",
+    "id": "d89dd113-50dc-45f7-8cd2-b7356a00bca6",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #3 - Standing Orders",
@@ -2304,7 +2304,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0eab74c2-5c4a-49b7-9a96-8f72d569f7c1",
+    "id": "1b3fe959-a2a4-48a4-845d-5e222171d3f8",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS # 2 - Risk Assessments.",
@@ -2322,7 +2322,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9f86f9f5-6574-4b6d-8773-79e170d574ca",
+    "id": "8acdc3c0-e048-4ac0-844d-b946f3d0d6bf",
     "vessel": "Samson",
     "type": "OBS",
     "title": "ISM Audit OBS #1 - Nautical publicatios outdated.",
@@ -2340,7 +2340,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0f26dddd-0bda-42b0-8e48-bdf1c6e0ea20",
+    "id": "701ac36d-de59-486d-ae4d-d434c0ff1a34",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #4 - Material Data SHeets",
@@ -2358,7 +2358,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a66dfc18-d21a-4097-8b9c-90d5afc2d03a",
+    "id": "5c07f9ea-7f01-4f49-ab27-d451de57ffad",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #3 - Emergency Drills",
@@ -2376,7 +2376,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f0b34c70-10a7-446b-8b18-82f1dc949a74",
+    "id": "2f0727c8-d040-439d-9e11-094e5596eb3e",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #2 - Immersion suits not inspected",
@@ -2394,7 +2394,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1da0ae2f-b588-4604-bdcb-cbccf039b5b2",
+    "id": "04511b0f-0b54-44b4-bc8a-083f14584ab7",
     "vessel": "Samson",
     "type": "NC",
     "title": "ISM Audit NC #1 - Expired certifikates",
@@ -2412,7 +2412,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "52d7985e-2b71-40c3-9ef2-e3e944969f9e",
+    "id": "779d8836-2fa1-408d-8c82-286115d3b180",
     "vessel": "Samson",
     "type": "NC",
     "title": "Gear PS",
@@ -2430,7 +2430,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5c0870d8-210c-46a1-8c4b-1ab338f5ca48",
+    "id": "1f6a884c-ee1e-414f-8a67-2c70fe1aa576",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit leak on the oil pan on stb aux eng",
@@ -2448,7 +2448,7 @@
     "finalManagementComment": "Gaskets changed and case is closed."
   },
   {
-    "id": "160ccc8a-36c8-4da9-a825-2bcc7eddf507",
+    "id": "d0faebe6-597d-4a4e-891d-7e400ba0ef02",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Inernal audit chain lock broken",
@@ -2466,7 +2466,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e4279b28-0086-4266-9d44-e243264c4583",
+    "id": "615c4f54-2a3b-4a3a-a786-c01bc710ae9c",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit oIl record and Sludge",
@@ -2484,7 +2484,7 @@
     "finalManagementComment": "The master was instructed to fill out log book as required. All receipts must be kept on board."
   },
   {
-    "id": "f8fafe42-a31c-4147-a79e-9cb6e571c1c8",
+    "id": "6ec3bbf1-3ebc-49ab-b0a5-dae16e8e8622",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit",
@@ -2502,7 +2502,7 @@
     "finalManagementComment": "The lid was fixed and exercised so it won't stuck. Case closed."
   },
   {
-    "id": "6d7dbc53-ba7f-4bea-a2d0-cb5d148217ab",
+    "id": "ccef5448-6aac-41fd-b12d-64a359c160b8",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Earmuffs",
@@ -2520,7 +2520,7 @@
     "finalManagementComment": "Engineers on watch must ensure when taking round trips that this is not acceptable."
   },
   {
-    "id": "b42796c6-72e0-4ab0-9069-c14e450e54e4",
+    "id": "5140da1a-0091-4456-b9d1-062d42b3083f",
     "vessel": "Samson",
     "type": "NC",
     "title": "Broken leg",
@@ -2538,7 +2538,7 @@
     "finalManagementComment": "Corrective actions accepted. Case closed."
   },
   {
-    "id": "8e74bad5-3fef-4cde-b9d7-593ed6159c80",
+    "id": "bd2893bd-84fe-4ab6-99b9-b5322d22b733",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Alarm bell",
@@ -2556,7 +2556,7 @@
     "finalManagementComment": "Corrective actions accepted. Captain to ensure that this is followed up."
   },
   {
-    "id": "3b7d2024-59f6-4d59-a8f1-00cad2826f98",
+    "id": "f004d4fb-2a41-425d-bbea-e0122ea2633e",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Oilspill",
@@ -2574,7 +2574,7 @@
     "finalManagementComment": "Corrective actions accepted. C/E to ensure that this is followed up."
   },
   {
-    "id": "9858c9cb-2f9a-4be0-a6e9-ae2bcca2b4c7",
+    "id": "c93ca432-0ef1-4e29-b671-911addb582de",
     "vessel": "Samson",
     "type": "NC",
     "title": "Near Accident",
@@ -2592,7 +2592,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "00fe0d1d-1d40-4be7-b837-da3733af2812",
+    "id": "41429847-3c64-4e77-9605-0e2849e73706",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Oil spill",
@@ -2610,7 +2610,7 @@
     "finalManagementComment": "Closed"
   },
   {
-    "id": "9e77ea4b-68bf-4af9-ae04-71e68c58ddcc",
+    "id": "54ed7852-4aad-4c40-b09a-6208181ce3ea",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 12.06.23",
@@ -2628,7 +2628,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "d46a6d7c-2bd4-4e38-a01e-e1dc02f37c17",
+    "id": "a6435ddc-9571-4d5b-8632-6682f177457d",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit 12.06.23",
@@ -2646,7 +2646,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "05ff2b95-4ffe-4b17-a033-e24baad4c7b6",
+    "id": "deb71873-9b06-4723-ae7d-27561eb5f971",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 12.06.23",
@@ -2664,7 +2664,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1bf9aa68-7625-472b-8a0f-a450760c75e8",
+    "id": "00d802af-8063-47c9-ab90-aa894b1af839",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit 12.06.23",
@@ -2682,7 +2682,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f4d5049a-6cb2-4e3d-9029-7ba221d43f51",
+    "id": "59e72a5d-7b88-439f-bf62-50b38088c224",
     "vessel": "Samson",
     "type": "NC",
     "title": "Poor followup of NC´s",
@@ -2700,7 +2700,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2fc96ab5-71f5-42fc-a8a5-dbcc165865c1",
+    "id": "bec23834-fc00-4090-b59f-8ef972a1a4c1",
     "vessel": "Samson",
     "type": "NM",
     "title": "Balck out of Main engines",
@@ -2718,7 +2718,7 @@
     "finalManagementComment": "Noted. NM closed."
   },
   {
-    "id": "6692a5ed-810d-49a0-bf10-a5b4ded045d2",
+    "id": "16188696-9bd2-436e-bb70-201a2baa4c5b",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Pump in front of the escape ladder.",
@@ -2736,7 +2736,7 @@
     "finalManagementComment": "Rectified - NC closed."
   },
   {
-    "id": "96f93c0e-aa5b-475d-b494-1a90455e8d1a",
+    "id": "9f49224d-09b7-4466-af87-24f2fc2ed4e2",
     "vessel": "Samson",
     "type": "NM",
     "title": "Deformation of box for Emergency Fire Pump",
@@ -2754,7 +2754,7 @@
     "finalManagementComment": "Box repaired - NC closed."
   },
   {
-    "id": "0f2a2716-672f-4e48-8b63-8de3e79d86b9",
+    "id": "1d7a6f51-8f9b-4423-b2b7-b839d92dad62",
     "vessel": "Samson",
     "type": "NM",
     "title": "Sea water in motor oil on Emergency Fire Pump",
@@ -2772,7 +2772,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "bf07d1e9-08c1-4d97-a3e8-b12ca2d1a326",
+    "id": "fa13e39b-daad-48f2-9ff1-b7a16ca6f87f",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Proper communication when outside land-based Internet.",
@@ -2790,7 +2790,7 @@
     "finalManagementComment": "As long as the vessel is operarting in Faroe Islands - there's good internet connection."
   },
   {
-    "id": "7729d244-1304-42f8-b5b6-04ce402b6bb4",
+    "id": "50d59288-46c4-4668-8bb0-b45ff54865f2",
     "vessel": "Samson",
     "type": "NC",
     "title": "Search Lights Aft out of order.",
@@ -2808,7 +2808,7 @@
     "finalManagementComment": "It has been decided that one search light is sufficient. NC Closed."
   },
   {
-    "id": "b4de69fd-6e59-4ae0-b328-037d75869343",
+    "id": "5b624f44-22d4-4c21-a957-71e53e2f99ed",
     "vessel": "Samson",
     "type": "NM",
     "title": "Salt water leakage on bridge-roof",
@@ -2826,7 +2826,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e4e30e81-ef35-4da9-98a3-b3a7418d6e40",
+    "id": "569838d2-2bb8-4c67-8a97-657b0cabc8d5",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Recommendation 2",
@@ -2844,7 +2844,7 @@
     "finalManagementComment": "The vessel is equipped with one LT 3100 GMDSS stations which can connect to the internet - limited bandwidth though."
   },
   {
-    "id": "7dfe3180-7a4f-467a-bbb6-23ca49c95ca3",
+    "id": "aeb3b3ff-3a09-446d-93ad-5f64583a6968",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Recommendation 1",
@@ -2862,7 +2862,7 @@
     "finalManagementComment": "A system is now in use, case closed."
   },
   {
-    "id": "bc6dbf85-d2a3-4cbc-abc4-93b87afe6179",
+    "id": "58c7b3b7-bc2e-4ef4-ba05-4807c9ad0326",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #5",
@@ -2880,7 +2880,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "bc2f7402-24d5-4a99-bfb3-d292f9adbe97",
+    "id": "b63c714e-a458-4900-adfd-8a600b093197",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #4",
@@ -2898,7 +2898,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "62a042e1-83bc-4514-9bd0-414054bfc185",
+    "id": "d0c52177-85f6-4780-9036-8fe9375c8ef2",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #3",
@@ -2916,7 +2916,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "0d70c881-ee47-4dab-aea9-f4401769878f",
+    "id": "c2ac9238-5166-4fee-b707-4a53a6774e04",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit Observation #2",
@@ -2934,7 +2934,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "3dcfcb79-b47c-4c7f-a8d9-611f431c9403",
+    "id": "c6c0ad2f-fa74-4e17-b0c2-de98287baa3c",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit Observation #1",
@@ -2952,7 +2952,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "d9118b6c-4e3d-4616-85a8-3f9b46f58682",
+    "id": "5e5a175e-4cc9-4b5e-96f4-135ffab27d03",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 03.03.2022 - NC #2",
@@ -2970,7 +2970,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "449c2924-5060-4d57-b1b8-7065b8571059",
+    "id": "958615ba-f2bf-4cc5-a80f-2afd232c8b0d",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit 03.03.2022 - NC #1",
@@ -2988,7 +2988,7 @@
     "finalManagementComment": "Rectified, and closed."
   },
   {
-    "id": "89ac6659-d2d4-4ae5-84eb-78b95e808e9d",
+    "id": "9343e901-0f61-483b-b077-a3c87f2d5698",
     "vessel": "Samson",
     "type": "NC",
     "title": "FIFI Engine",
@@ -3006,7 +3006,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "72cb8dbb-f8d5-41c5-a41f-143b0a53c161",
+    "id": "7659f4da-b552-4a75-bfe9-f656cd33fe30",
     "vessel": "Samson",
     "type": "NC",
     "title": "Search light",
@@ -3024,7 +3024,7 @@
     "finalManagementComment": "SeCloesed upon agreement with crew."
   },
   {
-    "id": "013c0301-1be5-47d1-a993-20bdbffdbeeb",
+    "id": "06d8dbd7-7974-44a2-98c4-7b5aa55a1c5f",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Clutch in PS gear + controlling rpm.",
@@ -3042,7 +3042,7 @@
     "finalManagementComment": "Rectified - closed."
   },
   {
-    "id": "99f200ec-5b56-4f58-aff0-0eb3c1fb022a",
+    "id": "3fcc6105-bdd5-444a-b4eb-bf0162f1ff33",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Sounding pipe for tank no 5",
@@ -3060,7 +3060,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "9f0e4388-8a70-4432-bc43-48e78f3d46c5",
+    "id": "56ed283e-f2ba-4aa9-bff8-52e9b80e6bf4",
     "vessel": "Samson",
     "type": "NM",
     "title": "Emergency hatch blocked",
@@ -3078,7 +3078,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "ed61977a-b793-48d8-8212-d86817c3ff3a",
+    "id": "aadf55c6-eabf-4a18-a50d-d443c49e7c5d",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -3096,7 +3096,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "3c6f795a-5e2b-47bc-807a-be6561a9c3fb",
+    "id": "467a183a-654f-44fc-b4d2-158efd165a0d",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -3114,7 +3114,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7b26f03b-92cd-4ea3-9f0a-30e6964d0244",
+    "id": "00992747-fcce-4db9-8440-f9c67861c560",
     "vessel": "Samson",
     "type": "NC",
     "title": "NC from ISM/MLS survey by class",
@@ -3132,7 +3132,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "1fd12cdc-6ba6-425a-bda0-ddc6df2b92bb",
+    "id": "2d163309-c7df-44d9-9137-2692aaf31cc5",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -3150,7 +3150,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "2dbd0206-8773-4986-b31f-45be34f3db5b",
+    "id": "69096f1f-6a70-413d-b57b-e09e393a2f8b",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal audit Samson",
@@ -3168,7 +3168,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "5f81bafe-cd0c-4a9b-9963-f1bc09c1f0c5",
+    "id": "557cd54a-12bd-4dc8-8ec5-50f63e120d52",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal audit ISM",
@@ -3186,7 +3186,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "40847b02-69b5-41c1-865b-c9ce555fc183",
+    "id": "cb9e1785-d3d9-41ae-b190-6403f1b5ee98",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -3204,7 +3204,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "286d4efd-6a9b-41c8-bd8b-3d6292a11ca8",
+    "id": "0ed52db0-8b40-4b93-98a5-84d58f625017",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -3222,7 +3222,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "b4da37f3-a5f5-4806-835f-d21f45cc1fd5",
+    "id": "dd0c80c1-278c-4c33-8cc5-43e531576d83",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Internal Audit ISM",
@@ -3240,7 +3240,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "0198ac58-19db-446d-ba7b-46fe052f85fc",
+    "id": "57b59fa7-8c2a-4366-9dd4-89081d38b2dd",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -3258,7 +3258,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "6a59d3c5-166d-4e50-ab4e-b7304a3c779f",
+    "id": "a5215523-ef25-40cc-9238-104b06680237",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -3276,7 +3276,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "0348fd50-c096-45ea-8da5-154c4c312392",
+    "id": "df2b476b-ddbd-4b1f-90b9-24bc08d4ccc6",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -3294,7 +3294,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "bcf50683-6f18-460f-a292-358d13a41e0b",
+    "id": "7231fdb6-8b58-40e7-bcb2-7ef33e173835",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal Audit",
@@ -3312,7 +3312,7 @@
     "finalManagementComment": "Critical Equipment inserted in MArad, NC closed."
   },
   {
-    "id": "d2d1700f-d40d-4819-a8ec-1469b888617c",
+    "id": "a57745da-cdef-40ff-bc32-be801abad135",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ISM",
@@ -3330,7 +3330,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "6a32e502-b616-45cb-970f-446494a3c625",
+    "id": "956f1707-21cc-4952-a899-6b164b2d4f74",
     "vessel": "Samson",
     "type": "NC",
     "title": "Internal audit ism",
@@ -3348,7 +3348,7 @@
     "finalManagementComment": "Rectified - and closed."
   },
   {
-    "id": "f96721ed-3281-464c-a315-bba71460b799",
+    "id": "664464a3-5df3-4c35-8272-287e2ba78caf",
     "vessel": "Samson",
     "type": "NC",
     "title": "Comms issue",
@@ -3366,7 +3366,7 @@
     "finalManagementComment": "The VHF has been relocated further away from the sticks. Case closed."
   },
   {
-    "id": "1e905916-0009-42ec-b5fd-5d5d21b90132",
+    "id": "6f6242d6-a297-45fd-aa0b-3fdeb5a18542",
     "vessel": "Samson",
     "type": "NM",
     "title": "Cooling ME PS",
@@ -3384,7 +3384,7 @@
     "finalManagementComment": "Corrective actions accepted - Well done!"
   },
   {
-    "id": "34854d12-834f-43d5-a241-5b335ed0054d",
+    "id": "7f94b7a8-2c52-43ae-b9d8-5f4a1cd60606",
     "vessel": "Samson",
     "type": "NC",
     "title": "Landstrøm og generator ind på tavlen samtidig",
@@ -3402,7 +3402,7 @@
     "finalManagementComment": "Rectified - case closed."
   },
   {
-    "id": "094d3fd6-b77e-4d7a-a4be-79d223743653",
+    "id": "75ab6a2a-bfd1-4601-8aae-9344f322ef7a",
     "vessel": "Samson",
     "type": "NM",
     "title": "Steering",
@@ -3420,7 +3420,7 @@
     "finalManagementComment": "Repaired - closed."
   },
   {
-    "id": "99c81179-bceb-4565-9c77-eed5d866903d",
+    "id": "4390c918-64f5-486d-9ed4-39eb99f43e70",
     "vessel": "Samson",
     "type": "NM",
     "title": "Starting FiFi pump when lying alongside.",
@@ -3438,7 +3438,7 @@
     "finalManagementComment": "Procedures received - case closed"
   },
   {
-    "id": "b7effdf8-d2af-44b2-a2a8-faae8f3dd332",
+    "id": "c3789cda-3188-4489-affc-acd897ca0d3e",
     "vessel": "Samson",
     "type": "OBS",
     "title": "Deck surface, main deck",
@@ -3456,7 +3456,7 @@
     "finalManagementComment": "Rectified - and closed"
   },
   {
-    "id": "1fb2ec91-1fc6-4319-a0dd-ab59d3e3c8ca",
+    "id": "3b8aa0d4-8bf0-40ab-967f-1a9cb7d6296f",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Not compliant with MLC",
@@ -3474,7 +3474,7 @@
     "finalManagementComment": "Owner is well informed numbers of time regarding this situation. Despite that we are pushing him to resolve the salaries."
   },
   {
-    "id": "5ec85e5f-00c6-41c6-b982-fd0efc3afc95",
+    "id": "01523bb3-95b9-4d9d-acc7-6feeb89d02ed",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Towing hook",
@@ -3492,7 +3492,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9ad37daf-075a-41eb-aa13-55de3ba92949",
+    "id": "e2590fcb-8a1c-4918-b44d-ea7a3142c93d",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Key for fire hose coupling",
@@ -3510,7 +3510,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5e241a90-a784-473d-a6ab-32a3e9426ac6",
+    "id": "c081e8a3-7cb4-4eb5-b972-9bdb387f7224",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Sprinklers for windows on bridge",
@@ -3528,7 +3528,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "529cecc7-5470-4b47-9576-9420a3b6f2ba",
+    "id": "94844df6-6874-4c73-876c-4ec88a051b52",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Satellite and Magnetic Compass",
@@ -3546,7 +3546,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f432e32b-8d52-447c-84a9-59041b5f17ed",
+    "id": "b3e387cb-637d-408d-a486-1932720f7696",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Gangway",
@@ -3564,7 +3564,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e2c14155-c70a-4c6b-a1e4-b9400ab392bd",
+    "id": "170cd09d-be54-4061-94e5-21a42361d27d",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Rescue Sling",
@@ -3582,7 +3582,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e05fa82e-ed17-4369-9b2a-a61e23ad593a",
+    "id": "5f2b2dbe-98eb-4e64-9c2b-ed8b7d6fcf03",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "Emergency Hatch covered with plastic",
@@ -3600,7 +3600,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "6b218687-47bd-4ba4-b21d-bd2bc9b19f55",
+    "id": "9a26d939-4e56-4bb5-97e0-18803ba26640",
     "vessel": "Herkules",
     "type": "NC",
     "title": "NC001",
@@ -3618,7 +3618,7 @@
     "finalManagementComment": "Medical chest certificate renewed."
   },
   {
-    "id": "987b6a94-1c3e-45a0-91c4-c4c5f05f5f9b",
+    "id": "77e5aedc-b59f-47c0-b720-ae633e805576",
     "vessel": "Herkules",
     "type": "NC",
     "title": "Crew working",
@@ -3636,7 +3636,7 @@
     "finalManagementComment": "Master to ensure that corrective action are followed."
   },
   {
-    "id": "d4534f5c-5b2a-416a-a942-605d5ce79cd5",
+    "id": "16e9e737-0bb7-49cb-bc8e-2a0b43a1b658",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-06",
@@ -3654,7 +3654,7 @@
     "finalManagementComment": "All items as per FS plan must be in place. Procedures to be followed."
   },
   {
-    "id": "2788613d-2f20-4b7a-a3bd-7cb6da49b45d",
+    "id": "8b5c2cfb-31a4-4bda-9fa1-5729e4bfc046",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "PSC-05",
@@ -3672,7 +3672,7 @@
     "finalManagementComment": "C/E and the crew adjusted the doors so it closes tightly."
   },
   {
-    "id": "ba864d72-229e-4b00-9d3c-7a77471bab65",
+    "id": "5d0829a4-601f-4c40-884f-e9d7bd7fcc98",
     "vessel": "Herkules",
     "type": "OBS",
     "title": "PSC-04",
@@ -3690,7 +3690,7 @@
     "finalManagementComment": "Approved."
   },
   {
-    "id": "4a933b2b-c02a-4a95-ae31-a9f945a817be",
+    "id": "9362e50b-efb8-48b5-b9e7-d2742aceb8d8",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-03",
@@ -3708,7 +3708,7 @@
     "finalManagementComment": "Crew was instructed that such actions cannot be performed in any case. All fire detectors must be free from cover."
   },
   {
-    "id": "6d0d6297-97f7-4592-91f8-d975f6fb6667",
+    "id": "4093c093-5e35-4f1f-8b84-86234944f91f",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-02",
@@ -3726,7 +3726,7 @@
     "finalManagementComment": "IMO sign was requested and ordered by Master, will be delivered in Stavanger."
   },
   {
-    "id": "8dae7fdf-82e3-4f2b-a9af-b32e901b09df",
+    "id": "b6622b64-84ed-43fd-9a6c-91f7513ff3fe",
     "vessel": "Herkules",
     "type": "NC",
     "title": "PSC-01",
@@ -3744,7 +3744,7 @@
     "finalManagementComment": "Approved."
   },
   {
-    "id": "404f805a-abac-4440-9197-50b588b20117",
+    "id": "313636b4-1d62-4b11-b053-610b19808d1e",
     "vessel": "Argus",
     "type": "NC",
     "title": "Non-compliance PWOM",
@@ -3762,7 +3762,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c3d2e774-a43e-4828-9789-9357c9693d05",
+    "id": "ca0bfe6c-ade1-4b72-b240-816b88804348",
     "vessel": "Argus",
     "type": "NC",
     "title": "Obsolete document - MEP",
@@ -3780,7 +3780,7 @@
     "finalManagementComment": "Case will be closed when MEP will be updated."
   },
   {
-    "id": "bf4a634d-a8ca-442e-a8b6-b3d9a7b8cd50",
+    "id": "ad79af67-3d1e-4cfb-9bb3-90a5966af2f4",
     "vessel": "Argus",
     "type": "NC",
     "title": "Defective Immersion Suits",
@@ -3798,7 +3798,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4e5e9cea-0849-47ec-a680-bda82bad7308",
+    "id": "afe1b058-fc65-433f-b83b-03b4b185424f",
     "vessel": "Argus",
     "type": "NC",
     "title": "Loss of Access to MARAD (PMS)",
@@ -3816,7 +3816,7 @@
     "finalManagementComment": "We constantly reminding owenr to reinstate the MARAD and pay overdues. NC will be closed when MARAD lisense will be renewed."
   },
   {
-    "id": "8655cb9c-1878-4000-a9eb-d268183ee1a1",
+    "id": "36405c33-d239-4e57-91e5-b1e2759f169c",
     "vessel": "Argus",
     "type": "NC",
     "title": "Discrepancies in Garbage Management Plan (GMP)",
@@ -3834,7 +3834,7 @@
     "finalManagementComment": "Revision will be made"
   },
   {
-    "id": "9b4b86d8-7f1e-46ea-b740-1f3d7154d6ea",
+    "id": "31659372-28ae-45fb-a2ec-db6d3677c7ca",
     "vessel": "Argus",
     "type": "OBS",
     "title": "REC 26-02 Cleanliness in ER can be improved.",
@@ -3852,7 +3852,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "9bb9f358-6224-4881-b0aa-4336af3430e2",
+    "id": "fedb2ddd-10a4-4d95-a1b1-ccd9bf817f21",
     "vessel": "Argus",
     "type": "OBS",
     "title": "REC 26-01 Medicine in hospital not sorted out",
@@ -3870,7 +3870,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "7f987927-a25b-4f12-b48c-865c33f8836c",
+    "id": "80ff6850-8d06-48d3-ae83-76a999392a05",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-05 Salaries are late (Owner)",
@@ -3888,7 +3888,7 @@
     "finalManagementComment": "We urged owner to pay the salaries within one month. Owner has now big issues with payments, due to 3 vessels being stopped in operations and in docked. If salaries will not be paid, we will take decision on next action. Salaries are paid up to February'26 Salaries settled up."
   },
   {
-    "id": "2921a8e4-1f13-40c7-a0cb-c5bfb4f78bfc",
+    "id": "bf737ead-76a9-4b42-9e79-25abbc971a89",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-04 Petrol/Diesel stored in ventilation room",
@@ -3906,7 +3906,7 @@
     "finalManagementComment": "We have instructed the crew to move the tanks out of the ventilation room, because gases can escape and go inside the ventilation system. Ventilation locker cleaned out from gasoline container and other unnecessary items, the gasoline stored in helicopter fuel pump room. Evidence provided."
   },
   {
-    "id": "116a2e73-007a-45fd-895b-e29942f0a067",
+    "id": "b25c1f5c-916f-441a-b57c-db532a4477cb",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-03 Freezer temperature not monitored",
@@ -3924,7 +3924,7 @@
     "finalManagementComment": "We have instructed cook that he needs to monitor temperature on freezers/fridges daily and log it on the checklist. Cook is now monitoring the temperature of the fridges/freezers. Evidence provided."
   },
   {
-    "id": "e42a38f1-66ee-4de9-afd0-2f57cf918ee3",
+    "id": "8b2e6137-e287-46da-ad0b-c6e0d394b1e5",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-02 SSP not in place",
@@ -3942,7 +3942,7 @@
     "finalManagementComment": "We instructed Captain that SSP must be in secure locked place, in captain's cabin, due to the confidential information. SSP has been put in the ships safe. Evidence provided."
   },
   {
-    "id": "4e4fb14e-9684-45cc-bda8-bc1502b4e0ca",
+    "id": "f1135c07-3308-4aff-9b98-71cd364b61b9",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 26-01 Rest hours",
@@ -3960,7 +3960,7 @@
     "finalManagementComment": "Captain must ensure that rest hours reflects actual rest. Records of rest hours now filled propely, evidence provided."
   },
   {
-    "id": "9788f618-cf71-452f-a19b-afda78011532",
+    "id": "3489f2b5-1546-4aaf-b69f-086e44793041",
     "vessel": "Argus",
     "type": "NC",
     "title": "Overdue external audit",
@@ -3978,7 +3978,7 @@
     "finalManagementComment": "Vessel is released. Surveys of class will be in Las Palmas. Internal audit scheduled 01.2026"
   },
   {
-    "id": "83612b06-25c8-4c51-b7f1-11e61077806d",
+    "id": "45f2f7c6-1f33-4fc5-a81e-9bd764725a32",
     "vessel": "Argus",
     "type": "NC",
     "title": "Lifting of heavy items in engine room with expired lifting gear",
@@ -3996,7 +3996,7 @@
     "finalManagementComment": "NC accepted. Although lifting gear was inspected and safe to use, certification had expired and Danish regulations were not met. Gear has now been re-certified and passed inspection. Procedures adjusted to ensure timely re-certification in future."
   },
   {
-    "id": "b449dc83-903a-4d25-a4ff-b9843a2e1166",
+    "id": "c153ea49-1b87-4734-881a-dd2ac1085747",
     "vessel": "Argus",
     "type": "NC",
     "title": "Lifting of machinery equipment",
@@ -4014,7 +4014,7 @@
     "finalManagementComment": "NC accepted. Although lifting gear was inspected and safe to use, certification had expired and Danish regulations were not met. Gear has now been re-certified and passed inspection. Procedures adjusted to ensure timely re-certification in future."
   },
   {
-    "id": "b2c9ae8f-c4c8-4d66-84b7-537c4060019f",
+    "id": "52c0feb3-692c-4b1a-bfe1-be009f2de79d",
     "vessel": "Argus",
     "type": "NM",
     "title": "Ch.Eng Volodymyr Levchenk ankel acident on the 10th november",
@@ -4032,7 +4032,7 @@
     "finalManagementComment": "Monitoring on confined spaces should be done in adequate intervals, so no loose or dropped items are on the floor. Require the use of appropriate safety footwear and other PPE"
   },
   {
-    "id": "71b5a3ec-5a90-4f1b-97b2-a5e4542764ff",
+    "id": "0eef3823-2466-4910-b1aa-fa686e0cec19",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Recomodation 2. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4050,7 +4050,7 @@
     "finalManagementComment": "number of eye washes reduced to 6"
   },
   {
-    "id": "38c37c30-eeca-45de-9e58-0d5d22430ad4",
+    "id": "8d50bcc7-ddff-41a8-828d-0306318b96b5",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Recomodation 1.  Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4068,7 +4068,7 @@
     "finalManagementComment": "Done by crew"
   },
   {
-    "id": "cfe91e19-b533-4bba-8fb8-47f6e5fd4d74",
+    "id": "34e59fda-3656-45d3-bfc3-a93cd4440d51",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 5 Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4086,7 +4086,7 @@
     "finalManagementComment": "New on acquired"
   },
   {
-    "id": "997f75fa-ca78-446c-b84e-b5bd065984f7",
+    "id": "2c3ccbec-b955-47df-afac-616a03ac871f",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 4. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4104,7 +4104,7 @@
     "finalManagementComment": "Fire plan updated with new crew list"
   },
   {
-    "id": "078c32c5-53da-4be2-aaa7-c728bb9e6562",
+    "id": "bfe2f656-61b1-4744-88b1-49f017bfdb6f",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 3. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4122,7 +4122,7 @@
     "finalManagementComment": "All eye wash stations renewed"
   },
   {
-    "id": "5c6ae1db-2af4-4707-bfaa-92d737a3d337",
+    "id": "8b1beff8-637f-40c4-ab45-6f891d55a12f",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 2. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4140,7 +4140,7 @@
     "finalManagementComment": "Done"
   },
   {
-    "id": "f17b1bff-f332-4fe1-9fb1-3fc6353b1906",
+    "id": "1f4888fb-e751-408c-a965-4d0d8999667c",
     "vessel": "Argus",
     "type": "NC",
     "title": "NC 1. Extra Internal Audit on the 3d and 4th of November 2023",
@@ -4158,7 +4158,7 @@
     "finalManagementComment": "NC closed as new gyros was fitted."
   },
   {
-    "id": "58b04b50-b397-474f-ae91-67f1148a24d6",
+    "id": "5550ace0-42ce-4095-967d-9e224332f587",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 13",
@@ -4176,7 +4176,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e2125740-1f0a-48be-aeca-3f4911b8b19c",
+    "id": "0c500492-5eec-48bd-a44e-d72c493f490a",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 12",
@@ -4194,7 +4194,7 @@
     "finalManagementComment": "Crew must report malfunctions as soon as possible in order to repair these."
   },
   {
-    "id": "b6f8038e-91ed-4b3d-9396-302704f12def",
+    "id": "295c9318-cbce-441c-ac85-a492d086c64a",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 11",
@@ -4212,7 +4212,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8a8216a5-ac45-45a5-80ea-9898d344da9e",
+    "id": "3bcabceb-afd3-4910-9442-ed79cc7419bb",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 10",
@@ -4230,7 +4230,7 @@
     "finalManagementComment": "Crew instructed accordingly, shipping.fo will follow up."
   },
   {
-    "id": "8cfff20b-8ef3-4028-b719-ef7a2eeda4e2",
+    "id": "75ea1cb2-96d2-4e14-86bd-c47b143ffcd9",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 9",
@@ -4248,7 +4248,7 @@
     "finalManagementComment": "Crew instructed accordingly, shipping.fo will follow up."
   },
   {
-    "id": "2cbf81ea-3fcb-4eb7-a066-9115dc0fcf33",
+    "id": "0bf83240-8099-47fd-8fa5-1831d32d0022",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 8",
@@ -4266,7 +4266,7 @@
     "finalManagementComment": "Crew instructed to be more observant, shipping.fo will follow up."
   },
   {
-    "id": "6c19992f-b779-4d85-a15b-c5fe315d41b0",
+    "id": "8197adcb-7bd2-4cec-aea7-9ffe396ddd77",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 7",
@@ -4284,7 +4284,7 @@
     "finalManagementComment": "Engine crew to follow maintenance and check procedures, shipping.fo will follow up."
   },
   {
-    "id": "73ccb994-1719-48fc-bdb1-1e5cb5a5e882",
+    "id": "3747a3c0-7317-45f5-88df-b6650f25035d",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 6",
@@ -4302,7 +4302,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "165b17c7-5b14-46d1-861f-947067d8f148",
+    "id": "7616e4de-7fc6-4b48-abb6-0b5916067a4a",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 5",
@@ -4320,7 +4320,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a6940b7a-4177-4f7b-b3bb-c4295382a81e",
+    "id": "2ecfc816-5ac4-4923-959a-6b8a3259c3af",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 4",
@@ -4338,7 +4338,7 @@
     "finalManagementComment": "Crew instructed to dispose of this at regular intervals."
   },
   {
-    "id": "38336582-dc9d-41a6-8917-0ef459ed6212",
+    "id": "ae113772-6d32-4c9a-9a13-f3d5d505125a",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port State control 19.09.23 DEF 3",
@@ -4356,7 +4356,7 @@
     "finalManagementComment": "New crew lack of training PSC was informed that the crew is new"
   },
   {
-    "id": "bc6415ac-1a99-4525-8f60-38b482791f82",
+    "id": "d28de0d6-4ece-4008-a18a-7794d84846ce",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port state control DEF 2",
@@ -4374,7 +4374,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8d5bf9fa-6058-47e3-9028-f20c335b4621",
+    "id": "e401a1c5-3c59-4b79-a47e-9123a5bd4b9d",
     "vessel": "Argus",
     "type": "NC",
     "title": "Port state control DEF 1",
@@ -4392,7 +4392,7 @@
     "finalManagementComment": "More care from the crew’s side, shipping.fo will follow up"
   },
   {
-    "id": "e985d312-10e3-4fd6-8562-56f8198f985b",
+    "id": "6cb535e1-b20a-482c-af15-2c7db3fa148d",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Internal Audit Observation #1 - 10",
@@ -4410,7 +4410,7 @@
     "finalManagementComment": "We will follow up on Observations at the next visit on board."
   },
   {
-    "id": "1a737dca-52aa-4dda-b10e-53c4a1e11310",
+    "id": "024fb878-49d8-4e38-9e39-b05ebe5e3082",
     "vessel": "Argus",
     "type": "OBS",
     "title": "Internal Audit REC #1",
@@ -4428,7 +4428,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "3b0a3e7c-a639-4d88-b4ba-1711956eab01",
+    "id": "265a9693-9f28-4b76-a28d-8d8ef3229c34",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #6",
@@ -4446,7 +4446,7 @@
     "finalManagementComment": "NC closed - will be followed up."
   },
   {
-    "id": "8e8d925a-183a-4154-8a31-3157445cbb72",
+    "id": "a1a6edc9-40b7-4335-8972-33993cf1063c",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #5",
@@ -4464,7 +4464,7 @@
     "finalManagementComment": "NC closed - but will be followed up."
   },
   {
-    "id": "b4d8740f-df52-420b-bafd-bddbdd23c48d",
+    "id": "165083dc-4b43-4f47-8ddf-5a64a4e80bd7",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #4",
@@ -4482,7 +4482,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "35768ded-c7c8-4877-979b-1f5925912a21",
+    "id": "06694dcf-d8f6-47fe-b525-942f739d5f0c",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #3",
@@ -4500,7 +4500,7 @@
     "finalManagementComment": "NC closed."
   },
   {
-    "id": "3605bb6f-ab2e-4906-a106-cfc9c069df0b",
+    "id": "8e58554e-3f9f-4890-810b-46ed8120f427",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #2",
@@ -4518,7 +4518,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5cd24cc6-88b2-41c9-82a6-f674856ddb66",
+    "id": "c06a6237-cee3-4534-93ad-eaedb0b0d2b0",
     "vessel": "Argus",
     "type": "NC",
     "title": "Internal Audit NC #1",
@@ -4536,7 +4536,7 @@
     "finalManagementComment": "Crew are following procedures - case closed."
   },
   {
-    "id": "5a2e9354-60cf-4f9d-977a-eb8327d9e0ee",
+    "id": "ad9818dc-174c-42f5-b35f-ec3f51a2126d",
     "vessel": "Argus",
     "type": "NC",
     "title": "External MLC Inspection - DEF. 1 - Paint and Chemicals on board.",
@@ -4554,7 +4554,7 @@
     "finalManagementComment": "Sanitation of chemicals carried out - case closed."
   },
   {
-    "id": "39e1529f-abc1-483d-badf-409cd10893a7",
+    "id": "0147349b-5fed-476b-8c6e-5036dcd32408",
     "vessel": "Argus",
     "type": "NC",
     "title": "External ISM Audit - NC 2 - Minimum Safe Manning Dokument not covering operation Area",
@@ -4572,7 +4572,7 @@
     "finalManagementComment": "Both office and vessel will check certificates etc. more carefully in the future."
   },
   {
-    "id": "d2d003a0-eb25-489f-b1ef-6b8be50a69e7",
+    "id": "7e74866a-513d-4747-93a2-d2153a3acbd1",
     "vessel": "Argus",
     "type": "NC",
     "title": "External ISM Audit - NC 1 - Audit not performed timely.",
@@ -4590,7 +4590,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "a146c98f-4a37-4986-9a26-3b671321e7d9",
+    "id": "cd79d593-4b43-4dfd-90ef-66b65d005f5a",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 8.",
@@ -4608,7 +4608,7 @@
     "finalManagementComment": "Engineers instructed accordingly."
   },
   {
-    "id": "162eeeb3-c808-4ce3-a43b-bfbf9d14e00d",
+    "id": "df9d33fe-6be6-444a-b1cc-a744cda48f0b",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 7.",
@@ -4626,7 +4626,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f911f68b-8907-4894-a215-4ee5aab116fa",
+    "id": "379c5b3b-688f-467e-adcc-cc0ee70e052b",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 6.",
@@ -4644,7 +4644,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "84210e02-5e64-4efa-8627-8922d0ce7ddd",
+    "id": "139dc114-1624-41e4-b00e-e0ef421a9b16",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 5.",
@@ -4662,7 +4662,7 @@
     "finalManagementComment": "Rectified before departure."
   },
   {
-    "id": "51b77436-d5c5-4ae8-8f59-12bb246d7abe",
+    "id": "e6e4e3ea-ecc9-491e-ba4c-1030239a33af",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 4.",
@@ -4680,7 +4680,7 @@
     "finalManagementComment": "Rectified before departure."
   },
   {
-    "id": "8f6bc7aa-f5ba-4e07-91d7-e980b17081ae",
+    "id": "58f729cd-1e32-4df3-b40a-c5dbf7df2089",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 3.",
@@ -4698,7 +4698,7 @@
     "finalManagementComment": "Rectified before departure."
   },
   {
-    "id": "44257aba-27fe-4be1-8731-41ff2ebdb286",
+    "id": "aa81a12f-0be3-4988-a232-284584a73c86",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 2.",
@@ -4716,7 +4716,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "8142f3f5-5fd2-4784-8f54-a722d52b7022",
+    "id": "bab2a010-ca40-4819-b4a7-f1cab30bde0f",
     "vessel": "Argus",
     "type": "NC",
     "title": "PSC 03.06.2022 - Deficiency 1.",
@@ -4734,7 +4734,7 @@
     "finalManagementComment": "Procedures followed - NC closed"
   },
   {
-    "id": "b178b948-77a4-4bfe-9987-36d0d8195149",
+    "id": "8a84f741-3c30-49a5-9317-fbf60a2b1abe",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "No communication between bridge and deck stations",
@@ -4752,7 +4752,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "36728151-878c-48b5-8034-2908e8d0c195",
+    "id": "5036a3c0-df2b-4198-b35a-f04e3e7ed90f",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Alarm System Malfunction",
@@ -4770,7 +4770,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "c29812cd-48d1-4cb3-8552-1b391eb1f362",
+    "id": "107ccb0f-dc0d-4831-9f6e-478988fb86d6",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Echo Sounder Malfunction",
@@ -4788,7 +4788,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "f7919051-0253-41e8-9340-f0ff98226e02",
+    "id": "d2942e62-9a4c-44d9-a123-6f87ca6b5fbe",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Alarm System Malfunction",
@@ -4806,7 +4806,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "06a75e43-95c1-4e5d-9264-ca01e90ec4ff",
+    "id": "93e48b18-cd2a-45d4-bb21-ec06716347ad",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 01-2026 Missing  navigational lights",
@@ -4824,7 +4824,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "20258292-2ff8-42f3-9766-1402a9baff5c",
+    "id": "8023c021-1254-4d83-a639-7ac4c5c0f587",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 26-02 Salaries are late (Owner)",
@@ -4842,7 +4842,7 @@
     "finalManagementComment": "We urged owner to send us payment confirmation for the crew salaries."
   },
   {
-    "id": "0a0977b3-5712-4deb-a550-2144fe632076",
+    "id": "96e89264-1914-46d0-8b67-61764342b13b",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NC 26-01 Freezer temperature not monitored",
@@ -4860,7 +4860,7 @@
     "finalManagementComment": "Captain to ensure that procedure and instructions are followed. Logs provided. Case closed."
   },
   {
-    "id": "911144ed-06f5-42dd-ae22-74c89e3e7b96",
+    "id": "b17a44b1-72e7-4942-a33b-e199eea02d69",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Overdue internal audit",
@@ -4878,7 +4878,7 @@
     "finalManagementComment": "Audit performed on 30.01.2026"
   },
   {
-    "id": "3ef14c6a-6ce8-4ad9-8dad-2ab47b2c54b2",
+    "id": "30407192-45f7-4b26-b804-de56ad50a56f",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Freestanding cooker",
@@ -4896,7 +4896,7 @@
     "finalManagementComment": "New electric stove installed."
   },
   {
-    "id": "2d994cc9-13d9-4614-8b8f-0706cb43eb28",
+    "id": "5d12d365-6328-4795-8485-45c02d64faba",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Sewage pump",
@@ -4914,7 +4914,7 @@
     "finalManagementComment": "All above is fixed and in satisfactory condition."
   },
   {
-    "id": "f9cb676b-7858-4a8b-8330-0ff71768fca8",
+    "id": "29d78b65-f961-44e7-af46-0880c7948d4d",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "SB/S ME CPP unit fault",
@@ -4932,7 +4932,7 @@
     "finalManagementComment": "Technicion fixed the issues. ME CPP unit working correctly."
   },
   {
-    "id": "6533037e-71ab-47e8-ba76-5a0500f58d67",
+    "id": "e18ea3c4-1372-47ce-ac23-796d4f24e3e6",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Fire Alarm system fault",
@@ -4950,7 +4950,7 @@
     "finalManagementComment": "All in order and found satisfactory."
   },
   {
-    "id": "776f434c-d808-4da7-ac3d-290f82810d12",
+    "id": "fcd78529-45f8-4d76-ad49-e887c672b227",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #06",
@@ -4968,7 +4968,7 @@
     "finalManagementComment": "C/E was instructed to start doing handover according to the checklist and keep records of it."
   },
   {
-    "id": "2b3bc715-fcdc-46b8-b293-3f5f61be4f50",
+    "id": "459b55b6-0a4c-4295-848c-0757184d3f53",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #05",
@@ -4986,7 +4986,7 @@
     "finalManagementComment": "Captain was instructed to ensure that checklist be filled up accordingly."
   },
   {
-    "id": "5f35ecc5-8f80-460b-babf-f939d2482fd6",
+    "id": "5da0e099-dbef-4015-bf3d-25e90d86f2dc",
     "vessel": "Grettir Sterki",
     "type": "OBS",
     "title": "Internal audit finding #04",
@@ -5004,7 +5004,7 @@
     "finalManagementComment": "Instructed captain to order manual in working language"
   },
   {
-    "id": "bdcc6a22-861b-4856-838d-30d08a86707e",
+    "id": "d6f8b30e-7961-424d-a9ff-6f38e823e181",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #03",
@@ -5022,7 +5022,7 @@
     "finalManagementComment": "After discussion in the office internaly we have concluded that crew manager must ensure by receiving ir making the interviews with the seafarers before they join onboard."
   },
   {
-    "id": "f68e2c83-be66-426e-98f3-6664900467f5",
+    "id": "8b233a0e-751e-4e3f-9ff5-007c6b112d8b",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #02",
@@ -5040,7 +5040,7 @@
     "finalManagementComment": "OWS valve sealed and remark was made in ORB."
   },
   {
-    "id": "c143df88-7bf4-4e2e-b010-4d0d337d35a3",
+    "id": "05bb5e77-977a-4dad-b670-2b8aabe16bfe",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Internal audit finding #01",
@@ -5058,7 +5058,7 @@
     "finalManagementComment": "We have received renewed certificate."
   },
   {
-    "id": "96032279-f219-4c64-985f-1069c29a07f3",
+    "id": "2a634d57-fe54-47ab-a0b6-525d292eb479",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "NAVTEX",
@@ -5076,7 +5076,7 @@
     "finalManagementComment": "New navtex unit was ordered and installed."
   },
   {
-    "id": "cc8fc0e0-d2f2-405a-a724-6b9c354f237d",
+    "id": "69096342-0a38-4de6-8656-f50f227e2998",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 9: Shore based maintenence agreement expired.",
@@ -5094,7 +5094,7 @@
     "finalManagementComment": "Closed - but will be followed up by the management."
   },
   {
-    "id": "28185fdc-115e-40dc-baef-da85a56bfa6b",
+    "id": "8dee196f-88d1-4f70-970b-feea885ee477",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 8: The engine room was found in dirty and unorganized condition and the platform was slippery.",
@@ -5112,7 +5112,7 @@
     "finalManagementComment": "Closed - but will be monitored by the management."
   },
   {
-    "id": "757dea03-49cc-41fe-aada-d393e6047389",
+    "id": "bc5479f8-afe5-468c-a88b-bcf7a4958bc4",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 7: No milk was found onboard.",
@@ -5130,7 +5130,7 @@
     "finalManagementComment": "Closed - no furhter action."
   },
   {
-    "id": "a8fd48cf-1604-4c07-b2c7-f415c8664206",
+    "id": "606a8fab-0a45-4e6e-9a05-c97d7f58c80e",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 6: Engine room bilges full of oil.",
@@ -5148,7 +5148,7 @@
     "finalManagementComment": "CLosed - but will be followed up in the future."
   },
   {
-    "id": "7610bdeb-9644-4f15-b831-76af437bda05",
+    "id": "cb291e5a-1fbf-4754-89ae-4c4dec37f607",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #5 - Gauge on steering gear wasted.",
@@ -5166,7 +5166,7 @@
     "finalManagementComment": "Closed - but will be followed by the management."
   },
   {
-    "id": "918dca73-fbd0-4307-b4f1-bd9a44a17274",
+    "id": "2e7f20ae-c6c4-4947-ae8a-808ed66ff85d",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding # 4 - Steering gear alarms",
@@ -5184,7 +5184,7 @@
     "finalManagementComment": "Closed - but will be monitored by the management."
   },
   {
-    "id": "9495dc48-15ec-4407-abfa-0a8c199fae94",
+    "id": "c239afc8-9b0f-46bb-940a-d7d428be96f9",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #3 - Charts not onboard",
@@ -5202,7 +5202,7 @@
     "finalManagementComment": "Closed, but will be monitored by the management."
   },
   {
-    "id": "78856e4f-a8b7-44bb-af7b-034d7e721312",
+    "id": "d0fb72a1-192c-4de7-a7c6-d5528147eb92",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC Finding # 2: Deck area holed and corroded.",
@@ -5220,7 +5220,7 @@
     "finalManagementComment": "The anchor winch was dismantled, all corroded parts of the deck eas removed, and new syteel plates inserted."
   },
   {
-    "id": "00757192-b4e5-481b-8918-1fc18283f2d3",
+    "id": "6b0a8016-e189-4427-a01b-415b2ad99ee6",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "PSC finding #1: Emergency fire pump - not working.",
@@ -5238,7 +5238,7 @@
     "finalManagementComment": "Closed - but will be followed up by the management."
   },
   {
-    "id": "0377ee37-2c7b-474e-b744-616f789b2c2e",
+    "id": "430c25e5-425c-4692-ae98-ddc679d626af",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Water ingress to cahin lockers",
@@ -5256,7 +5256,7 @@
     "finalManagementComment": "Closed, but will be followed up by the management."
   },
   {
-    "id": "9b4e40b2-78d9-49e8-bf91-43e1a4731b5d",
+    "id": "f49e62c0-d7f1-4e40-becd-621894b4e137",
     "vessel": "Grettir Sterki",
     "type": "NC",
     "title": "Water ingress in Bow thuster room",
@@ -5274,7 +5274,7 @@
     "finalManagementComment": "Bilge alarm installed"
   },
   {
-    "id": "ddcb3e50-065b-4694-875a-98ae7bf6228b",
+    "id": "1fcff04d-fdb4-412f-9468-db1201d353e6",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "DSC VHF Antenna mounting bracket damage",
@@ -5292,7 +5292,7 @@
     "finalManagementComment": "The corrective actions received. The matter may be considered closed from the management side."
   },
   {
-    "id": "b2accd92-269c-4174-bd64-49e4dde1be8d",
+    "id": "e9e2f0e8-55d6-4c53-9a6e-efce8bf72b07",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "BWTS Container ventilation blockage",
@@ -5310,7 +5310,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "cf101fb7-e35c-4c0b-a47f-318d727b3945",
+    "id": "e7ec1f73-44af-40ef-9194-fa64d6b5568a",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Non-Compliance with PPE Requirements During Framo Pump Purging",
@@ -5328,7 +5328,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "e4038048-5e8e-4c74-bb3a-7badd13e0240",
+    "id": "756869bc-4e78-4899-a383-3d3006205f52",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Discrepancy in Rest Hours documentation",
@@ -5346,7 +5346,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "09f3607e-7e2d-44ab-94cc-491522506e16",
+    "id": "57dccdff-6740-46a6-b4d4-cbd0abcac803",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Enclosed Space Entering Procedures",
@@ -5364,7 +5364,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "21b931b0-b805-4ec4-84e1-3f1d37027d57",
+    "id": "4035d95d-aaed-4565-ab24-293f356158f4",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Safety matter during Backstow operation",
@@ -5382,7 +5382,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "df40d17d-d9f3-4a52-9700-bc6644e0b68b",
+    "id": "a958a169-6c5b-4374-8da5-f8f88a936c67",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC expired Class certificates",
@@ -5400,7 +5400,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "516a45ba-c152-4b84-b246-9469fc003720",
+    "id": "91578254-e01b-4227-8c1e-571ee059f3a1",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18408 Paint store",
@@ -5418,7 +5418,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "ccd8303c-0f87-4002-8ae3-4a1334ab3efa",
+    "id": "5fafa68f-6f09-4ba2-ade7-55a4d750d2c5",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18401 Medical Equipement",
@@ -5436,7 +5436,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "98042cf4-7d14-44a3-8677-a9f7090d2880",
+    "id": "79dc9985-0bf7-4bbc-a3a8-8ff77c2a0953",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "PSC 26-18408 Electrical box",
@@ -5454,7 +5454,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "dd18d81a-f90c-4d4a-9645-409adc6c26d5",
+    "id": "967f4332-5b20-464c-b495-876f52077cb0",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Emergency escape hatch from the engine room was found not operational, affecting safe emergency evacuation.",
@@ -5472,7 +5472,7 @@
     "finalManagementComment": "We acknowledge the seriousness of the finding, as emergency escape routes must remain fully operational at all times. The immediate corrective action taken on board is considered appropriate. The emergency escape hatch was repaired and tested, and additional checks of all emergency escape routes were carried out to verify their operational condition. We will add routine checks of emergency exits into PMS to prevent reocurrance."
   },
   {
-    "id": "b417709f-edfe-464d-96e3-2c04c174675f",
+    "id": "6abdd247-6ef5-4a29-b20e-437370884f94",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "REC 01/2026 - Internal Audit",
@@ -5490,7 +5490,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "4dc9dd29-28cf-429c-bfe6-2454e0fcd460",
+    "id": "16b33062-8d1d-4a8c-bf13-027ce01581c4",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 05/2026 - Internal Audit",
@@ -5508,7 +5508,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "2240cf30-8228-41bc-ad04-a8fff93a9579",
+    "id": "a2334697-b5c6-4cd3-ae4f-ed4361734772",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 04/2026 - Internal Audit",
@@ -5526,7 +5526,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "080e672f-932d-4bdf-94e6-b5b087a94681",
+    "id": "01ae3475-cb6a-4692-b474-2a475a8f8060",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 03/2026 - Internal Audit",
@@ -5544,7 +5544,7 @@
     "finalManagementComment": "Uploaded into SMS and posted on the wall."
   },
   {
-    "id": "019125c6-144d-4323-be28-c859e4164f7c",
+    "id": "072eb8f2-8500-42be-89fa-7307d0325d12",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 02/2026 - Internal Audit",
@@ -5562,7 +5562,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "0998c2d2-afa4-456a-bee9-287cdf2a2592",
+    "id": "db0eb21e-31db-4a68-bd5e-5a87da2f8dfc",
     "vessel": "Selvik Ice",
     "type": "OBS",
     "title": "OBS 01/2026 - Internal Audit",
@@ -5580,7 +5580,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "401886c2-1d27-4d94-8d04-02217fc226c0",
+    "id": "f9493ebc-2551-43c7-bc43-121f31f27c62",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 02/2026 - Internal Audit",
@@ -5598,7 +5598,7 @@
     "finalManagementComment": "We have implemented cargo plan checklists 7-0507I LOADING DISCHARGING BALLAST PLANNING"
   },
   {
-    "id": "1aeac678-e0a0-43c1-80a3-b26eb657775a",
+    "id": "2c69fd73-f136-494b-9e9f-c13173c06730",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 01/2026 - Internal Audit",
@@ -5616,7 +5616,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "39b4eb45-429d-40fc-b6d9-f2f7b7d81954",
+    "id": "8ae91fc1-cfd3-4c3f-9707-43d3c0f8817b",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "Near miss Helmsman seat",
@@ -5634,7 +5634,7 @@
     "finalManagementComment": "To be delegated to the ship`s superintendent."
   },
   {
-    "id": "21a4a9ca-16bc-4713-82da-fcc31502b9d6",
+    "id": "65b841d0-5d19-4250-85d2-7d6b8fd5fe8e",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 03-26 Tank Monitoring System",
@@ -5652,7 +5652,7 @@
     "finalManagementComment": ""
   },
   {
-    "id": "5991c798-2a1c-4bc9-b4c6-6b8fb3b44354",
+    "id": "d3aabbe7-112b-480d-891e-354551804881",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "NC 02-26 SUZUKI DF30A",
@@ -5670,7 +5670,7 @@
     "finalManagementComment": "SOLAS/LSA Code does not explicitly require Teleflex steering. It does not require remote throttle/gear control specifically. It requires the boat to be safe, controllable, and capable of maneuvering effectively Superindendent is responsible to check with owners how they want the boat steering to be made."
   },
   {
-    "id": "cc9d449e-c884-44ed-9391-019ff06f8e9a",
+    "id": "fac9a987-0c21-4f07-b4ee-ce7cc3a77434",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "AB not wearing a PPE",
@@ -5688,7 +5688,7 @@
     "finalManagementComment": "Management has reviewed the near-miss involving a crew member working on deck without a safety helmet. Although no injury occurred, the situation had the potential to result in serious harm. Immediate corrective actions were taken, including a safety briefing, reinforcement of mandatory PPE requirements, increased supervision, and confirmation that this near-miss will be referred to during upcoming toolbox talks and safety meetings. If near-miss reocurs, verbal warnings may be issued to the crew. The near-miss is considered closed."
   },
   {
-    "id": "706c30e9-f4ac-4c36-8914-6f6001ff1a4e",
+    "id": "70a7f562-6125-4720-aad8-0ad5faf66045",
     "vessel": "Selvik Ice",
     "type": "NM",
     "title": "ER Hot Water Heaters",
@@ -5706,7 +5706,7 @@
     "finalManagementComment": "Management has reviewed the near-miss involving overheating of fuses supplying the ER hot water electric heaters. The investigation confirmed that when both heaters operate simultaneously, the combined load is close to the rated capacity of the installed 63A fuses, leading to overheating and increased fire risk. As an immediate risk-control measure, operation has been limited to one heater only. Electrical schematics and load measurements were reviewed together with a shore electrician, confirming that the existing cable and fuse rating are marginal for simultaneous operation. Permanent corrective action will be evaluated, including upgrading the supply cables and protective devices to an appropriate rating in accordance with load requirements. The near-miss has been addressed, risk mitigated, and the case is considered closed, subject to implementation of the permanent corrective action."
   },
   {
-    "id": "bc3c5136-334f-4c66-9eee-a41bf9855a60",
+    "id": "2828f9ca-4765-454b-a610-21b8f39cb5f2",
     "vessel": "Selvik Ice",
     "type": "NC",
     "title": "Free-Fall Lifeboat Davit Rollers",
